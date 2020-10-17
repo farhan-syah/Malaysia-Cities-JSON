@@ -1,0 +1,6505 @@
+[
+  {
+    "id": "304981440",
+    "lat": "3.1874261",
+    "long": "113.0472803",
+    "name": "Bintulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493407",
+    "lat": "4.7001176",
+    "long": "115.339219",
+    "name": "Kampung Kuala Briwang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493473",
+    "lat": "4.941583",
+    "long": "115.2361903",
+    "name": "Awat-Awat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493579",
+    "lat": "4.6799298",
+    "long": "114.9815603",
+    "name": "Kampung Berawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493618",
+    "lat": "4.6701264",
+    "long": "114.812118",
+    "name": "Batu Danau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493805",
+    "lat": "4.7681004",
+    "long": "115.540442",
+    "name": "Kampung Puteh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369493837",
+    "lat": "4.8927601",
+    "long": "115.3487038",
+    "name": "Kampung Punang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369495863",
+    "lat": "4.8886918",
+    "long": "115.2084606",
+    "name": "Sundar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369495900",
+    "lat": "4.7534355",
+    "long": "115.0093036",
+    "name": "Limbang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369495987",
+    "lat": "4.8596843",
+    "long": "115.4082501",
+    "name": "Lawas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369496014",
+    "lat": "4.7468465",
+    "long": "115.4034777",
+    "name": "Long Sabulon",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369496052",
+    "lat": "4.6142168",
+    "long": "115.3340566",
+    "name": "Long Tengoa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "369496081",
+    "lat": "4.7848949",
+    "long": "115.2742013",
+    "name": "Trusan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "689361883",
+    "lat": "1.5132771",
+    "long": "110.7404984",
+    "name": "Sadong Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1102358605",
+    "lat": "3.7479196",
+    "long": "115.4603708",
+    "name": "Bario",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319904249",
+    "lat": "3.7089884",
+    "long": "114.1894055",
+    "name": "Lapok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319904260",
+    "lat": "3.7624271",
+    "long": "114.4051654",
+    "name": "Long Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319904293",
+    "lat": "3.794959",
+    "long": "114.734076",
+    "name": "Long Bedian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319904691",
+    "lat": "3.9464458",
+    "long": "114.5437887",
+    "name": "Long Panai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319904736",
+    "lat": "3.8297043",
+    "long": "114.7081544",
+    "name": "Long Atip",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1319905168",
+    "lat": "3.9859664",
+    "long": "114.6324034",
+    "name": "Long Terawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1423401081",
+    "lat": "1.6636433",
+    "long": "110.4321401",
+    "name": "Bako Bazaar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1424328857",
+    "lat": "1.2424307",
+    "long": "110.2921881",
+    "name": "Kampung Bayur",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1424328860",
+    "lat": "1.3069042",
+    "long": "110.2953107",
+    "name": "Kampung Benuk",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1424328863",
+    "lat": "1.3988901",
+    "long": "110.3312219",
+    "name": "Semenggoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1549433315",
+    "lat": "3.803022",
+    "long": "113.7553765",
+    "name": "Batu Niah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1665446024",
+    "lat": "1.2713373",
+    "long": "110.361398",
+    "name": "Kampung Simpok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1665446076",
+    "lat": "1.2896146",
+    "long": "110.3506691",
+    "name": "Kampung Sarig",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1665446077",
+    "lat": "1.3031086",
+    "long": "110.3559172",
+    "name": "Kampung Pesa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1665446415",
+    "lat": "1.310981",
+    "long": "110.3499825",
+    "name": "Kampung Tabuan Rabak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1665450277",
+    "lat": "1.2489334",
+    "long": "110.2563615",
+    "name": "Kampung Bengoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1718854070",
+    "lat": "1.7197749",
+    "long": "110.3181311",
+    "name": "Kampung Santubong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1956126782",
+    "lat": "1.2641133",
+    "long": "110.3205818",
+    "name": "Kampung Jambu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1956126784",
+    "lat": "1.2217872",
+    "long": "110.378024",
+    "name": "Kampung Peraya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1956126786",
+    "lat": "1.2323688",
+    "long": "110.3940154",
+    "name": "Kampung Stabut",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1956126788",
+    "lat": "1.2657437",
+    "long": "110.4133862",
+    "name": "Kampung Maang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990594706",
+    "lat": "1.3160764",
+    "long": "110.2769854",
+    "name": "Kampung Giam Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990595242",
+    "lat": "1.316129",
+    "long": "110.3976044",
+    "name": "Kampung Keromboi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596178",
+    "lat": "1.3164394",
+    "long": "110.3880845",
+    "name": "Kampung Patung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596189",
+    "lat": "1.3188319",
+    "long": "110.3782045",
+    "name": "Kampung Menjau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596354",
+    "lat": "1.3155558",
+    "long": "110.3653434",
+    "name": "Kampung Pulau Kandis",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596363",
+    "lat": "1.316558",
+    "long": "110.3395807",
+    "name": "Kampung Bangau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596480",
+    "lat": "1.321449",
+    "long": "110.332328",
+    "name": "Kampung Sitaang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596527",
+    "lat": "1.3259111",
+    "long": "110.3415977",
+    "name": "Kampung Petag",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990596939",
+    "lat": "1.3339287",
+    "long": "110.3445991",
+    "name": "Kampung Simboh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990597361",
+    "lat": "1.341957",
+    "long": "110.3437435",
+    "name": "Kampung Sikog",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990597519",
+    "lat": "1.3616926",
+    "long": "110.3457605",
+    "name": "Kampung Mambong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990597543",
+    "lat": "1.3661116",
+    "long": "110.3319417",
+    "name": "Kampung Sibatuh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990601194",
+    "lat": "1.3806558",
+    "long": "110.373398",
+    "name": "Kampung Seratau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990603389",
+    "lat": "1.3583247",
+    "long": "110.3865408",
+    "name": "Kampung Duras",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604006",
+    "lat": "1.3471055",
+    "long": "110.3734838",
+    "name": "Kampung Sentah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604123",
+    "lat": "1.3357789",
+    "long": "110.3966581",
+    "name": "Kampung Tijirak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604276",
+    "lat": "1.3412277",
+    "long": "110.4000055",
+    "name": "Kampung Sinjok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604324",
+    "lat": "1.3445216",
+    "long": "110.3945091",
+    "name": "Kampung Siga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604342",
+    "lat": "1.3542703",
+    "long": "110.3950702",
+    "name": "Kampung Sg. Duuh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990604527",
+    "lat": "1.3932692",
+    "long": "110.4158842",
+    "name": "Kampung Beradau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990605945",
+    "lat": "1.3573175",
+    "long": "110.3008786",
+    "name": "Kampung Bawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990606137",
+    "lat": "1.3432012",
+    "long": "110.3095829",
+    "name": "Kampung Punau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990609103",
+    "lat": "1.2955349",
+    "long": "110.4131376",
+    "name": "Tapah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990609104",
+    "lat": "1.3614996",
+    "long": "110.4043453",
+    "name": "Siburan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990609105",
+    "lat": "1.408757",
+    "long": "110.3646432",
+    "name": "Kampung Kuap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990609106",
+    "lat": "1.35898",
+    "long": "110.3193429",
+    "name": "Kampung Bratan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990609107",
+    "lat": "1.3126108",
+    "long": "110.4082881",
+    "name": "Beratok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990660830",
+    "lat": "1.2293544",
+    "long": "110.3353854",
+    "name": "Kampung Serumah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990661130",
+    "lat": "1.2171807",
+    "long": "110.3477044",
+    "name": "Kampung Gayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990668532",
+    "lat": "1.2298163",
+    "long": "110.3129045",
+    "name": "Kampung Payang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990668535",
+    "lat": "1.2015308",
+    "long": "110.3331691",
+    "name": "Kampung Begu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990677287",
+    "lat": "1.195288",
+    "long": "110.3617507",
+    "name": "Kampung Pesang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990677368",
+    "lat": "1.2078178",
+    "long": "110.3652875",
+    "name": "Teng Bukap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990678158",
+    "lat": "1.2032703",
+    "long": "110.3804477",
+    "name": "Kampung Krian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990679057",
+    "lat": "1.1949447",
+    "long": "110.4055673",
+    "name": "Kampung Sira",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990683848",
+    "lat": "1.2075591",
+    "long": "110.4672796",
+    "name": "Kampung Taee",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990685439",
+    "lat": "1.2073767",
+    "long": "110.4402242",
+    "name": "Kampung Plaman Nyabet",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990981176",
+    "lat": "1.2854156",
+    "long": "110.2810539",
+    "name": "Kampung Karu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990981866",
+    "lat": "1.2946829",
+    "long": "110.2812256",
+    "name": "Kampung Garung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990982383",
+    "lat": "1.2941878",
+    "long": "110.2720587",
+    "name": "Kampung Semadang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990982752",
+    "lat": "1.3561913",
+    "long": "110.2662564",
+    "name": "Kampung Git",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990985023",
+    "lat": "1.2294675",
+    "long": "110.1866401",
+    "name": "Kampung Semban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990987344",
+    "lat": "1.2542726",
+    "long": "110.1797817",
+    "name": "Kampung Rejoi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990989016",
+    "lat": "1.1985753",
+    "long": "110.2156509",
+    "name": "Kampung Kiding",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990990946",
+    "lat": "1.1730765",
+    "long": "110.2219801",
+    "name": "Kampung Parang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990991384",
+    "lat": "1.1851022",
+    "long": "110.2323661",
+    "name": "Kampung Kambug",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990992717",
+    "lat": "1.1553934",
+    "long": "110.2657195",
+    "name": "Kampung Annah Rais",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990993433",
+    "lat": "1.207998",
+    "long": "110.270169",
+    "name": "Kampung Timurang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1990993548",
+    "lat": "1.2117758",
+    "long": "110.2626271",
+    "name": "Kampung Jabir",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991037341",
+    "lat": "1.1772939",
+    "long": "110.3797592",
+    "name": "Kampung Subang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991037821",
+    "lat": "1.2341463",
+    "long": "110.3052527",
+    "name": "Kampung Sigandar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991038920",
+    "lat": "1.1638427",
+    "long": "110.3023399",
+    "name": "Kampung Semeru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991041421",
+    "lat": "1.1801895",
+    "long": "110.3039181",
+    "name": "Kampung Blimbing Kawa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991042399",
+    "lat": "1.1801638",
+    "long": "110.3012648",
+    "name": "Kampung Darul Islam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1991050989",
+    "lat": "1.349911",
+    "long": "110.3977836",
+    "name": "Kampung Masaan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992405851",
+    "lat": "1.2345861",
+    "long": "110.4297427",
+    "name": "Kampung Chupak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992411734",
+    "lat": "1.2625603",
+    "long": "110.4249361",
+    "name": "Kampung Sg Riset",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445216",
+    "lat": "1.3790873",
+    "long": "110.2187708",
+    "name": "Kampung Sogo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445217",
+    "lat": "1.3953293",
+    "long": "110.2745281",
+    "name": "Kampung Sebetong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445218",
+    "lat": "1.435268",
+    "long": "110.2327934",
+    "name": "Kampung Peninjau Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445219",
+    "lat": "1.4231911",
+    "long": "110.2381686",
+    "name": "Kampung Sega",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445220",
+    "lat": "1.3856086",
+    "long": "110.233877",
+    "name": "Kampung Segubang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445221",
+    "lat": "1.3584939",
+    "long": "110.1864985",
+    "name": "Kampung Seropak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445225",
+    "lat": "1.3758267",
+    "long": "110.2107027",
+    "name": "Kampung Skio",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445227",
+    "lat": "1.4094624",
+    "long": "110.235937",
+    "name": "Kampung Kopit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992445228",
+    "lat": "1.3725017",
+    "long": "110.1901892",
+    "name": "Kampung Seromah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992448243",
+    "lat": "1.4003671",
+    "long": "110.2077845",
+    "name": "Kampung Merimbeh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992448244",
+    "lat": "1.3953904",
+    "long": "110.1873568",
+    "name": "Kampung Skiat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992458069",
+    "lat": "1.2546588",
+    "long": "110.4593752",
+    "name": "Kampung Panchor Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992458070",
+    "lat": "1.2847774",
+    "long": "110.4379169",
+    "name": "Kampung Rituh Labuan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992459227",
+    "lat": "1.2597586",
+    "long": "110.490555",
+    "name": "Kampung Tian Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1992468655",
+    "lat": "1.2453897",
+    "long": "110.4318112",
+    "name": "Kampung Plaman Payang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1999599688",
+    "lat": "1.3894094",
+    "long": "110.3529417",
+    "name": "Kampung Sidanu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "1999599979",
+    "lat": "1.3870926",
+    "long": "110.3653013",
+    "name": "Kampung Peramas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2000788090",
+    "lat": "1.2556779",
+    "long": "110.4335796",
+    "name": "Kampung Sekuduk",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010817830",
+    "lat": "1.1914163",
+    "long": "110.2146282",
+    "name": "Kampung Kakas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010817833",
+    "lat": "1.2018578",
+    "long": "110.2431699",
+    "name": "Kampung Nusaraya Maras",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010817835",
+    "lat": "1.1773707",
+    "long": "110.1978281",
+    "name": "Kampung Sapit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010817837",
+    "lat": "1.1882622",
+    "long": "110.2533015",
+    "name": "Pangkalan Ampat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010832901",
+    "lat": "1.1143641",
+    "long": "110.3327577",
+    "name": "Kampung Senah Rayang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010832904",
+    "lat": "1.0994456",
+    "long": "110.2841736",
+    "name": "Kampung Semuti",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2010832908",
+    "lat": "1.1098077",
+    "long": "110.277232",
+    "name": "Kampung Sadir",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2012469321",
+    "lat": "1.1405289",
+    "long": "110.3435891",
+    "name": "Kampung Plaman Dunuk",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2022346684",
+    "lat": "1.3766279",
+    "long": "110.3812912",
+    "name": "Kampung Gunda",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2022528736",
+    "lat": "1.0887517",
+    "long": "110.2790449",
+    "name": "Kampung Sibakar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2022538334",
+    "lat": "1.0981365",
+    "long": "110.2799675",
+    "name": "Kampung Sebuang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2024223799",
+    "lat": "1.3638786",
+    "long": "110.2773702",
+    "name": "Kampung Grait",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2024232197",
+    "lat": "1.2237241",
+    "long": "110.3109322",
+    "name": "Kampung Bidak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2024367144",
+    "lat": "1.1806284",
+    "long": "110.2188427",
+    "name": "Kampung Assum",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2024371253",
+    "lat": "1.2881459",
+    "long": "110.4013323",
+    "name": "Kampung Mundai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2025918810",
+    "lat": "1.297627",
+    "long": "110.3814188",
+    "name": "Kampung Plaman Sidaun",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2033983475",
+    "lat": "1.1245889",
+    "long": "110.3559977",
+    "name": "Kampung Padus Stubot",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2034062201",
+    "lat": "1.1077993",
+    "long": "110.3376823",
+    "name": "Kampung Rudan Rayang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2034088667",
+    "lat": "1.1201601",
+    "long": "110.3690088",
+    "name": "Kampung Bisira Rayang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2059886395",
+    "lat": "1.1639001",
+    "long": "110.304969",
+    "name": "Kampung Bukit Nanas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2059931272",
+    "lat": "1.1294243",
+    "long": "110.3087048",
+    "name": "Kampung Teng Paron",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2065923003",
+    "lat": "2.2907009",
+    "long": "111.8263262",
+    "name": "Sibu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2111426625",
+    "lat": "1.3951254",
+    "long": "110.751254",
+    "name": "Simunjan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2161223602",
+    "lat": "2.8948483",
+    "long": "112.0918361",
+    "name": "Bandar Baru Mukah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2169189710",
+    "lat": "4.7821772",
+    "long": "114.9979883",
+    "name": "Kampung Pabahanan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2270176331",
+    "lat": "1.198643",
+    "long": "110.231281",
+    "name": "Kampung Kamas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2271724810",
+    "lat": "1.4698019",
+    "long": "110.3301894",
+    "name": "Kota Sentosa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2271724930",
+    "lat": "1.426902",
+    "long": "110.3271315",
+    "name": "Kota Padawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2271746185",
+    "lat": "1.3203329",
+    "long": "110.2527137",
+    "name": "Bengoh Resettlement Scheme",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2271766981",
+    "lat": "1.3803528",
+    "long": "110.3230545",
+    "name": "Kampung Sinar Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2271766983",
+    "lat": "1.4067165",
+    "long": "110.3229687",
+    "name": "Kampung Sri Arjuna",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272233924",
+    "lat": "1.086115",
+    "long": "111.18527",
+    "name": "Lachau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272241663",
+    "lat": "1.0500721",
+    "long": "110.7565118",
+    "name": "Balai Ringin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272241664",
+    "lat": "1.0808094",
+    "long": "111.0582454",
+    "name": "Pekan Sungai Tenggang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272249386",
+    "lat": "1.25453",
+    "long": "110.476316",
+    "name": "Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272255913",
+    "lat": "1.2056607",
+    "long": "110.5337261",
+    "name": "Tarat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272255914",
+    "lat": "1.1692688",
+    "long": "110.5689799",
+    "name": "Serian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272338773",
+    "lat": "1.2450042",
+    "long": "110.6898027",
+    "name": "Gedong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2272341481",
+    "lat": "1.1413807",
+    "long": "111.1183875",
+    "name": "Pantu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2280492275",
+    "lat": "1.417864",
+    "long": "110.1553336",
+    "name": "Bau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2280503199",
+    "lat": "1.6716097",
+    "long": "109.8536303",
+    "name": "Lundu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2280503780",
+    "lat": "1.8052723",
+    "long": "109.7782709",
+    "name": "Sematan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2280516130",
+    "lat": "1.5112387",
+    "long": "110.2685901",
+    "name": "Batu Kawa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2280542421",
+    "lat": "1.5876583",
+    "long": "110.4179885",
+    "name": "Demak Laut",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281630150",
+    "lat": "1.4561514",
+    "long": "110.1618208",
+    "name": "Tondong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281631256",
+    "lat": "1.4507083",
+    "long": "110.1829459",
+    "name": "Buso",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281631270",
+    "lat": "1.4463323",
+    "long": "110.2195741",
+    "name": "Siniawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281632330",
+    "lat": "1.4222751",
+    "long": "110.1916148",
+    "name": "Paku",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281632540",
+    "lat": "1.4067096",
+    "long": "110.1837103",
+    "name": "Jambusan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281638673",
+    "lat": "1.3659761",
+    "long": "110.1175938",
+    "name": "Krokong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281639677",
+    "lat": "1.4036689",
+    "long": "110.1301814",
+    "name": "Taiton",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281641672",
+    "lat": "1.3660285",
+    "long": "110.0857778",
+    "name": "Pijiru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281643681",
+    "lat": "1.2865208",
+    "long": "110.0905759",
+    "name": "Pangkalan Tebang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281644474",
+    "lat": "1.3275185",
+    "long": "110.0024547",
+    "name": "Serikin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281644499",
+    "lat": "1.3275292",
+    "long": "110.0049223",
+    "name": "Kampung Jagoi Serikin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281646263",
+    "lat": "1.4810588",
+    "long": "109.9689817",
+    "name": "Stungkor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281814270",
+    "lat": "0.8851449",
+    "long": "110.5887319",
+    "name": "Kampung Mongkos",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819015",
+    "lat": "0.9268534",
+    "long": "110.4991247",
+    "name": "Kampung Mapu Tragu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819016",
+    "lat": "0.9233261",
+    "long": "110.5174839",
+    "name": "Kampung Terbat Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819017",
+    "lat": "0.9256518",
+    "long": "110.5408383",
+    "name": "Kampung Muara Ahi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819018",
+    "lat": "0.893212",
+    "long": "110.5665876",
+    "name": "Kampung Mujat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819019",
+    "lat": "0.9065999",
+    "long": "110.5394651",
+    "name": "Kampung Bunan Gega",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819701",
+    "lat": "0.9213609",
+    "long": "110.575514",
+    "name": "Kampung Muara Mongkos",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819702",
+    "lat": "0.9259952",
+    "long": "110.5695058",
+    "name": "Kampung Mentu Pondok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281819703",
+    "lat": "0.9259952",
+    "long": "110.5732824",
+    "name": "Kampung Mentu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281820337",
+    "lat": "0.9368084",
+    "long": "110.5825521",
+    "name": "Kampung Mentu Tapu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281824472",
+    "lat": "0.9879563",
+    "long": "110.5590345",
+    "name": "Kampung Mayang Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281824473",
+    "lat": "1.0188962",
+    "long": "110.5012178",
+    "name": "Kampung Payau Achau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281824475",
+    "lat": "0.9691889",
+    "long": "110.5352356",
+    "name": "Kampung Lobang Batu Bedang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281824477",
+    "lat": "0.9701061",
+    "long": "110.5478765",
+    "name": "Kampung Pulau Piranuk",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281829308",
+    "lat": "0.9929513",
+    "long": "110.5171633",
+    "name": "Kampung Sebintin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281829309",
+    "lat": "1.004554",
+    "long": "110.5010301",
+    "name": "Kampung Payau Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281829310",
+    "lat": "1.0099256",
+    "long": "110.5097677",
+    "name": "Kampung Payau Burus",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281830057",
+    "lat": "1.0258876",
+    "long": "110.5616094",
+    "name": "Kampung Bugu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281830209",
+    "lat": "1.0164515",
+    "long": "110.5406946",
+    "name": "Kampung Engkeroh Tebakang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281830925",
+    "lat": "1.0681092",
+    "long": "110.5638496",
+    "name": "Kampung Sangai Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2281830928",
+    "lat": "1.0464836",
+    "long": "110.5756856",
+    "name": "Kampung Resak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285374472",
+    "lat": "1.1077467",
+    "long": "110.4849094",
+    "name": "Kampung Pichin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285374473",
+    "lat": "1.1096465",
+    "long": "110.4074745",
+    "name": "Kampung Tubih Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285374854",
+    "lat": "1.1387599",
+    "long": "110.5152162",
+    "name": "Kampung Riih Daso",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285375384",
+    "lat": "1.1383309",
+    "long": "110.5590928",
+    "name": "Kampung Slabi Entukuh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285376670",
+    "lat": "1.1798644",
+    "long": "110.5596078",
+    "name": "Kampung Kakai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285376867",
+    "lat": "1.1503115",
+    "long": "110.4786443",
+    "name": "Kampung Jenan Tapau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2285377071",
+    "lat": "1.1782222",
+    "long": "110.4681948",
+    "name": "Kampung Bantang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304465362",
+    "lat": "1.4529894",
+    "long": "110.2966006",
+    "name": "Kampung Bumbok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304465546",
+    "lat": "1.4716954",
+    "long": "110.2939581",
+    "name": "Kampung Tematu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304465573",
+    "lat": "1.4748691",
+    "long": "110.2987571",
+    "name": "Kampung Semaba",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304466039",
+    "lat": "1.4497074",
+    "long": "110.2808185",
+    "name": "Kampung Batu Kitang Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304466091",
+    "lat": "1.4548556",
+    "long": "110.2805181",
+    "name": "Kampung Lidah Tanah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2304466233",
+    "lat": "1.4858303",
+    "long": "110.2840801",
+    "name": "Kampung Sandong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305944176",
+    "lat": "1.4510223",
+    "long": "110.2796866",
+    "name": "Kampung Bukit Panchor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305944231",
+    "lat": "1.4462174",
+    "long": "110.2775408",
+    "name": "Kampung Bunga Rampai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305944256",
+    "lat": "1.4493063",
+    "long": "110.2688719",
+    "name": "Kampung Keranji",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305944474",
+    "lat": "1.4433",
+    "long": "110.2337671",
+    "name": "Kampung Siniawan Lot Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305944752",
+    "lat": "1.448534",
+    "long": "110.2191759",
+    "name": "Kampung Siniawan Seberang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305946470",
+    "lat": "1.4267986",
+    "long": "110.2114801",
+    "name": "Kampung Podam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2305967545",
+    "lat": "1.3532905",
+    "long": "110.1496531",
+    "name": "Kampung Dahan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2306045111",
+    "lat": "1.4298503",
+    "long": "110.2299477",
+    "name": "Kampung Peninjau Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2306110335",
+    "lat": "1.4683331",
+    "long": "110.2246476",
+    "name": "Kampung Kandis Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2306110337",
+    "lat": "1.4815085",
+    "long": "110.2133415",
+    "name": "Kampung Sg. Pinang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2306116127",
+    "lat": "1.453264",
+    "long": "110.221268",
+    "name": "Kampung Kandis Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307236069",
+    "lat": "1.2616643",
+    "long": "110.0928168",
+    "name": "Kampung Tringgus Matan Nguan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307237642",
+    "lat": "1.2651401",
+    "long": "110.0892757",
+    "name": "Kampung Tringgus Tabak Rotan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307237643",
+    "lat": "1.3014374",
+    "long": "110.0872909",
+    "name": "Kampung Pedaun Bawah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307237644",
+    "lat": "1.3451865",
+    "long": "110.1151301",
+    "name": "Kampung Kaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307486069",
+    "lat": "1.3527503",
+    "long": "110.1162588",
+    "name": "Kampung Blimbin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307486073",
+    "lat": "1.3184703",
+    "long": "110.1012384",
+    "name": "Plaman Monggok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307486076",
+    "lat": "1.3332593",
+    "long": "110.1122333",
+    "name": "Kampung Bijuray Mongag",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307486080",
+    "lat": "1.3642913",
+    "long": "110.1135551",
+    "name": "Kampung Pisa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307512465",
+    "lat": "1.3635191",
+    "long": "110.1217519",
+    "name": "Kampung Peros",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307513413",
+    "lat": "1.3690965",
+    "long": "110.1242839",
+    "name": "Kampung Batu Sepit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307516401",
+    "lat": "1.2753085",
+    "long": "110.0545036",
+    "name": "Kampung Gumbang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307516899",
+    "lat": "1.3130215",
+    "long": "110.0567781",
+    "name": "Kampung Padang Pan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307523147",
+    "lat": "1.3510449",
+    "long": "110.0666594",
+    "name": "Kampung Bogag",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2307612660",
+    "lat": "1.3469798",
+    "long": "110.1069461",
+    "name": "Kampung Bijongon",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2322680465",
+    "lat": "1.1622773",
+    "long": "110.5497278",
+    "name": "Kampung Tanggak Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385115281",
+    "lat": "1.4850959",
+    "long": "110.1646838",
+    "name": "Kampung Sudoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385115282",
+    "lat": "1.4862113",
+    "long": "110.1423679",
+    "name": "Kampung Apar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385117869",
+    "lat": "1.4919986",
+    "long": "110.1582122",
+    "name": "Kampung Atas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385117872",
+    "lat": "1.5189874",
+    "long": "110.1594482",
+    "name": "Kampung Segong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385117875",
+    "lat": "1.5213898",
+    "long": "110.1820216",
+    "name": "Kampung Daun",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385119077",
+    "lat": "1.5317201",
+    "long": "110.2124443",
+    "name": "Kampung Sagah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2385119823",
+    "lat": "1.5054308",
+    "long": "110.152925",
+    "name": "Kampung Barieng",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197268",
+    "lat": "1.496714",
+    "long": "110.17811",
+    "name": "Kampung Tanjong Poting",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197274",
+    "lat": "1.5271218",
+    "long": "110.1952332",
+    "name": "Kampung Bobak Sajong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197277",
+    "lat": "1.5112186",
+    "long": "110.1851481",
+    "name": "Kampung Senibong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197280",
+    "lat": "1.5084172",
+    "long": "110.1937741",
+    "name": "Kampung Tanjong Bowang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197282",
+    "lat": "1.5357876",
+    "long": "110.1997823",
+    "name": "Kampong Bobak sejinjang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197288",
+    "lat": "1.4553058",
+    "long": "110.1301736",
+    "name": "Kampung Sibuluh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2387197292",
+    "lat": "1.4715654",
+    "long": "110.194096",
+    "name": "Musi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397039344",
+    "lat": "3.8507439",
+    "long": "114.5949903",
+    "name": "Long Bemang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397083736",
+    "lat": "1.219533",
+    "long": "110.4952982",
+    "name": "Kampung Baru' Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397083742",
+    "lat": "1.220641",
+    "long": "110.507101",
+    "name": "Kampung Bunga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397083745",
+    "lat": "1.2155289",
+    "long": "110.5023116",
+    "name": "Kampung Bunga'",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397083749",
+    "lat": "1.1926653",
+    "long": "110.5627053",
+    "name": "Kampung Rayang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2397083753",
+    "lat": "1.1789672",
+    "long": "110.5669935",
+    "name": "Kampung Pasir",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2417318250",
+    "lat": "1.4726444",
+    "long": "110.0981808",
+    "name": "Kampung Tembawang Sauh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2417318259",
+    "lat": "1.4883891",
+    "long": "110.0424338",
+    "name": "Kampung Stenggang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2417318264",
+    "lat": "1.4845709",
+    "long": "110.0941038",
+    "name": "Kampung Jugan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2417387906",
+    "lat": "1.0719381",
+    "long": "111.0133237",
+    "name": "Kampung Abok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423606984",
+    "lat": "1.142027",
+    "long": "110.5217384",
+    "name": "Kampung Riih Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423607141",
+    "lat": "1.134647",
+    "long": "110.5054306",
+    "name": "Kampung Tungan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423615245",
+    "lat": "1.1577346",
+    "long": "110.4932357",
+    "name": "Kampung Lanchang SPG",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423615246",
+    "lat": "1.1607343",
+    "long": "110.4935001",
+    "name": "Kampung Lanchang SDA",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423626241",
+    "lat": "1.1469398",
+    "long": "110.4804539",
+    "name": "Kampung Jenan Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423626242",
+    "lat": "1.1554707",
+    "long": "110.4768957",
+    "name": "Kampung Jenan Pisa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423632540",
+    "lat": "1.159726",
+    "long": "110.4619574",
+    "name": "Kampung Engkeroh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633541",
+    "lat": "1.0308962",
+    "long": "110.4553913",
+    "name": "Kampung Mawang Taup",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633542",
+    "lat": "1.0623023",
+    "long": "110.4611885",
+    "name": "Kampung Retoh Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633543",
+    "lat": "1.0695564",
+    "long": "110.4547047",
+    "name": "Kampung Retoh Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633544",
+    "lat": "1.0693623",
+    "long": "110.5001531",
+    "name": "Kampung Krusen Kranji",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633545",
+    "lat": "1.0165485",
+    "long": "110.4899022",
+    "name": "Kampung Bidak Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633546",
+    "lat": "1.0582863",
+    "long": "110.4564238",
+    "name": "Kampung Retoh Karas (SDA)",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633547",
+    "lat": "1.0716053",
+    "long": "110.5019277",
+    "name": "Kampung Krusen Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423633548",
+    "lat": "1.0688528",
+    "long": "110.4969698",
+    "name": "Kampung Krusen Siu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660742",
+    "lat": "1.0321835",
+    "long": "110.5885147",
+    "name": "Kampung Pridan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660744",
+    "lat": "0.963595",
+    "long": "110.5379339",
+    "name": "Kampung Batu Rekang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660747",
+    "lat": "0.9673054",
+    "long": "110.5167603",
+    "name": "Kampung Lobang Batu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660750",
+    "lat": "1.0179379",
+    "long": "110.5938362",
+    "name": "Kampung Diang Ipuh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660752",
+    "lat": "1.0183326",
+    "long": "110.4856556",
+    "name": "Kampung Bidak Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660754",
+    "lat": "0.9955657",
+    "long": "110.5936564",
+    "name": "Kampung Mentong Mubok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660757",
+    "lat": "1.0316964",
+    "long": "110.6459013",
+    "name": "Kampung Baing",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660759",
+    "lat": "0.9800065",
+    "long": "110.6458496",
+    "name": "Kampung Paon Rimu Bakong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660761",
+    "lat": "1.0081547",
+    "long": "110.5955528",
+    "name": "Kampung Mentong Brawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660764",
+    "lat": "0.9231944",
+    "long": "110.52603",
+    "name": "Kampung Terbat Leban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660766",
+    "lat": "0.9879017",
+    "long": "110.6058525",
+    "name": "Kampung Mentung Merau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660768",
+    "lat": "0.9736559",
+    "long": "110.5208801",
+    "name": "Kampung Lobang Batu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660770",
+    "lat": "0.9158139",
+    "long": "110.5402779",
+    "name": "Kampung Bunan Pondok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660773",
+    "lat": "0.9810975",
+    "long": "110.6539766",
+    "name": "Kampung Paon Rimu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660775",
+    "lat": "0.970623",
+    "long": "110.566749",
+    "name": "Kampung Mayang Kawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660777",
+    "lat": "0.9838039",
+    "long": "110.4371523",
+    "name": "Kampung Pangkalan Amo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660779",
+    "lat": "0.9746771",
+    "long": "110.5248369",
+    "name": "Kampung Lobang Batu Lin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660781",
+    "lat": "0.9467089",
+    "long": "110.6559776",
+    "name": "Kampung Paon Gahat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423660782",
+    "lat": "0.9909053",
+    "long": "110.4648327",
+    "name": "Kampung Gahat Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697891",
+    "lat": "1.1023808",
+    "long": "110.5455994",
+    "name": "Kampung Koran Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697892",
+    "lat": "1.1478623",
+    "long": "110.5727219",
+    "name": "Kampung Slabi Empurug",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697893",
+    "lat": "1.1351619",
+    "long": "110.5639671",
+    "name": "Kampung Slabi Sengkam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697894",
+    "lat": "1.0936277",
+    "long": "110.5466293",
+    "name": "Kampung Koran Empaneg",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697895",
+    "lat": "1.1471414",
+    "long": "110.5856394",
+    "name": "Kampung Ranchan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697896",
+    "lat": "1.127267",
+    "long": "110.620757",
+    "name": "Kampung Semuja Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697897",
+    "lat": "1.0500333",
+    "long": "110.5225967",
+    "name": "Kampung Prangkan Merong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697898",
+    "lat": "1.1001496",
+    "long": "110.5492043",
+    "name": "Kampung Koran Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697899",
+    "lat": "1.0960305",
+    "long": "110.5509209",
+    "name": "Kampung Koran Bari",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697900",
+    "lat": "1.1451162",
+    "long": "110.5809616",
+    "name": "Kampung Slabi Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697901",
+    "lat": "1.1310428",
+    "long": "110.6147789",
+    "name": "Kampung Rasau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697903",
+    "lat": "1.1344753",
+    "long": "110.5486893",
+    "name": "Kampung Sorak Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697904",
+    "lat": "1.1145321",
+    "long": "110.5473589",
+    "name": "Kampung Sorak Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697905",
+    "lat": "1.1483343",
+    "long": "110.5937075",
+    "name": "Kampung Seroban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697906",
+    "lat": "1.1114342",
+    "long": "110.5482172",
+    "name": "Kampung Sorak Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697907",
+    "lat": "1.0390488",
+    "long": "110.5365013",
+    "name": "Kampung Prangkan Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697908",
+    "lat": "1.0383623",
+    "long": "110.5699753",
+    "name": "Kampung Sangai Meringgu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697909",
+    "lat": "1.1511232",
+    "long": "110.5747818",
+    "name": "Kampung Munggu Limo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423697910",
+    "lat": "1.1394525",
+    "long": "110.5677437",
+    "name": "Kampung Slabi Belala",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423701713",
+    "lat": "1.1643384",
+    "long": "110.5450844",
+    "name": "Kampung Tangga Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423701714",
+    "lat": "1.1700021",
+    "long": "110.5524658",
+    "name": "Kampung Tana Buda",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709913",
+    "lat": "1.2825861",
+    "long": "110.5409645",
+    "name": "Kampung Menaul",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709914",
+    "lat": "1.198088",
+    "long": "110.5175026",
+    "name": "Kampung Tarat Melawi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709915",
+    "lat": "1.2582085",
+    "long": "110.5218627",
+    "name": "Kampung Sg. Kuhas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709916",
+    "lat": "1.2037301",
+    "long": "110.5211414",
+    "name": "Kampung Tarat Sibala",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709917",
+    "lat": "1.1994396",
+    "long": "110.5117842",
+    "name": "Kampung Tarat Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709918",
+    "lat": "1.2513546",
+    "long": "110.5365638",
+    "name": "Kampung Plaman Baki",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709919",
+    "lat": "1.2676209",
+    "long": "110.5276161",
+    "name": "Kampung Sg. Bandong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709920",
+    "lat": "1.2210347",
+    "long": "110.5261705",
+    "name": "Kampung Igom",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423709921",
+    "lat": "1.2141193",
+    "long": "110.5311252",
+    "name": "Kampung Tarat Kringkin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740316",
+    "lat": "1.3045563",
+    "long": "110.4683013",
+    "name": "Kampung Merang Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740317",
+    "lat": "1.2671404",
+    "long": "110.4664635",
+    "name": "Kampung Lintang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740318",
+    "lat": "1.2624478",
+    "long": "110.4877904",
+    "name": "Kampung Tian Sekawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740319",
+    "lat": "1.3627306",
+    "long": "110.534613",
+    "name": "Kampung Mang Besi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740320",
+    "lat": "1.3663345",
+    "long": "110.4214882",
+    "name": "Kampung Prutan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740321",
+    "lat": "1.273662",
+    "long": "110.4841446",
+    "name": "Kampung Palah Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740322",
+    "lat": "1.2868766",
+    "long": "110.4880928",
+    "name": "Kampung Betong Kanowit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740323",
+    "lat": "1.2752031",
+    "long": "110.5102998",
+    "name": "Kampung Murud Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740324",
+    "lat": "1.2949158",
+    "long": "110.4813487",
+    "name": "Kampung Bedega",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740325",
+    "lat": "1.3699383",
+    "long": "110.4353928",
+    "name": "Kampung Tanah Puteh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740326",
+    "lat": "1.2855288",
+    "long": "110.4750717",
+    "name": "Kampung Bintawa Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740327",
+    "lat": "1.3079892",
+    "long": "110.5014325",
+    "name": "Kampung Segenam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740328",
+    "lat": "1.2623817",
+    "long": "110.4507066",
+    "name": "Kampung Panchor Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740329",
+    "lat": "1.3514127",
+    "long": "110.5363382",
+    "name": "Kampung Lubok Ria",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740330",
+    "lat": "1.3314899",
+    "long": "110.484202",
+    "name": "Kampung Raeh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740331",
+    "lat": "1.3797202",
+    "long": "110.4477524",
+    "name": "Kampung Endap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740333",
+    "lat": "1.3024723",
+    "long": "110.4655837",
+    "name": "Kampung Merang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740334",
+    "lat": "1.2759847",
+    "long": "110.4622089",
+    "name": "Kampung Sg. Barie",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740335",
+    "lat": "1.3076423",
+    "long": "110.492041",
+    "name": "Kampung Sg. Turong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740336",
+    "lat": "1.3192087",
+    "long": "110.4850066",
+    "name": "Kampung Seruit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740337",
+    "lat": "1.2761182",
+    "long": "110.5029399",
+    "name": "Kampung Murud Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740338",
+    "lat": "1.4205908",
+    "long": "110.4497034",
+    "name": "Kampung Pinang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2423740339",
+    "lat": "1.338494",
+    "long": "110.4935468",
+    "name": "Kampung Soh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427556921",
+    "lat": "1.2090833",
+    "long": "111.4771411",
+    "name": "Srijaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427556926",
+    "lat": "1.0404688",
+    "long": "110.7967118",
+    "name": "Kampung Ensebang Kuari",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427556950",
+    "lat": "1.1387759",
+    "long": "111.6678515",
+    "name": "Engkilili",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427556971",
+    "lat": "1.1939858",
+    "long": "111.4734692",
+    "name": "Sabu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427652809",
+    "lat": "1.1720177",
+    "long": "111.6606043",
+    "name": "Jelukong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427652975",
+    "lat": "1.1178178",
+    "long": "111.4262841",
+    "name": "Melugu Skim",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2427653039",
+    "lat": "1.2836696",
+    "long": "111.6263446",
+    "name": "Skrang Skim",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2436204821",
+    "lat": "1.1060689",
+    "long": "110.5124433",
+    "name": "Kampung Tebakang Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2436204823",
+    "lat": "1.1012496",
+    "long": "110.5079624",
+    "name": "Kampung Tebakang Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2436437136",
+    "lat": "2.1294846",
+    "long": "111.5230586",
+    "name": "Sarikei",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2436437313",
+    "lat": "2.1651651",
+    "long": "111.6382434",
+    "name": "Bintangor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442094699",
+    "lat": "1.7407755",
+    "long": "111.337434",
+    "name": "Saratok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442095044",
+    "lat": "1.8857888",
+    "long": "111.3044472",
+    "name": "Roban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442095045",
+    "lat": "2.0173767",
+    "long": "111.3196564",
+    "name": "Selalang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442095309",
+    "lat": "2.0439032",
+    "long": "111.4941931",
+    "name": "Jakar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442162924",
+    "lat": "2.0995816",
+    "long": "112.1567845",
+    "name": "Kanowit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442162925",
+    "lat": "2.2391602",
+    "long": "111.976068",
+    "name": "Sibu Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442172567",
+    "lat": "2.007844",
+    "long": "112.5521235",
+    "name": "Song",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442172568",
+    "lat": "2.0139027",
+    "long": "112.9356766",
+    "name": "Kapit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442181504",
+    "lat": "2.0240673",
+    "long": "111.9175529",
+    "name": "Julau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442181519",
+    "lat": "1.8940241",
+    "long": "111.6808319",
+    "name": "Pakan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442191256",
+    "lat": "2.2986371",
+    "long": "111.8944216",
+    "name": "Permai Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442245169",
+    "lat": "1.4115918",
+    "long": "111.5280962",
+    "name": "Betong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442376448",
+    "lat": "1.6177466",
+    "long": "111.2928179",
+    "name": "Pusa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2442471801",
+    "lat": "1.4540732",
+    "long": "111.4814386",
+    "name": "Spaoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2443861389",
+    "lat": "1.2376156",
+    "long": "111.462148",
+    "name": "Simanggang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2443910406",
+    "lat": "1.5616607",
+    "long": "111.4230708",
+    "name": "Debak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2443912729",
+    "lat": "1.8009242",
+    "long": "111.1210976",
+    "name": "Kabong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2443912735",
+    "lat": "1.8869829",
+    "long": "111.1901264",
+    "name": "Sessang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2443914319",
+    "lat": "1.6387066",
+    "long": "111.2083225",
+    "name": "Beladin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445303541",
+    "lat": "2.3117293",
+    "long": "111.6807832",
+    "name": "Bawang Assan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445304003",
+    "lat": "2.4152388",
+    "long": "111.4017584",
+    "name": "Kampung Semop",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445304548",
+    "lat": "2.6743932",
+    "long": "111.5341451",
+    "name": "Matu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445304549",
+    "lat": "2.5139835",
+    "long": "111.432287",
+    "name": "Daro",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445309665",
+    "lat": "2.6384106",
+    "long": "111.5175648",
+    "name": "Kampung Tian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445309679",
+    "lat": "2.7106294",
+    "long": "111.4672365",
+    "name": "Kampung Kuala Matu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445309799",
+    "lat": "2.6435831",
+    "long": "111.537446",
+    "name": "Kampung Bawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445309806",
+    "lat": "2.6730771",
+    "long": "111.5621652",
+    "name": "Kampung Jemoreng",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445328875",
+    "lat": "1.1253999",
+    "long": "110.6228779",
+    "name": "Semuja / Gedong Central",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363659",
+    "lat": "1.0153805",
+    "long": "110.3546347",
+    "name": "Bandar Mutiara Tebedu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363667",
+    "lat": "0.9678588",
+    "long": "110.424179",
+    "name": "Kampung Kujang Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363669",
+    "lat": "0.9452027",
+    "long": "110.475892",
+    "name": "Kampung Daha Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363678",
+    "lat": "0.9395386",
+    "long": "110.4690256",
+    "name": "Kampung Daha Seroban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363679",
+    "lat": "0.9464042",
+    "long": "110.444714",
+    "name": "Kampung Kujang Sain",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445363689",
+    "lat": "0.9652414",
+    "long": "110.4261531",
+    "name": "Kampung Kujang Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406025",
+    "lat": "1.0283817",
+    "long": "110.3638508",
+    "name": "Kampung Tebedu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406038",
+    "lat": "1.0300525",
+    "long": "110.326434",
+    "name": "Kampung Temong Mura",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406047",
+    "lat": "1.0007271",
+    "long": "110.3569736",
+    "name": "Kampung Entubuh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406054",
+    "lat": "1.0306773",
+    "long": "110.3345396",
+    "name": "Kampung Temong Putan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406064",
+    "lat": "1.001282",
+    "long": "110.4266469",
+    "name": "Kampung Tesu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406065",
+    "lat": "1.0297655",
+    "long": "110.3679599",
+    "name": "Kampung Tebedu Bung Padus",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406085",
+    "lat": "1.0346729",
+    "long": "110.3218042",
+    "name": "Kampung Darul Falah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406095",
+    "lat": "1.0288537",
+    "long": "110.3397431",
+    "name": "Kampung Temong Bengan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406110",
+    "lat": "0.9983747",
+    "long": "110.4269524",
+    "name": "Kamppung Tesu Kura",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445406135",
+    "lat": "1.0275343",
+    "long": "110.3507831",
+    "name": "Kampung Darul Iman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445408527",
+    "lat": "1.0343675",
+    "long": "110.323446",
+    "name": "Kampung Temong Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445431442",
+    "lat": "1.0651541",
+    "long": "110.3454723",
+    "name": "Kampung Sejijak Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445431471",
+    "lat": "1.0493639",
+    "long": "110.305443",
+    "name": "Kampung Darul Huda",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445431480",
+    "lat": "1.0658942",
+    "long": "110.3493347",
+    "name": "Kampung Sejijak Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445431491",
+    "lat": "1.0637569",
+    "long": "110.2966293",
+    "name": "Kampung Tepoi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445431498",
+    "lat": "1.0615037",
+    "long": "110.3722675",
+    "name": "Kampung Sejijak Kabuhu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445447921",
+    "lat": "1.0814805",
+    "long": "110.3746976",
+    "name": "Kampung Sungan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445447952",
+    "lat": "1.0653257",
+    "long": "110.4122486",
+    "name": "Kampung Tema Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445447953",
+    "lat": "1.0938379",
+    "long": "110.3915204",
+    "name": "Kampung Tema Saan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445447960",
+    "lat": "1.0637166",
+    "long": "110.410489",
+    "name": "Kampung Tema Penggal",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445447974",
+    "lat": "1.1134894",
+    "long": "110.4017987",
+    "name": "Kampung Kohom Mandeg",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445453489",
+    "lat": "1.1152352",
+    "long": "110.4129998",
+    "name": "Kampung Tubih Behem",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445453494",
+    "lat": "1.1180591",
+    "long": "110.4004468",
+    "name": "Kampung Kohom Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2445453511",
+    "lat": "1.1205235",
+    "long": "110.4140242",
+    "name": "Kampung Tubih Plaman",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2452438810",
+    "lat": "1.0420707",
+    "long": "111.8332189",
+    "name": "Lubok Antu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2454980263",
+    "lat": "1.2127264",
+    "long": "110.6067628",
+    "name": "Kampung Munggu Kopi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2454987906",
+    "lat": "1.2209643",
+    "long": "110.6273622",
+    "name": "Kampung Tanah Puteh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2454988034",
+    "lat": "1.2425886",
+    "long": "110.6395502",
+    "name": "Kampung Sebemban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2454991295",
+    "lat": "1.2767898",
+    "long": "110.6572466",
+    "name": "Kampung Gumpey",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042186",
+    "lat": "1.0703326",
+    "long": "110.6869877",
+    "name": "Kampung Antayan Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042194",
+    "lat": "1.0506239",
+    "long": "110.6831736",
+    "name": "Kampung Antayan Kersik",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042205",
+    "lat": "1.0071148",
+    "long": "110.7310028",
+    "name": "Kampung Krangan Trusan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042220",
+    "lat": "1.0335148",
+    "long": "110.6868013",
+    "name": "Kampung Sg Engkabang A",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042225",
+    "lat": "1.0558802",
+    "long": "110.7268829",
+    "name": "Kampung Batu Kudi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042228",
+    "lat": "1.048264",
+    "long": "110.7205529",
+    "name": "Kampung Junggu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042235",
+    "lat": "1.046376",
+    "long": "110.677659",
+    "name": "Kampung Antayan Liun",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042238",
+    "lat": "1.0717936",
+    "long": "110.6878353",
+    "name": "Kampung Antayan Kropok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042241",
+    "lat": "1.0768282",
+    "long": "110.6446974",
+    "name": "Kampung Semukoi Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042244",
+    "lat": "1.0346084",
+    "long": "110.7366998",
+    "name": "Kampung Tanah Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042251",
+    "lat": "1.0630074",
+    "long": "110.6551396",
+    "name": "Kampung Semukoi B",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042254",
+    "lat": "1.03534",
+    "long": "110.6791235",
+    "name": "Kampung Sg. Engkabang B",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042259",
+    "lat": "0.9986593",
+    "long": "110.7242972",
+    "name": "Kampung Krangan Engkatak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042262",
+    "lat": "0.9685074",
+    "long": "110.7284171",
+    "name": "Kpg. Tapang Maong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042266",
+    "lat": "1.0657704",
+    "long": "110.687272",
+    "name": "Kampung Antayan Sarawak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042279",
+    "lat": "1.0431447",
+    "long": "110.706085",
+    "name": "Kampung Sg. Menyan Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042282",
+    "lat": "1.0018453",
+    "long": "110.7304502",
+    "name": "Kampung Krangan Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042289",
+    "lat": "1.0438015",
+    "long": "110.7190937",
+    "name": "Kampung Muboi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042296",
+    "lat": "1.0260488",
+    "long": "110.7367118",
+    "name": "Kampung Tanah Mawang Menyang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042301",
+    "lat": "1.0009708",
+    "long": "110.7282937",
+    "name": "Kampung Krangan Tekalong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042304",
+    "lat": "1.0114598",
+    "long": "110.7308324",
+    "name": "Kampung Krangan Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042309",
+    "lat": "1.0497282",
+    "long": "110.6611358",
+    "name": "Semukoi A",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455042316",
+    "lat": "1.0261236",
+    "long": "110.7363843",
+    "name": "Kampung Tanah Mawang Menyang A",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455161976",
+    "lat": "1.0617264",
+    "long": "110.723042",
+    "name": "Kampung Linsat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455190055",
+    "lat": "1.1715366",
+    "long": "110.5756921",
+    "name": "Kampung Kemayau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455191416",
+    "lat": "1.154374",
+    "long": "110.5731172",
+    "name": "Kampung Hulu Serian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455191417",
+    "lat": "1.1648432",
+    "long": "110.5744905",
+    "name": "Kampung Hilir Serian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2455192432",
+    "lat": "1.1583214",
+    "long": "110.5593843",
+    "name": "Kampung Jalan Siantan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463523021",
+    "lat": "3.7360532",
+    "long": "113.7801965",
+    "name": "Simpang Niah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463525016",
+    "lat": "2.8777834",
+    "long": "112.8523034",
+    "name": "Tatau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463525047",
+    "lat": "2.5241705",
+    "long": "112.3259835",
+    "name": "Selangau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463526604",
+    "lat": "2.8929774",
+    "long": "112.0913318",
+    "name": "Mukah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463527258",
+    "lat": "2.7411523",
+    "long": "111.9387742",
+    "name": "Dalat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463529041",
+    "lat": "2.8212516",
+    "long": "111.7063114",
+    "name": "Igan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463529042",
+    "lat": "2.8572283",
+    "long": "111.8738862",
+    "name": "Oya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463540048",
+    "lat": "2.925634",
+    "long": "112.5425072",
+    "name": "Balingian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463629297",
+    "lat": "2.4980767",
+    "long": "111.3770123",
+    "name": "Kampung Saai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463630355",
+    "lat": "2.5403504",
+    "long": "111.3770981",
+    "name": "Kampung Kut",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463630356",
+    "lat": "2.5322259",
+    "long": "111.4048",
+    "name": "Kampung Badong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463630357",
+    "lat": "2.5206714",
+    "long": "111.4136406",
+    "name": "Kampung Itol",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2463631248",
+    "lat": "2.3257957",
+    "long": "111.4486809",
+    "name": "Kampung Serdeng",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2464901543",
+    "lat": "1.6727955",
+    "long": "110.2096216",
+    "name": "Kampung Telaga Air",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2464959527",
+    "lat": "1.174042",
+    "long": "110.6061709",
+    "name": "Kampung Sebangkoi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2480931061",
+    "lat": "1.3538749",
+    "long": "111.1708324",
+    "name": "Lingga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513544198",
+    "lat": "1.4556021",
+    "long": "110.2855841",
+    "name": "Kampung Batu Kitang Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513553792",
+    "lat": "1.4596992",
+    "long": "110.2945748",
+    "name": "Kampung Dangak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513553793",
+    "lat": "1.4743864",
+    "long": "110.2837881",
+    "name": "Kampung Pangkalan Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513556049",
+    "lat": "1.3165542",
+    "long": "110.2686969",
+    "name": "Kampung Giam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513573031",
+    "lat": "1.3588143",
+    "long": "110.0373295",
+    "name": "Kampung Jagoi Gunong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576839",
+    "lat": "1.416969",
+    "long": "110.0002614",
+    "name": "Kampung Skibang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576840",
+    "lat": "1.433438",
+    "long": "110.1338193",
+    "name": "Kampung Suba Bandar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576841",
+    "lat": "1.4448981",
+    "long": "110.0848036",
+    "name": "Kampung Rumih",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576842",
+    "lat": "1.3784424",
+    "long": "110.043563",
+    "name": "Kampung Serasot",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576843",
+    "lat": "1.3885675",
+    "long": "109.9836961",
+    "name": "Kampung Stass",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576844",
+    "lat": "1.4250689",
+    "long": "110.1251493",
+    "name": "Kampung Suba Bau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576845",
+    "lat": "1.3721786",
+    "long": "110.0111619",
+    "name": "Kampung Sibobog",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576846",
+    "lat": "1.3996578",
+    "long": "110.1097814",
+    "name": "Kampung Suba Buan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576847",
+    "lat": "1.3422106",
+    "long": "110.0428334",
+    "name": "Kampung Duyoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576848",
+    "lat": "1.4400931",
+    "long": "110.0729171",
+    "name": "Kampung Opar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513576849",
+    "lat": "1.446271",
+    "long": "110.1277189",
+    "name": "Kampung Grogo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2513632751",
+    "lat": "1.4727841",
+    "long": "110.1158324",
+    "name": "Kampung Nowang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2515860702",
+    "lat": "1.2756356",
+    "long": "110.0563526",
+    "name": "Kampung Ledan Gumbang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2515860703",
+    "lat": "1.4194051",
+    "long": "110.1789564",
+    "name": "Kampung Skiat Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2515864674",
+    "lat": "1.4811405",
+    "long": "110.0185388",
+    "name": "Kampung Sepadah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2515864675",
+    "lat": "1.4819557",
+    "long": "110.1058072",
+    "name": "Kampung Tembawang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140731",
+    "lat": "1.4892038",
+    "long": "109.9222942",
+    "name": "Kampung Bokah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140747",
+    "lat": "1.4766231",
+    "long": "109.9807623",
+    "name": "Kampung Stum Muda",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140777",
+    "lat": "1.5017523",
+    "long": "109.9295428",
+    "name": "Kampung Simpang Bokah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140818",
+    "lat": "1.4622619",
+    "long": "109.9544766",
+    "name": "Kampung Tugag Oma",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140862",
+    "lat": "1.440136",
+    "long": "109.9127221",
+    "name": "Kampung Raso II",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530140880",
+    "lat": "1.461597",
+    "long": "109.8900607",
+    "name": "Kampung Raso I",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187783",
+    "lat": "1.591906",
+    "long": "109.8929575",
+    "name": "Kampung Senibong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187818",
+    "lat": "1.5259695",
+    "long": "109.9173763",
+    "name": "Kampung Siluk",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187825",
+    "lat": "1.4837969",
+    "long": "109.9502112",
+    "name": "Kampung Stungkor Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187852",
+    "lat": "1.5694977",
+    "long": "109.8914114",
+    "name": "Kampung Perian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187911",
+    "lat": "1.5457893",
+    "long": "109.8519733",
+    "name": "Kampung Bitokan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530187924",
+    "lat": "1.5454461",
+    "long": "109.8467977",
+    "name": "Kampung Selampit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205781",
+    "lat": "1.6228358",
+    "long": "109.8670581",
+    "name": "Kampung Stunggang Ulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205783",
+    "lat": "1.618546",
+    "long": "109.6804836",
+    "name": "Kampung Biawak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205786",
+    "lat": "1.6741413",
+    "long": "109.8595264",
+    "name": "Kampung Sileng Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205792",
+    "lat": "1.6076069",
+    "long": "109.8455789",
+    "name": "Kampung Sebandi Hilir",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205794",
+    "lat": "1.6554381",
+    "long": "109.7899778",
+    "name": "Kampung Rukam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205807",
+    "lat": "1.6432552",
+    "long": "109.7333553",
+    "name": "Kampung Jangkar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205810",
+    "lat": "1.6619585",
+    "long": "109.8543766",
+    "name": "Kampung Semunin Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205814",
+    "lat": "1.6549233",
+    "long": "109.860728",
+    "name": "Kampung Stunggang Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205816",
+    "lat": "1.6051703",
+    "long": "109.8538359",
+    "name": "Kampung Sebandi Hulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205817",
+    "lat": "1.6549233",
+    "long": "109.7161892",
+    "name": "Kampung Jantan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530205818",
+    "lat": "1.6367519",
+    "long": "109.8858936",
+    "name": "Kampung Temelan Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215584",
+    "lat": "1.6648755",
+    "long": "109.8025349",
+    "name": "Kampung Perundang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215587",
+    "lat": "1.7736598",
+    "long": "109.7479465",
+    "name": "Kampung Temaga Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215591",
+    "lat": "1.6566392",
+    "long": "109.8109463",
+    "name": "Kampung Sebigo Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215597",
+    "lat": "1.7369415",
+    "long": "109.7388485",
+    "name": "Kampung Sebako",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215598",
+    "lat": "1.7137777",
+    "long": "109.7798755",
+    "name": "Kampung Serayan Hilir",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215601",
+    "lat": "1.8005976",
+    "long": "109.7501781",
+    "name": "Kampung Sebat Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215609",
+    "lat": "1.6652187",
+    "long": "109.8372104",
+    "name": "Kampung Semunin Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215615",
+    "lat": "1.8309664",
+    "long": "109.7040012",
+    "name": "Kampung Pueh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215620",
+    "lat": "1.7990534",
+    "long": "109.7364452",
+    "name": "Kampung Sebat Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215626",
+    "lat": "1.7458638",
+    "long": "109.7910335",
+    "name": "Kampung Selarat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215627",
+    "lat": "1.6573256",
+    "long": "109.8241641",
+    "name": "Kampung Sembawang Kecil",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215630",
+    "lat": "1.8017986",
+    "long": "109.7809055",
+    "name": "Kampung Tanah Hitam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215631",
+    "lat": "1.7801798",
+    "long": "109.74314",
+    "name": "Kampung Temaga Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215640",
+    "lat": "1.7307646",
+    "long": "109.7731807",
+    "name": "Kampung Serayan Hulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215645",
+    "lat": "1.7716009",
+    "long": "109.7469166",
+    "name": "Kampung Temaga Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530215647",
+    "lat": "1.8059164",
+    "long": "109.7252872",
+    "name": "Kampung Sebat Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530283954",
+    "lat": "1.6454859",
+    "long": "109.8634489",
+    "name": "Kampung Stunggang Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530283962",
+    "lat": "2.0070246",
+    "long": "109.6460246",
+    "name": "Kampung Telok Melano",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2530283966",
+    "lat": "1.9838319",
+    "long": "109.6494987",
+    "name": "Kampung Telok Serabang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2531855634",
+    "lat": "1.6516768",
+    "long": "109.8256829",
+    "name": "Kampung Sembawang Besar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2531855635",
+    "lat": "1.6561639",
+    "long": "109.878546",
+    "name": "Kampung Klaoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2531855636",
+    "lat": "1.6613116",
+    "long": "109.8057616",
+    "name": "Kampung Titiakar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2531855637",
+    "lat": "1.6541048",
+    "long": "109.814173",
+    "name": "Kampung Sebigo Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533131634",
+    "lat": "1.6504821",
+    "long": "109.8920703",
+    "name": "Kampung Bengang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533131635",
+    "lat": "1.6405212",
+    "long": "109.6937928",
+    "name": "Kampung Pasir Hulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533131636",
+    "lat": "1.6199388",
+    "long": "109.8438334",
+    "name": "Kampung Sebemban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533131637",
+    "lat": "1.6288616",
+    "long": "109.8910403",
+    "name": "Kampung Gerunggang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161877",
+    "lat": "1.6944172",
+    "long": "109.7899403",
+    "name": "Kampung Sedemak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161880",
+    "lat": "1.6161637",
+    "long": "109.7262368",
+    "name": "Kampung Pasir Tengah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161883",
+    "lat": "1.6356995",
+    "long": "109.7808852",
+    "name": "Kampung Sedaing",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161898",
+    "lat": "1.7119104",
+    "long": "109.769504",
+    "name": "Kampung Keranji",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161901",
+    "lat": "1.742967",
+    "long": "109.7671008",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533161904",
+    "lat": "1.5545437",
+    "long": "109.7743706",
+    "name": "Kampung Kendaie",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212021",
+    "lat": "1.764243",
+    "long": "109.7914767",
+    "name": "Kampung Perigi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212022",
+    "lat": "1.8006176",
+    "long": "109.7969699",
+    "name": "Kampung Pugu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212023",
+    "lat": "1.8320159",
+    "long": "109.715259",
+    "name": "Kampung Siru Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212024",
+    "lat": "1.7009289",
+    "long": "109.8613429",
+    "name": "Kampung Tabuan Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212025",
+    "lat": "1.831158",
+    "long": "109.7324252",
+    "name": "Kampung Siru Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212026",
+    "lat": "1.7525755",
+    "long": "109.868896",
+    "name": "Kampung Bajo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212027",
+    "lat": "1.6588707",
+    "long": "109.8880094",
+    "name": "Kampung Temelan Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212028",
+    "lat": "1.7124251",
+    "long": "109.8632311",
+    "name": "Kampung Sekambal",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212029",
+    "lat": "1.6805101",
+    "long": "109.855678",
+    "name": "Kampung Sg. Lundu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212030",
+    "lat": "1.7644146",
+    "long": "109.7533679",
+    "name": "Kampung Paon",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533212031",
+    "lat": "1.6889179",
+    "long": "109.8505282",
+    "name": "Kampung Sebemban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533226050",
+    "lat": "1.6674694",
+    "long": "109.867351",
+    "name": "Kampung Dagang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533226051",
+    "lat": "1.6695285",
+    "long": "109.8585963",
+    "name": "Kampung Sileng Dayak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533226052",
+    "lat": "1.6364116",
+    "long": "109.7592043",
+    "name": "Kampung Tanjam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533226053",
+    "lat": "1.6401866",
+    "long": "109.7552561",
+    "name": "Kampung Opek",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533294576",
+    "lat": "1.6868588",
+    "long": "109.7906184",
+    "name": "Kampung Jampari",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533294577",
+    "lat": "1.7372876",
+    "long": "109.8682608",
+    "name": "Kampung Sebuloh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533294578",
+    "lat": "1.7210043",
+    "long": "109.8821139",
+    "name": "Kampung Sg. Limo/Kuali, Chupin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2533294579",
+    "lat": "1.7273529",
+    "long": "109.8666644",
+    "name": "Kampung Sg. Batu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999492",
+    "lat": "1.7055684",
+    "long": "109.7780326",
+    "name": "Kampung Sebiris",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999502",
+    "lat": "1.6027861",
+    "long": "109.7836974",
+    "name": "Kampung Bukit Batu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999514",
+    "lat": "1.7515528",
+    "long": "109.7572615",
+    "name": "Kampung Semapu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999518",
+    "lat": "1.7445179",
+    "long": "109.7485068",
+    "name": "Kampung Judin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999527",
+    "lat": "1.6420808",
+    "long": "109.7213843",
+    "name": "Kampung Baru Jangkar?",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999534",
+    "lat": "1.669192",
+    "long": "109.7186377",
+    "name": "Kampung Buang?",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2540999566",
+    "lat": "1.6981903",
+    "long": "109.7823241",
+    "name": "Kampung Tebaro",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2550003736",
+    "lat": "1.4178595",
+    "long": "110.2065523",
+    "name": "Kampung Sibulung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2550003737",
+    "lat": "1.4803243",
+    "long": "110.2068849",
+    "name": "Kampung Sungai Pinang Ulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2629398009",
+    "lat": "4.0443919",
+    "long": "114.8085751",
+    "name": "Mulu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2639635111",
+    "lat": "4.7361312",
+    "long": "115.0004129",
+    "name": "Happy Garden",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2669678079",
+    "lat": "4.1793687",
+    "long": "114.321109",
+    "name": "Marudi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2670912337",
+    "lat": "3.9749307",
+    "long": "114.1020098",
+    "name": "Bakong (Beluru)",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2677174258",
+    "lat": "4.881114",
+    "long": "115.0208561",
+    "name": "Kampung Limpaku Pinang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2677174260",
+    "lat": "4.8175455",
+    "long": "114.98378",
+    "name": "Kampung Belantak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2686693474",
+    "lat": "4.7858985",
+    "long": "114.9958799",
+    "name": "Taman Desa Pabahanan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2686693476",
+    "lat": "4.7872521",
+    "long": "115.0184321",
+    "name": "Kampung Limpaki",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2687912550",
+    "lat": "4.7898969",
+    "long": "115.0012938",
+    "name": "Taman Seri Patiambun",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2687912551",
+    "lat": "4.4871483",
+    "long": "114.9097308",
+    "name": "Nanga Medamit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2696213321",
+    "lat": "4.7834563",
+    "long": "114.9962436",
+    "name": "Pabahanan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2696213322",
+    "lat": "4.7599937",
+    "long": "115.0050905",
+    "name": "Kampung Pemukat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2696213323",
+    "lat": "4.7620006",
+    "long": "115.0172096",
+    "name": "Kampung Penapak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2696213589",
+    "lat": "4.0536485",
+    "long": "114.8186311",
+    "name": "Batu Bungan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2700998611",
+    "lat": "1.4676516",
+    "long": "110.4822493",
+    "name": "Kota Samarahan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2706193095",
+    "lat": "4.7633429",
+    "long": "115.0225935",
+    "name": "Kampung Nauran",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2710703640",
+    "lat": "4.8531171",
+    "long": "115.4215061",
+    "name": "Kampung Sungai Setakong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2710703660",
+    "lat": "4.8540744",
+    "long": "115.4077352",
+    "name": "Government Quarters Lawas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726463184",
+    "lat": "1.1489753",
+    "long": "110.5869394",
+    "name": "Kampung Ranchan Madang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467702",
+    "lat": "1.081345",
+    "long": "110.6042858",
+    "name": "Kampung Sg Brooke",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467705",
+    "lat": "1.1062588",
+    "long": "110.6098717",
+    "name": "Kampung Longgo",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467708",
+    "lat": "1.0875323",
+    "long": "110.6350046",
+    "name": "Kampung Blimbin B",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467709",
+    "lat": "1.1101874",
+    "long": "110.6245332",
+    "name": "Kampung Blimbin Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467713",
+    "lat": "1.1063839",
+    "long": "110.6293503",
+    "name": "Kampung Blimbin A",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467719",
+    "lat": "1.0871777",
+    "long": "110.6002716",
+    "name": "Kampung Merian Bedup",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467720",
+    "lat": "1.0757561",
+    "long": "110.6043567",
+    "name": "Kampung Sg Buluh Bedup",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467722",
+    "lat": "1.1171405",
+    "long": "110.6204712",
+    "name": "Kampung Sg Buntak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726467723",
+    "lat": "1.1006594",
+    "long": "110.6084341",
+    "name": "Kampung Merang Bedup",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726468425",
+    "lat": "1.1490182",
+    "long": "110.6515527",
+    "name": "Kampung Remun",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726468426",
+    "lat": "1.1666529",
+    "long": "110.6507974",
+    "name": "Kampung Lebor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726468427",
+    "lat": "1.1249475",
+    "long": "110.6303783",
+    "name": "Kampung Triboh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2726468428",
+    "lat": "1.133014",
+    "long": "110.6480508",
+    "name": "Kampung Remun Cina",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2755492753",
+    "lat": "1.5436384",
+    "long": "110.6140065",
+    "name": "Asajaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2755493315",
+    "lat": "1.4407633",
+    "long": "110.4592785",
+    "name": "Kampung Meranek",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2755494032",
+    "lat": "1.461043",
+    "long": "110.4422142",
+    "name": "Kampung Melaban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2755498454",
+    "lat": "1.4575679",
+    "long": "110.4970923",
+    "name": "Kampung Muara Tuang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2757707786",
+    "lat": "4.4707493",
+    "long": "114.0090456",
+    "name": "Lutong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2757709599",
+    "lat": "4.5842905",
+    "long": "114.0729085",
+    "name": "Sungai Tujoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2757720365",
+    "lat": "4.4074076",
+    "long": "114.0136195",
+    "name": "Padang Kerbau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2828438312",
+    "lat": "3.7386992",
+    "long": "115.4499848",
+    "name": "Pa' Ramapuh Atas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2828438313",
+    "lat": "3.7417114",
+    "long": "115.4485205",
+    "name": "Pa' Ramapuh Bawah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2891635958",
+    "lat": "2.3893278",
+    "long": "112.0317094",
+    "name": "Sungai Pasai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2893249336",
+    "lat": "2.0305575",
+    "long": "111.4796456",
+    "name": "Bayong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2893834116",
+    "lat": "4.0548868",
+    "long": "113.8449629",
+    "name": "Bekenu (Subis)",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2893905706",
+    "lat": "4.1209309",
+    "long": "114.0248874",
+    "name": "Entulang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2900294386",
+    "lat": "4.9568855",
+    "long": "115.5063837",
+    "name": "Merapok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "2900294387",
+    "lat": "4.9529446",
+    "long": "115.436175",
+    "name": "Kuala Lawas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3009793497",
+    "lat": "1.3769593",
+    "long": "110.4244448",
+    "name": "Kampung Sinaran Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3017337171",
+    "lat": "1.235973",
+    "long": "110.2197139",
+    "name": "Kampung Bojong Sting",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3017337533",
+    "lat": "1.2490838",
+    "long": "110.1807715",
+    "name": "Kampung Rejoi Nyegol",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3155716216",
+    "lat": "1.1886405",
+    "long": "110.250702",
+    "name": "Kampung Abang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3166090839",
+    "lat": "3.3859813",
+    "long": "114.8514963",
+    "name": "Ba Abang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3166091907",
+    "lat": "3.3456676",
+    "long": "114.8367871",
+    "name": "Long Senong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3166095733",
+    "lat": "3.3289162",
+    "long": "114.5953668",
+    "name": "Long Na'ah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3171486893",
+    "lat": "4.7687346",
+    "long": "115.0212944",
+    "name": "RPR Batu Biah Fasa 2",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3171486894",
+    "lat": "4.6875349",
+    "long": "115.0250014",
+    "name": "Kampung Pahlawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3181277799",
+    "lat": "2.7062161",
+    "long": "113.781628",
+    "name": "Belaga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3195311104",
+    "lat": "4.8865808",
+    "long": "115.3494803",
+    "name": "Kampung Punang Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3227680365",
+    "lat": "1.0035127",
+    "long": "110.6577444",
+    "name": "Kampung Krait",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3227680378",
+    "lat": "0.9235713",
+    "long": "110.685396",
+    "name": "Kampung Tong Nibong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3227680379",
+    "lat": "0.9395766",
+    "long": "110.6884216",
+    "name": "Kampung Empasa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3227680380",
+    "lat": "0.9612001",
+    "long": "110.6903854",
+    "name": "Kampung Sg Aping",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3227680381",
+    "lat": "1.0415172",
+    "long": "110.7423337",
+    "name": "Kampung Sg Tapang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3232755851",
+    "lat": "4.6908093",
+    "long": "115.0299564",
+    "name": "Kuarters Kastam CIQ Pandaruan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3267602139",
+    "lat": "2.791511",
+    "long": "112.2030093",
+    "name": "kampung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3267786007",
+    "lat": "2.6832623",
+    "long": "111.9332838",
+    "name": "Medong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324506629",
+    "lat": "1.4889975",
+    "long": "110.4868139",
+    "name": "Kampung Rembus",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324506902",
+    "lat": "1.4912261",
+    "long": "110.5048223",
+    "name": "Kampung Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324507943",
+    "lat": "1.4640709",
+    "long": "110.4993248",
+    "name": "Kampung Tanjung Bundong Tradisi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324507957",
+    "lat": "1.4648442",
+    "long": "110.4952682",
+    "name": "Kampung Tanjung Bundong Lot Fasa 1",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324508981",
+    "lat": "1.465552",
+    "long": "110.4915132",
+    "name": "Kampung Tanjung Bundong Lot Fasa 2",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324624881",
+    "lat": "1.4383524",
+    "long": "110.4396929",
+    "name": "Kampung Entingan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324638073",
+    "lat": "1.4546873",
+    "long": "110.4716648",
+    "name": "Kampung Sindang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324653427",
+    "lat": "1.4073959",
+    "long": "110.5245312",
+    "name": "Kampung Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324717617",
+    "lat": "1.4588702",
+    "long": "110.4281165",
+    "name": "Kampung Mangka",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3324718540",
+    "lat": "1.4836536",
+    "long": "110.4365123",
+    "name": "Kampung Sebayor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3343139744",
+    "lat": "3.3953845",
+    "long": "115.1775876",
+    "name": "Long Kepang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3343139745",
+    "lat": "3.4127782",
+    "long": "115.1736609",
+    "name": "Long Main",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3345100080",
+    "lat": "3.8590626",
+    "long": "114.6031774",
+    "name": "Long Buang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3345100081",
+    "lat": "3.8609605",
+    "long": "114.6109776",
+    "name": "Long Tujang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071609",
+    "lat": "3.1690914",
+    "long": "115.2209486",
+    "name": "Lio Mato",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071610",
+    "lat": "2.9862977",
+    "long": "114.9607952",
+    "name": "Long Jeeh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071611",
+    "lat": "2.860674",
+    "long": "114.9284137",
+    "name": "Long Jekitan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071612",
+    "lat": "3.1060753",
+    "long": "114.8130704",
+    "name": "Long Julan Pelutan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071613",
+    "lat": "2.9105272",
+    "long": "114.9433773",
+    "name": "Long Makabar",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071614",
+    "lat": "2.9922003",
+    "long": "114.942307",
+    "name": "Long Selawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071615",
+    "lat": "2.968427",
+    "long": "114.9278498",
+    "name": "Long Silat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071616",
+    "lat": "3.1624373",
+    "long": "115.1831224",
+    "name": "Long Tungan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3428071617",
+    "lat": "3.2390431",
+    "long": "114.8194578",
+    "name": "Tanjong Tepalit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3502259219",
+    "lat": "1.226693",
+    "long": "110.5128573",
+    "name": "Baki Lama",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3502348152",
+    "lat": "1.0642535",
+    "long": "110.651157",
+    "name": "Kampung Sri Menanti",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3606878404",
+    "lat": "1.7013947",
+    "long": "110.3685521",
+    "name": "Kampung Buntal",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3606926291",
+    "lat": "1.6981774",
+    "long": "110.3122901",
+    "name": "Kampung Pasir Pandak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3696517558",
+    "lat": "4.3913173",
+    "long": "113.9870128",
+    "name": "Miri",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3735567281",
+    "lat": "1.1039899",
+    "long": "110.5113842",
+    "name": "Tebakang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3735578672",
+    "lat": "1.3869099",
+    "long": "110.3598877",
+    "name": "Kampung Pengiran",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3779188932",
+    "lat": "1.3560099",
+    "long": "110.3252",
+    "name": "Kampung Bratan Asah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3779197557",
+    "lat": "1.3461654",
+    "long": "110.441498",
+    "name": "Kampung Batu Gong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "3915240478",
+    "lat": "2.234479",
+    "long": "111.2197012",
+    "name": "Tanjung Manis (Belawai)",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4006864986",
+    "lat": "4.4045217",
+    "long": "114.0041732",
+    "name": "Kampong Lereng Bukit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4006864987",
+    "lat": "4.4670523",
+    "long": "114.0141345",
+    "name": "Pangkalan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4006864988",
+    "lat": "4.4634797",
+    "long": "114.0058089",
+    "name": "Kampong Tulang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4008578457",
+    "lat": "4.4179194",
+    "long": "113.9941671",
+    "name": "Kampong Pulau Melayu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4023028188",
+    "lat": "1.449561",
+    "long": "110.2808877",
+    "name": "Batu Kitang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4030777906",
+    "lat": "4.4036457",
+    "long": "114.0068208",
+    "name": "Kampong Haji Wahed",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120121851",
+    "lat": "3.5359146",
+    "long": "115.555075",
+    "name": "Batu Patong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120121852",
+    "lat": "3.5668159",
+    "long": "115.5552037",
+    "name": "Pa Dalih",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120121853",
+    "lat": "3.59543",
+    "long": "115.5277459",
+    "name": "Pa Mada",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120121854",
+    "lat": "3.5541495",
+    "long": "115.4948004",
+    "name": "Ramudu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120124611",
+    "lat": "3.8099252",
+    "long": "115.5222031",
+    "name": "Pa Lungan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120124612",
+    "lat": "3.6622345",
+    "long": "115.5313124",
+    "name": "Pa Main",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120124613",
+    "lat": "3.7608184",
+    "long": "115.4875387",
+    "name": "Pa Ukat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4120124614",
+    "lat": "3.7375224",
+    "long": "115.5086531",
+    "name": "Pa Umor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4141911542",
+    "lat": "1.9399365",
+    "long": "113.2820859",
+    "name": "Rumah Garie",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4142001389",
+    "lat": "1.9502796",
+    "long": "113.3213923",
+    "name": "Nanga Kain",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223212793",
+    "lat": "4.1408233",
+    "long": "114.401772",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384191",
+    "lat": "2.3828927",
+    "long": "113.3516343",
+    "name": "Klinik",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384192",
+    "lat": "2.4868577",
+    "long": "113.5598595",
+    "name": "SK Nanga Telawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384193",
+    "lat": "2.3432834",
+    "long": "113.2963808",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384196",
+    "lat": "2.3824639",
+    "long": "113.3482225",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384220",
+    "lat": "2.4148152",
+    "long": "113.4132392",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384221",
+    "lat": "2.4165088",
+    "long": "113.430577",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384222",
+    "lat": "2.4308512",
+    "long": "113.4335811",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384223",
+    "lat": "2.481209",
+    "long": "113.520313",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4223384224",
+    "lat": "2.5174888",
+    "long": "113.6074821",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224995553",
+    "lat": "2.2826229",
+    "long": "113.125827",
+    "name": "Nanga Merit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996328",
+    "lat": "2.0370295",
+    "long": "113.0404093",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996329",
+    "lat": "2.0527828",
+    "long": "113.0591901",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996330",
+    "lat": "2.0562889",
+    "long": "113.0584069",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996331",
+    "lat": "2.0578543",
+    "long": "113.0633851",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996332",
+    "lat": "2.0663675",
+    "long": "113.0656382",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996333",
+    "lat": "2.0719857",
+    "long": "113.0709811",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996334",
+    "lat": "2.0797054",
+    "long": "113.070316",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996335",
+    "lat": "2.0817962",
+    "long": "113.0705627",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996336",
+    "lat": "2.0920997",
+    "long": "113.0721506",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996337",
+    "lat": "2.1068956",
+    "long": "113.0759271",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996338",
+    "lat": "2.1236319",
+    "long": "113.0825683",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996339",
+    "lat": "2.1318016",
+    "long": "113.0813237",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996340",
+    "lat": "2.1413651",
+    "long": "113.0777188",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996341",
+    "lat": "2.164523",
+    "long": "113.0715176",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996342",
+    "lat": "2.1697549",
+    "long": "113.0560681",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996343",
+    "lat": "2.1714703",
+    "long": "113.0593725",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996344",
+    "lat": "2.1760161",
+    "long": "113.0565079",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996345",
+    "lat": "2.1823093",
+    "long": "113.062559",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996346",
+    "lat": "2.1858366",
+    "long": "113.1578418",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996347",
+    "lat": "2.189278",
+    "long": "113.0571517",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996348",
+    "lat": "2.1930196",
+    "long": "113.1593438",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996349",
+    "lat": "2.1941346",
+    "long": "113.1196042",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996350",
+    "lat": "2.1946385",
+    "long": "113.1231769",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996351",
+    "lat": "2.1995487",
+    "long": "113.0839523",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996352",
+    "lat": "2.2119099",
+    "long": "113.1562968",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996353",
+    "lat": "2.2126818",
+    "long": "113.1527134",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996354",
+    "lat": "2.2388404",
+    "long": "113.1517907",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996355",
+    "lat": "2.2519195",
+    "long": "113.1238528",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996356",
+    "lat": "2.2531202",
+    "long": "113.1583997",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996357",
+    "lat": "2.2542352",
+    "long": "113.1267282",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996358",
+    "lat": "2.2568939",
+    "long": "113.1396886",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996359",
+    "lat": "2.2572798",
+    "long": "113.0992194",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996360",
+    "lat": "2.2584376",
+    "long": "113.1566831",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996361",
+    "lat": "2.2599385",
+    "long": "113.1050988",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996362",
+    "lat": "2.2625543",
+    "long": "113.1031247",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996363",
+    "lat": "2.2660277",
+    "long": "113.151147",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996364",
+    "lat": "2.2670997",
+    "long": "113.1597301",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996365",
+    "lat": "2.2684291",
+    "long": "113.1543227",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996370",
+    "lat": "2.2758476",
+    "long": "113.0970522",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996374",
+    "lat": "2.2812721",
+    "long": "113.1202909",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996383",
+    "lat": "2.2840808",
+    "long": "113.129979",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996384",
+    "lat": "2.2856353",
+    "long": "113.1242605",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996385",
+    "lat": "2.2862142",
+    "long": "113.1360515",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996386",
+    "lat": "2.2872433",
+    "long": "113.1315025",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996387",
+    "lat": "2.2907381",
+    "long": "113.1400427",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996388",
+    "lat": "2.3024875",
+    "long": "113.1584319",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996389",
+    "lat": "2.308405",
+    "long": "113.1686028",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996390",
+    "lat": "2.314151",
+    "long": "113.1935366",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996391",
+    "lat": "2.3174956",
+    "long": "113.2104882",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996392",
+    "lat": "2.3186105",
+    "long": "113.2191142",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996393",
+    "lat": "2.3228985",
+    "long": "113.2336196",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996394",
+    "lat": "2.342173",
+    "long": "113.2847961",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4224996395",
+    "lat": "2.3422373",
+    "long": "113.2742175",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4340627857",
+    "lat": "1.5274257",
+    "long": "111.0032373",
+    "name": "Kampung Triso",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4419765979",
+    "lat": "2.0868644",
+    "long": "112.3608439",
+    "name": "Nanga Tada Resettlement Scheme",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4419848813",
+    "lat": "3.0486328",
+    "long": "113.9157803",
+    "name": "Sungai Asap Resettlement Scheme",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4508933089",
+    "lat": "1.65",
+    "long": "111.03333",
+    "name": "Maludam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963748",
+    "lat": "3.0427637",
+    "long": "114.8504356",
+    "name": "Long Palai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963749",
+    "lat": "3.0623053",
+    "long": "114.8212532",
+    "name": "Long Anap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963753",
+    "lat": "4.0215823",
+    "long": "114.3942156",
+    "name": "Long Ikang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963754",
+    "lat": "3.843432",
+    "long": "114.448289",
+    "name": "Long Banyok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963766",
+    "lat": "3.2614578",
+    "long": "115.4074518",
+    "name": "Long Peluan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963767",
+    "lat": "3.2034215",
+    "long": "115.3941212",
+    "name": "Long Banga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963768",
+    "lat": "3.3279497",
+    "long": "114.7612413",
+    "name": "Long Liam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963769",
+    "lat": "3.4440633",
+    "long": "114.4882514",
+    "name": "Long Nakan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963770",
+    "lat": "3.4840385",
+    "long": "114.4282775",
+    "name": "Long Pillah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963771",
+    "lat": "3.6012542",
+    "long": "114.4074955",
+    "name": "Uma Bawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963772",
+    "lat": "3.5851069",
+    "long": "114.4324293",
+    "name": "Long Miri",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963773",
+    "lat": "3.6879767",
+    "long": "114.4307609",
+    "name": "Sri Kenawan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963774",
+    "lat": "3.7119806",
+    "long": "114.4230308",
+    "name": "Sungai Dua",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963775",
+    "lat": "3.7317657",
+    "long": "114.4282665",
+    "name": "Long Laput",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833963776",
+    "lat": "3.8164467",
+    "long": "114.4362273",
+    "name": "Uma Akeh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964107",
+    "lat": "3.05719",
+    "long": "115.076256",
+    "name": "Long Moh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964108",
+    "lat": "3.1397937",
+    "long": "114.8131232",
+    "name": "Long Apu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964281",
+    "lat": "3.3235568",
+    "long": "115.0852152",
+    "name": "Data Bilah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964300",
+    "lat": "3.4207297",
+    "long": "115.1542607",
+    "name": "Long Lellang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964301",
+    "lat": "3.4447084",
+    "long": "114.9600044",
+    "name": "Long Seniai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833964302",
+    "lat": "3.3655998",
+    "long": "114.9008241",
+    "name": "LongTebangan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833967320",
+    "lat": "3.1137061",
+    "long": "115.1285606",
+    "name": "Long Semiang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4833967821",
+    "lat": "3.0918085",
+    "long": "115.0854736",
+    "name": "Long Sela'an",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079532",
+    "lat": "3.4814236",
+    "long": "114.0407393",
+    "name": "Long Tisam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079533",
+    "lat": "3.5404365",
+    "long": "114.0648316",
+    "name": "Rh Takung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079534",
+    "lat": "3.5858737",
+    "long": "114.1164467",
+    "name": "Long Jegan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079535",
+    "lat": "3.6170292",
+    "long": "114.1523796",
+    "name": "Long Teran Kanan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079536",
+    "lat": "3.6138258",
+    "long": "114.1506647",
+    "name": "Long Teran Kiri",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079537",
+    "lat": "3.6442358",
+    "long": "114.1628444",
+    "name": "Long Tabeng",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834079538",
+    "lat": "3.6947631",
+    "long": "114.1999356",
+    "name": "Long Toyut",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834089488",
+    "lat": "3.254882",
+    "long": "114.349584",
+    "name": "Long Nuah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834093835",
+    "lat": "3.2516554",
+    "long": "114.3448132",
+    "name": "Long Aton",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834094096",
+    "lat": "3.2917755",
+    "long": "114.3125477",
+    "name": "Lepo Leju",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834094097",
+    "lat": "3.3261039",
+    "long": "114.2769061",
+    "name": "Long Sobing",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834094098",
+    "lat": "3.4156909",
+    "long": "114.1393906",
+    "name": "Long Aya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834094099",
+    "lat": "3.4300406",
+    "long": "114.126884",
+    "name": "Apau Goon",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834094100",
+    "lat": "3.4486502",
+    "long": "114.1173865",
+    "name": "Long Loyang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834106683",
+    "lat": "3.240317",
+    "long": "114.3799739",
+    "name": "Long Lobang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4834272899",
+    "lat": "1.5574127",
+    "long": "110.3439862",
+    "name": "Kuching",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4848749250",
+    "lat": "4.4008924",
+    "long": "113.9877917",
+    "name": "Kampong Wireless",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4858762322",
+    "lat": "4.4068795",
+    "long": "113.9944264",
+    "name": "Kampong Sungai Baong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4915877846",
+    "lat": "4.3627055",
+    "long": "113.9902671",
+    "name": "Kampong Lopeng Tengah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4915877847",
+    "lat": "4.3511633",
+    "long": "113.976992",
+    "name": "Kampong Luak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "4932179554",
+    "lat": "1.5992454",
+    "long": "110.4314574",
+    "name": "Sejingkat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5049847039",
+    "lat": "1.3185109",
+    "long": "110.246352",
+    "name": "Rejoi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5049847040",
+    "lat": "1.3238087",
+    "long": "110.2509904",
+    "name": "Taba Sait",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5049847041",
+    "lat": "1.3221063",
+    "long": "110.2458635",
+    "name": "Pain Bojong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5049847042",
+    "lat": "1.3174744",
+    "long": "110.2505862",
+    "name": "Semban",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5049904837",
+    "lat": "1.3117022",
+    "long": "110.4246256",
+    "name": "Kampung Sion",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5259127679",
+    "lat": "1.5701596",
+    "long": "110.2376089",
+    "name": "RPR Matang Sungai Tengah 2",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5259866758",
+    "lat": "1.0541908",
+    "long": "110.8719325",
+    "name": "Kampung Jirok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260024066",
+    "lat": "1.0747072",
+    "long": "111.1458367",
+    "name": "Rapak Tebus",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260025226",
+    "lat": "1.084328",
+    "long": "111.1840204",
+    "name": "Lachau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283297",
+    "lat": "1.0411278",
+    "long": "110.7745639",
+    "name": "Kampung Ensebang Jaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283298",
+    "lat": "1.0416642",
+    "long": "110.7806579",
+    "name": "Kampung Ensebang Padang Billion",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283299",
+    "lat": "1.0385319",
+    "long": "110.7885972",
+    "name": "Kampung Ensebang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283300",
+    "lat": "1.0395831",
+    "long": "110.8285514",
+    "name": "Kampung Abit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283301",
+    "lat": "1.0460837",
+    "long": "110.8477775",
+    "name": "Kampung Telagus",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283302",
+    "lat": "1.0672158",
+    "long": "110.9059382",
+    "name": "Kampung Sungai Kura",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283304",
+    "lat": "1.0765054",
+    "long": "110.9140063",
+    "name": "Kampung Gawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283305",
+    "lat": "1.0732658",
+    "long": "110.967114",
+    "name": "Kampung Sabal Kurwin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283308",
+    "lat": "1.0744029",
+    "long": "111.0250283",
+    "name": "Abok Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283309",
+    "lat": "1.083671",
+    "long": "111.036315",
+    "name": "Kampung Limau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283310",
+    "lat": "1.0838212",
+    "long": "111.0409928",
+    "name": "Kampung Aping Dadak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283311",
+    "lat": "1.0801096",
+    "long": "111.0713983",
+    "name": "Simpang Ubah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283315",
+    "lat": "1.0784577",
+    "long": "111.1649108",
+    "name": "Kampung Rapak Atas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283316",
+    "lat": "1.0807533",
+    "long": "111.1706615",
+    "name": "Kampung Rapak Lachau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283317",
+    "lat": "1.0886483",
+    "long": "111.1969257",
+    "name": "Kampung Lachau Jinggau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283318",
+    "lat": "1.1032368",
+    "long": "111.2254429",
+    "name": "Punggu Batu Anchau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283319",
+    "lat": "1.0986028",
+    "long": "111.2305069",
+    "name": "Punggu Tapang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283320",
+    "lat": "1.0976803",
+    "long": "111.2392831",
+    "name": "Punggu Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283621",
+    "lat": "1.0962214",
+    "long": "111.2404848",
+    "name": "Punggu Jinggau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283622",
+    "lat": "1.0952989",
+    "long": "111.2428022",
+    "name": "Punggu Dadak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283623",
+    "lat": "1.0875756",
+    "long": "111.2626076",
+    "name": "Ran",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283624",
+    "lat": "1.0725579",
+    "long": "111.2910605",
+    "name": "Kampung Gua Dalam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283626",
+    "lat": "1.0618953",
+    "long": "111.3404775",
+    "name": "Kampung Selepong Jinggau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283627",
+    "lat": "1.0631825",
+    "long": "111.3429881",
+    "name": "Kampung Selepong Lop",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283628",
+    "lat": "1.0647915",
+    "long": "111.3445115",
+    "name": "Kampung Selepong Jagu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283629",
+    "lat": "1.06713",
+    "long": "111.3535667",
+    "name": "Kampung Selepong Maleh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283630",
+    "lat": "1.0690394",
+    "long": "111.3565064",
+    "name": "Kampung Selepong Beranggan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283632",
+    "lat": "1.0794231",
+    "long": "111.3753033",
+    "name": "Kemintin Klaoh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283633",
+    "lat": "1.0836066",
+    "long": "111.377728",
+    "name": "Kemintin Tengah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283635",
+    "lat": "1.092939",
+    "long": "111.3888431",
+    "name": "Panggil",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283636",
+    "lat": "1.1020783",
+    "long": "111.3931132",
+    "name": "Melugu Kuari",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283637",
+    "lat": "1.1044811",
+    "long": "111.4037991",
+    "name": "Melugu Tengah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283638",
+    "lat": "1.1078064",
+    "long": "111.4090562",
+    "name": "Sungai Dor",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283639",
+    "lat": "1.1172246",
+    "long": "111.4222098",
+    "name": "Kampung Melugu Tembawai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283641",
+    "lat": "1.1220731",
+    "long": "111.4302564",
+    "name": "Kampung Pok Ai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283642",
+    "lat": "1.1399009",
+    "long": "111.4378739",
+    "name": "Entulang Pra",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283643",
+    "lat": "1.1438484",
+    "long": "111.4396978",
+    "name": "Entulang Lalang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283645",
+    "lat": "1.1503273",
+    "long": "111.4439464",
+    "name": "Entulang Jalai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260283646",
+    "lat": "1.1510996",
+    "long": "111.4473367",
+    "name": "Entulang Engkalat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386621",
+    "lat": "1.1584324",
+    "long": "111.4694875",
+    "name": "Kampung Sutong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386632",
+    "lat": "1.1428375",
+    "long": "111.4810922",
+    "name": "Kampung Pakit A",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386633",
+    "lat": "1.1412033",
+    "long": "111.4831284",
+    "name": "Kampung Pakit B",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386634",
+    "lat": "1.1369078",
+    "long": "111.4913195",
+    "name": "Kampung Bayai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386636",
+    "lat": "1.1221827",
+    "long": "111.5344119",
+    "name": "Kampung Entawa",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386682",
+    "lat": "1.1190188",
+    "long": "111.5473872",
+    "name": "San Ugol",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386683",
+    "lat": "1.1161485",
+    "long": "111.5499417",
+    "name": "Kampung Nanga Kelassin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386685",
+    "lat": "1.122869",
+    "long": "111.5711953",
+    "name": "Kampung San Raba",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386686",
+    "lat": "1.1253436",
+    "long": "111.5771616",
+    "name": "Lempong Empeliau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386687",
+    "lat": "1.1247575",
+    "long": "111.5801578",
+    "name": "San Kemantan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386688",
+    "lat": "1.1237807",
+    "long": "111.5840919",
+    "name": "San Demam",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386689",
+    "lat": "1.1201599",
+    "long": "111.5912176",
+    "name": "San Uncap Undop",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5260386690",
+    "lat": "1.1217489",
+    "long": "111.5989686",
+    "name": "Lepong Sampai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586921",
+    "lat": "1.1515028",
+    "long": "111.6488016",
+    "name": "Kampung Stuga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586925",
+    "lat": "1.1848268",
+    "long": "111.6576421",
+    "name": "Sedarat Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586926",
+    "lat": "1.1921984",
+    "long": "111.6581657",
+    "name": "Sedarat Salin",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586928",
+    "lat": "1.2026155",
+    "long": "111.6550989",
+    "name": "Sedarat Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586938",
+    "lat": "1.2318626",
+    "long": "111.6457438",
+    "name": "Spalau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5261586939",
+    "lat": "1.2351539",
+    "long": "111.6451902",
+    "name": "Memaloi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5267144768",
+    "lat": "4.7673376",
+    "long": "115.0012465",
+    "name": "Kampung Limpaong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5267172539",
+    "lat": "4.7368384",
+    "long": "114.8337295",
+    "name": "Kampung Ipai Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5267172540",
+    "lat": "4.7423314",
+    "long": "114.8374313",
+    "name": "Kampung Ipai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5267229245",
+    "lat": "4.6590698",
+    "long": "114.8209542",
+    "name": "Kampung Lembuak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5475973149",
+    "lat": "3.1175031",
+    "long": "113.2648667",
+    "name": "Sebauh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5483882725",
+    "lat": "4.8028296",
+    "long": "114.9993459",
+    "name": "Taman Cempaka Indah (Ranggau)",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5503613729",
+    "lat": "4.6586011",
+    "long": "114.827349",
+    "name": "Kampung Pandak",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5509770227",
+    "lat": "4.8478293",
+    "long": "115.3786004",
+    "name": "Kampung Batu Tiga",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5509803446",
+    "lat": "4.8904506",
+    "long": "115.3499662",
+    "name": "Punang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5509803447",
+    "lat": "4.7892403",
+    "long": "115.2393069",
+    "name": "Mengkalap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5601624663",
+    "lat": "1.3926426",
+    "long": "110.3832904",
+    "name": "Kampung Sebenyis",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5701605653",
+    "lat": "1.5011137",
+    "long": "110.5029783",
+    "name": "Kampung Tambey",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5701608191",
+    "lat": "1.4786444",
+    "long": "110.4571244",
+    "name": "Kampung Plaie",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5701613801",
+    "lat": "1.4782422",
+    "long": "110.4187902",
+    "name": "Kampung Jernang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5755304291",
+    "lat": "1.407647",
+    "long": "110.5292406",
+    "name": "Kampung Bangka Semong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5763996964",
+    "lat": "3.8632704",
+    "long": "114.6793598",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5764043332",
+    "lat": "3.7974311",
+    "long": "114.8128609",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5830854886",
+    "lat": "3.7721392",
+    "long": "114.9042806",
+    "name": "Long Urang Village",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5909113885",
+    "lat": "1.5606533",
+    "long": "110.3517708",
+    "name": "Kampung Boyan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "5952002184",
+    "lat": "2.0238054",
+    "long": "112.3997025",
+    "name": "Nanga Ngemah",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6181690200",
+    "lat": "4.722681",
+    "long": "114.9909492",
+    "name": "Kampung Malagangai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6181690201",
+    "lat": "4.7014861",
+    "long": "114.9848171",
+    "name": "Kampung Batu Bakarang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229960181",
+    "lat": "4.8519434",
+    "long": "115.3894817",
+    "name": "Kampung Batu Dua",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229960182",
+    "lat": "4.8466241",
+    "long": "115.3758885",
+    "name": "Perumahan Polis Batu Empat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229960183",
+    "lat": "4.8465894",
+    "long": "115.3599004",
+    "name": "Kampung Pangi",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229960184",
+    "lat": "4.8352819",
+    "long": "115.3293494",
+    "name": "Kampung Lumut",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229961685",
+    "lat": "4.8213859",
+    "long": "115.2929799",
+    "name": "Kampung Belunad",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229961686",
+    "lat": "4.8216294",
+    "long": "115.3008987",
+    "name": "Siang-Siang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229961687",
+    "lat": "4.7780612",
+    "long": "115.2711049",
+    "name": "Kampung Seberang Kedai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6229961688",
+    "lat": "4.7764035",
+    "long": "115.2498747",
+    "name": "Kampung Lintang Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008856",
+    "lat": "4.6914329",
+    "long": "115.0295545",
+    "name": "CIQ Pandaruan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008857",
+    "lat": "4.6860944",
+    "long": "115.0174173",
+    "name": "Kampung Tebahan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008858",
+    "lat": "4.7031171",
+    "long": "115.0088939",
+    "name": "Kampung Emok",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008861",
+    "lat": "4.7243192",
+    "long": "115.0139679",
+    "name": "Kampung Sayung",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008862",
+    "lat": "4.7302675",
+    "long": "115.0146471",
+    "name": "Kampung Benuas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008863",
+    "lat": "4.7357644",
+    "long": "115.0171513",
+    "name": "Kampung Gumaya",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6230008864",
+    "lat": "4.7414553",
+    "long": "115.0167419",
+    "name": "Kampung Tuna",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6324415485",
+    "lat": "1.9890879",
+    "long": "112.3991531",
+    "name": "Ngungun Resettlement Scheme",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6324428666",
+    "lat": "2.0558559",
+    "long": "112.3245767",
+    "name": "Nanga Dap",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6324714318",
+    "lat": "2.0174274",
+    "long": "112.0205896",
+    "name": "Machan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6352396254",
+    "lat": "4.6338803",
+    "long": "114.9004452",
+    "name": "Kampung Palas",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6352396255",
+    "lat": "4.6529048",
+    "long": "114.9282193",
+    "name": "Kampung Agong Tua",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6352423289",
+    "lat": "4.6423279",
+    "long": "114.8698015",
+    "name": "Kampung Limpasong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6352423290",
+    "lat": "4.6464593",
+    "long": "114.8861702",
+    "name": "Kampung Anak Tuno",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6352434660",
+    "lat": "4.6396908",
+    "long": "114.8354176",
+    "name": "Kampung Pangkalan Madang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6477440307",
+    "lat": "1.8849042",
+    "long": "113.4474523",
+    "name": "Nanga Gaat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6477440308",
+    "lat": "1.8113706",
+    "long": "113.75721",
+    "name": "Putai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6743149258",
+    "lat": "4.2856446",
+    "long": "115.4965533",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6743752597",
+    "lat": "4.1915766",
+    "long": "115.5743969",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745439926",
+    "lat": "4.3636632",
+    "long": "114.9421598",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745461650",
+    "lat": "3.977604",
+    "long": "115.0689841",
+    "name": "Long Seridan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745602078",
+    "lat": "3.5410591",
+    "long": "114.5049752",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745705765",
+    "lat": "3.8016836",
+    "long": "114.9081753",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745738457",
+    "lat": "4.1765683",
+    "long": "115.1405581",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6745791860",
+    "lat": "4.31838",
+    "long": "114.8961794",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6781594837",
+    "lat": "4.7810185",
+    "long": "114.9998352",
+    "name": "Ranggau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6813421274",
+    "lat": "4.7802243",
+    "long": "114.8513762",
+    "name": "Kampung Lubuk Sigantang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6908134080",
+    "lat": "1.2216445",
+    "long": "110.4962942",
+    "name": "Kampung Mawang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "6908134081",
+    "lat": "1.2216932",
+    "long": "110.4914156",
+    "name": "Kampung Baru",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7027470850",
+    "lat": "3.0138194",
+    "long": "112.5868626",
+    "name": "Kampung Kuala Balingian",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7027470983",
+    "lat": "2.398459",
+    "long": "112.1377899",
+    "name": "Stapang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7030544519",
+    "lat": "2.1338299",
+    "long": "111.335745",
+    "name": "Tanjung Manis",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7030575089",
+    "lat": "2.1545327",
+    "long": "111.2543307",
+    "name": "Kampung Rajang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7030575090",
+    "lat": "2.202415",
+    "long": "111.2218515",
+    "name": "Kampung Jerijeh",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7030575091",
+    "lat": "2.212427",
+    "long": "111.2902152",
+    "name": null,
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7377427594",
+    "lat": "1.0196738",
+    "long": "111.5529762",
+    "name": "Batu Lintang",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7384179372",
+    "lat": "3.9776266",
+    "long": "115.6195149",
+    "name": "Ba'kelalan",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7439173954",
+    "lat": "1.0751442",
+    "long": "111.2939133",
+    "name": "Kampung Gua Sukat",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7487693029",
+    "lat": "4.0574689",
+    "long": "113.8082313",
+    "name": "Kampung Bungai",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7490849089",
+    "lat": "1.4711963",
+    "long": "110.7569665",
+    "name": "Kampung Sungai Ladong",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7500031560",
+    "lat": "1.2316024",
+    "long": "111.7840218",
+    "name": "Kesit",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7924710469",
+    "lat": "1.5195776",
+    "long": "110.935784",
+    "name": "Sebuyau",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7925323955",
+    "lat": "1.5441271",
+    "long": "110.8597809",
+    "name": "Kampung Tebelu",
+    "isIn": "Sarawak"
+  },
+  {
+    "id": "7995228543",
+    "lat": "3.4541738",
+    "long": "114.5102561",
+    "name": "Long Keseh",
+    "isIn": "Sarawak"
+  }
+]

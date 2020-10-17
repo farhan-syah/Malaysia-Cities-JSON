@@ -1,0 +1,2907 @@
+[
+  {
+    "id": "254072815",
+    "lat": "5.8431721",
+    "long": "100.5379401",
+    "name": "Padang Lembu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072842",
+    "lat": "5.5126654",
+    "long": "100.554626",
+    "name": "Padang Serai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072852",
+    "lat": "5.8271983",
+    "long": "100.3864512",
+    "name": "Yan Kechil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072877",
+    "lat": "6.3615186",
+    "long": "100.3404487",
+    "name": "Padang Sira",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072890",
+    "lat": "6.0550898",
+    "long": "100.7649333",
+    "name": "Kampung Nami",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072891",
+    "lat": "5.6435195",
+    "long": "100.4869513",
+    "name": "Sungai Petani",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072910",
+    "lat": "6.2045027",
+    "long": "100.4126769",
+    "name": "Kepala Batas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072926",
+    "lat": "6.1072177",
+    "long": "100.2934899",
+    "name": "Kuala Kedah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072928",
+    "lat": "5.5869272",
+    "long": "100.374018",
+    "name": "Kota Kuala Muda",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072949",
+    "lat": "6.0679849",
+    "long": "100.535603",
+    "name": "Senara",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072962",
+    "lat": "5.9730109",
+    "long": "100.50924",
+    "name": "Pondok Chegar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072965",
+    "lat": "5.212229",
+    "long": "100.614886",
+    "name": "Serdang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072972",
+    "lat": "5.5586385",
+    "long": "100.6374519",
+    "name": "Merbau Pulas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072976",
+    "lat": "5.1404327",
+    "long": "100.5902252",
+    "name": "Lubok Buntar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254072984",
+    "lat": "5.6348525",
+    "long": "100.8102947",
+    "name": "Kuala Pegang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073009",
+    "lat": "6.4330675",
+    "long": "100.4300739",
+    "name": "Changlun",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073014",
+    "lat": "6.1673132",
+    "long": "100.5174321",
+    "name": "Pokok Sena",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073071",
+    "lat": "5.692029",
+    "long": "100.590015",
+    "name": "Kelang Baharu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073074",
+    "lat": "6.4482318",
+    "long": "100.5053095",
+    "name": "Sintok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073081",
+    "lat": "5.602235",
+    "long": "100.645219",
+    "name": "Kuala Ketil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073099",
+    "lat": "6.394604",
+    "long": "100.3041483",
+    "name": "Kodiang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073244",
+    "lat": "5.5867352",
+    "long": "100.4418379",
+    "name": "Tikam Batu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073272",
+    "lat": "5.9747543",
+    "long": "100.35181",
+    "name": "Kuala Sala",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073301",
+    "lat": "5.8188544",
+    "long": "100.7442773",
+    "name": "Sik",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073408",
+    "lat": "5.9155863",
+    "long": "100.4267909",
+    "name": "Simpang Tiga Sungai Limau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073422",
+    "lat": "5.2332796",
+    "long": "100.6823555",
+    "name": "Selama (Bandar Baharu)",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073431",
+    "lat": "5.6568699",
+    "long": "100.8893892",
+    "name": "Pulai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073453",
+    "lat": "5.6381832",
+    "long": "100.8428981",
+    "name": "Kupang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073470",
+    "lat": "5.7226681",
+    "long": "100.4136266",
+    "name": "Merbok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073515",
+    "lat": "6.2013651",
+    "long": "100.4285516",
+    "name": "Bukit Pinang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073638",
+    "lat": "5.8709704",
+    "long": "100.3822809",
+    "name": "Sedaka",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073690",
+    "lat": "6.0240402",
+    "long": "100.3817648",
+    "name": "Simpang Empat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073878",
+    "lat": "6.139806",
+    "long": "100.669139",
+    "name": "Naka",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073898",
+    "lat": "6.2667849",
+    "long": "100.4197465",
+    "name": "Jitra",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254073990",
+    "lat": "6.5067161",
+    "long": "100.4189583",
+    "name": "Bukit Kayu Hitam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074062",
+    "lat": "6.0260669",
+    "long": "100.477256",
+    "name": "Tanah Merah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074118",
+    "lat": "5.6801505",
+    "long": "100.3654243",
+    "name": "Tanjung Dawai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074119",
+    "lat": "5.8585298",
+    "long": "100.4582892",
+    "name": "Guar Chempedak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074209",
+    "lat": "5.6774578",
+    "long": "100.9172699",
+    "name": "Baling",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074225",
+    "lat": "6.1585932",
+    "long": "100.3731518",
+    "name": "Alor Merah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074226",
+    "lat": "5.975202",
+    "long": "100.3990214",
+    "name": "Kota Sarang Semut",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074254",
+    "lat": "5.2861845",
+    "long": "100.6272266",
+    "name": "Terap",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074330",
+    "lat": "5.8186842",
+    "long": "100.4762517",
+    "name": "Gurun",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074338",
+    "lat": "5.2984641",
+    "long": "100.5341948",
+    "name": "Junjong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074476",
+    "lat": "6.2551502",
+    "long": "100.6071004",
+    "name": "Kuala Nerang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074480",
+    "lat": "5.1876043",
+    "long": "100.6029833",
+    "name": "Ayer Puteh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "254074512",
+    "lat": "5.5957988",
+    "long": "100.7710362",
+    "name": "Tawar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "295037382",
+    "lat": "6.1231908",
+    "long": "100.3683962",
+    "name": "Alor Setar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "585118150",
+    "lat": "6.2913362",
+    "long": "99.7289401",
+    "name": "Pantai Cenang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "585121072",
+    "lat": "6.3205283",
+    "long": "99.850326",
+    "name": "Kuah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "593074591",
+    "lat": "5.5788104",
+    "long": "100.4708635",
+    "name": "Kampung Pokok Assam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "601159023",
+    "lat": "5.5271054",
+    "long": "100.567658",
+    "name": "Sidam Kanan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "601159034",
+    "lat": "5.5362249",
+    "long": "100.570972",
+    "name": "Sidam Kiri",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "611548421",
+    "lat": "5.6998786",
+    "long": "100.516445",
+    "name": "Sungai Lalang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "647516496",
+    "lat": "5.4293914",
+    "long": "100.5324792",
+    "name": "Lunas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "647516604",
+    "lat": "5.447666",
+    "long": "100.5513591",
+    "name": "Sungai Seluang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "647516632",
+    "lat": "5.476028",
+    "long": "100.557226",
+    "name": "Naga Lilit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "648755642",
+    "lat": "5.3663769",
+    "long": "100.5525705",
+    "name": "Kulim",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1278331725",
+    "lat": "6.3706601",
+    "long": "99.6720019",
+    "name": "Oriental Village",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1280329754",
+    "lat": "6.3630676",
+    "long": "99.7151",
+    "name": "Kuala Teriang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1280351076",
+    "lat": "6.2814791",
+    "long": "99.7304458",
+    "name": "Pantai Tengah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1283626948",
+    "lat": "6.4564669",
+    "long": "99.8242558",
+    "name": "Pantai Tanjung Rhu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1626704031",
+    "lat": "6.0363571",
+    "long": "100.4831204",
+    "name": "Kampung Alor Punti",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1756885926",
+    "lat": "5.9757529",
+    "long": "100.4528799",
+    "name": "Kampung Batu Menunggul",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1756908074",
+    "lat": "6.0526888",
+    "long": "100.4783869",
+    "name": "Kampung Alor Pudak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1803684838",
+    "lat": "6.4041908",
+    "long": "99.8529105",
+    "name": "Kampung Kilim",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1803684839",
+    "lat": "6.3199709",
+    "long": "99.7261039",
+    "name": "Kampung Paya Mempelam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1804678282",
+    "lat": "6.3884704",
+    "long": "99.8601074",
+    "name": "Kampung Belanga Pecah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1813682240",
+    "lat": "5.7279019",
+    "long": "100.6301666",
+    "name": "Kg Perak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1814762546",
+    "lat": "6.3553784",
+    "long": "99.7186457",
+    "name": "Kampung Kuala Muda",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548908",
+    "lat": "5.8423011",
+    "long": "100.3856478",
+    "name": "Dulang Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548911",
+    "lat": "5.9498621",
+    "long": "100.3639969",
+    "name": "Kampung Bahagia",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548914",
+    "lat": "6.0043098",
+    "long": "100.3542765",
+    "name": "Kampung Haji Jamal",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548930",
+    "lat": "5.927847",
+    "long": "100.3669415",
+    "name": "Kampung Pisang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548936",
+    "lat": "5.9369589",
+    "long": "100.3653295",
+    "name": "Kampung Sungai Dedap",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548941",
+    "lat": "5.8811389",
+    "long": "100.3788447",
+    "name": "Kampong Sungai Kering",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548945",
+    "lat": "5.9593664",
+    "long": "100.3633351",
+    "name": "Permatang Buluh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826548953",
+    "lat": "5.8987648",
+    "long": "100.3788844",
+    "name": "Sungai Limau Dalam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826559761",
+    "lat": "5.5571857",
+    "long": "100.8889586",
+    "name": "Kampung Kuala Kuang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826559767",
+    "lat": "5.5617208",
+    "long": "100.8984389",
+    "name": "Kampung Padang Lengkuas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1826559771",
+    "lat": "5.5886441",
+    "long": "100.8785903",
+    "name": "Kampung Tiak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1930139466",
+    "lat": "6.4340128",
+    "long": "100.4399887",
+    "name": "Kampung Changhai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1930139467",
+    "lat": "6.4315224",
+    "long": "100.4567525",
+    "name": "Kampung Changkat Setol",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "1947191800",
+    "lat": "6.3804287",
+    "long": "99.8694735",
+    "name": "Taman Nilam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2075762348",
+    "lat": "6.2815605",
+    "long": "100.2186193",
+    "name": "Sanglang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2330154047",
+    "lat": "6.1551732",
+    "long": "100.4698479",
+    "name": "Jabi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2529083611",
+    "lat": "6.1296138",
+    "long": "100.4078532",
+    "name": "Kampung Alor Gandak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2529083612",
+    "lat": "6.14289",
+    "long": "100.4096915",
+    "name": "Telaga Bata",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917319",
+    "lat": "5.9555868",
+    "long": "100.4105036",
+    "name": "Bukit Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917320",
+    "lat": "5.9222136",
+    "long": "100.422579",
+    "name": "Kampung Batu 14",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917321",
+    "lat": "5.8984532",
+    "long": "100.4369804",
+    "name": "Kampung Batu 16",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917322",
+    "lat": "5.8872786",
+    "long": "100.4441957",
+    "name": "Kampung Batu 17",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917323",
+    "lat": "5.8719037",
+    "long": "100.4540671",
+    "name": "Kampung Batu 18",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2550917335",
+    "lat": "5.9052467",
+    "long": "100.4329335",
+    "name": "Padang Lumat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2586824729",
+    "lat": "5.8637949",
+    "long": "100.4408475",
+    "name": "Kampung Titi Batu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2628401012",
+    "lat": "6.1450454",
+    "long": "100.4253366",
+    "name": "Kampung Pokok Asam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2632050393",
+    "lat": "5.9092082",
+    "long": "100.4141847",
+    "name": "Kampung Batas Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2639672897",
+    "lat": "6.1637457",
+    "long": "100.3682784",
+    "name": "Mentaloon",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2639672898",
+    "lat": "6.1687747",
+    "long": "100.3659291",
+    "name": "Pantai Johor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2649852254",
+    "lat": "6.0664272",
+    "long": "100.3694285",
+    "name": "Kampung Selarong Lalang Kanan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2649852255",
+    "lat": "6.1566837",
+    "long": "100.4223154",
+    "name": "Kampung Sungai Mati",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2649852258",
+    "lat": "6.1607589",
+    "long": "100.4266348",
+    "name": "Pantai Jamai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2674652230",
+    "lat": "5.8408919",
+    "long": "100.3721517",
+    "name": "Kampung Kuala Dulang Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "2675174920",
+    "lat": "5.8485123",
+    "long": "100.4351834",
+    "name": "Teroi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3018212158",
+    "lat": "6.1455705",
+    "long": "100.4317462",
+    "name": "Pekan Langgar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3164738800",
+    "lat": "6.2182785",
+    "long": "100.4747951",
+    "name": "Kampung Bukit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3164738801",
+    "lat": "6.2217253",
+    "long": "100.4584485",
+    "name": "Kampung Kepala Batu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3215289264",
+    "lat": "6.2370789",
+    "long": "100.5464806",
+    "name": "Kampung Nai Teh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3215456975",
+    "lat": "6.0845604",
+    "long": "100.3697855",
+    "name": "Kampung Keriang Pulau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368004",
+    "lat": "6.2098933",
+    "long": "100.4727825",
+    "name": "Derang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368005",
+    "lat": "6.1381456",
+    "long": "100.4181038",
+    "name": "Kampong Alor Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368008",
+    "lat": "6.1832475",
+    "long": "100.4216013",
+    "name": "Kampong Dalam Kota",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368009",
+    "lat": "6.2031405",
+    "long": "100.4524474",
+    "name": "Kampong Lengkuas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368010",
+    "lat": "6.1763298",
+    "long": "100.4431962",
+    "name": "Kampong Padang Kunyit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368011",
+    "lat": "6.1176972",
+    "long": "100.4326828",
+    "name": "Kampong Padang Petani",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368012",
+    "lat": "5.8824575",
+    "long": "100.4621048",
+    "name": "Kampong Sungai Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368013",
+    "lat": "6.2413345",
+    "long": "100.4165423",
+    "name": "Tanah Merah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368014",
+    "lat": "6.205059",
+    "long": "100.3921426",
+    "name": "Kampung Alor Ganu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368015",
+    "lat": "6.1875378",
+    "long": "100.3786037",
+    "name": "Kampung Alor Senjaya",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368017",
+    "lat": "6.1719616",
+    "long": "100.404199",
+    "name": "Kampung Bohor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368021",
+    "lat": "6.2550371",
+    "long": "100.4454369",
+    "name": "Kampung Kelubi Dalam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368022",
+    "lat": "6.2622283",
+    "long": "100.4375055",
+    "name": "Kampung Kelubi Luar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368023",
+    "lat": "6.1462825",
+    "long": "100.3137796",
+    "name": "Kampung Kuala Sungai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368025",
+    "lat": "6.1387412",
+    "long": "100.3080253",
+    "name": "Kampung Kubang Rotan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368029",
+    "lat": "6.1049051",
+    "long": "100.3675558",
+    "name": "Kampung Pegawai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368030",
+    "lat": "6.2103452",
+    "long": "100.5393617",
+    "name": "Kampung Rancangan Bukit Tembaga",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368031",
+    "lat": "6.1547841",
+    "long": "100.3674672",
+    "name": "Kampung Seberang Pumpong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368032",
+    "lat": "6.1639147",
+    "long": "100.3658504",
+    "name": "Kampung Suka Menanti",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368033",
+    "lat": "6.1771376",
+    "long": "100.5198415",
+    "name": "Kampung Sungai Durian",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368034",
+    "lat": "6.0252901",
+    "long": "100.3376898",
+    "name": "Kampung Sungai Nonang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368036",
+    "lat": "6.0960796",
+    "long": "100.3345777",
+    "name": "Kampung Telok Chengai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368037",
+    "lat": "6.0904804",
+    "long": "100.3191812",
+    "name": "Kampung Telok Kechai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368038",
+    "lat": "6.2037067",
+    "long": "100.3996032",
+    "name": "Kampung Titi Gajah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368039",
+    "lat": "6.2135256",
+    "long": "100.4162919",
+    "name": "Kampung Tok Jalai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368040",
+    "lat": "5.9668278",
+    "long": "100.4333097",
+    "name": "Kobah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368041",
+    "lat": "6.15131",
+    "long": "100.3690412",
+    "name": "Pumpong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368042",
+    "lat": "6.0450394",
+    "long": "100.332633",
+    "name": "Tebengau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3266368043",
+    "lat": "6.0285312",
+    "long": "100.4069001",
+    "name": "Tokai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053061",
+    "lat": "5.7275567",
+    "long": "100.5094517",
+    "name": "Bedong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053066",
+    "lat": "5.969079",
+    "long": "100.419951",
+    "name": "Kampung Bukit Choras",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053067",
+    "lat": "5.7670155",
+    "long": "100.3688767",
+    "name": "Ruat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053068",
+    "lat": "5.8941081",
+    "long": "100.4128398",
+    "name": "Selingkoh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053069",
+    "lat": "5.7010341",
+    "long": "100.4720645",
+    "name": "Semeling",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269053070",
+    "lat": "5.8327601",
+    "long": "100.3990037",
+    "name": "Titi Serong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930307",
+    "lat": "6.1500165",
+    "long": "100.5629826",
+    "name": "Bukit Payong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930308",
+    "lat": "5.6829765",
+    "long": "100.6345075",
+    "name": "Bukit Selambau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930309",
+    "lat": "6.0200031",
+    "long": "100.819184",
+    "name": "Gulau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930310",
+    "lat": "5.814609",
+    "long": "100.6294418",
+    "name": "Jeniang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930311",
+    "lat": "6.1030061",
+    "long": "100.4540315",
+    "name": "Kampong Alor Senibong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930313",
+    "lat": "5.9115134",
+    "long": "100.7597617",
+    "name": "Kampung Telaga Batu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930314",
+    "lat": "5.9907075",
+    "long": "100.5978751",
+    "name": "Sungai Tiang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930315",
+    "lat": "6.0788554",
+    "long": "100.4633116",
+    "name": "Titi Haji Idris",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3269930316",
+    "lat": "6.101033",
+    "long": "100.4846371",
+    "name": "Tualang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3285899676",
+    "lat": "6.385953",
+    "long": "100.3866792",
+    "name": "Guar Napai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3285994952",
+    "lat": "5.599374",
+    "long": "100.6862953",
+    "name": "Batu Tiga",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3285994954",
+    "lat": "5.7617097",
+    "long": "100.6438085",
+    "name": "Kuala Sin",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289328275",
+    "lat": "5.7000515",
+    "long": "100.4167472",
+    "name": "Kampong Bendang Dalam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289328285",
+    "lat": "5.6900846",
+    "long": "100.4347482",
+    "name": "Bujang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289328286",
+    "lat": "5.7078905",
+    "long": "100.3909865",
+    "name": "Pengkalan Kakap",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289328287",
+    "lat": "5.7302974",
+    "long": "100.3645728",
+    "name": "Singkir Laut",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289470426",
+    "lat": "6.1143571",
+    "long": "100.412774",
+    "name": "Alor Semela",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289470427",
+    "lat": "6.1157964",
+    "long": "100.3837071",
+    "name": "Kampung Alor Malong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289470430",
+    "lat": "6.2156627",
+    "long": "100.3918502",
+    "name": "Kampung Naga",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289470431",
+    "lat": "6.1312561",
+    "long": "100.4172588",
+    "name": "Limbong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3289470432",
+    "lat": "6.2165996",
+    "long": "100.461069",
+    "name": "Pelubang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3290145602",
+    "lat": "6.2375645",
+    "long": "100.2475584",
+    "name": "Ayer Hitam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3290145603",
+    "lat": "6.2139888",
+    "long": "100.2658606",
+    "name": "Jerlun",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3290145605",
+    "lat": "6.2582695",
+    "long": "100.23699",
+    "name": "Kerpan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3290145606",
+    "lat": "6.2438009",
+    "long": "100.2133075",
+    "name": "Kuala Kerpan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3290145607",
+    "lat": "6.3321076",
+    "long": "100.335457",
+    "name": "Megat Dewa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3316833922",
+    "lat": "5.8399967",
+    "long": "100.4535245",
+    "name": "Kampung Titi Teras",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653152",
+    "lat": "5.8525713",
+    "long": "100.4708088",
+    "name": "Kampong Banggol Lalang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653153",
+    "lat": "6.0322925",
+    "long": "100.3776995",
+    "name": "Kampong Benua",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653154",
+    "lat": "6.2519849",
+    "long": "100.5733885",
+    "name": "Kampung Bakong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653156",
+    "lat": "5.9872878",
+    "long": "100.3956021",
+    "name": "Kampung Buloh Lima",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653157",
+    "lat": "6.1032908",
+    "long": "100.3982636",
+    "name": "Kampung Gerigis",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653159",
+    "lat": "6.0542311",
+    "long": "100.3698752",
+    "name": "Kampung Kebun Pinang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653160",
+    "lat": "6.2674067",
+    "long": "100.5769225",
+    "name": "Kampung Rambutan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3337653161",
+    "lat": "6.2435344",
+    "long": "100.5711885",
+    "name": "Kampung Sena",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3341955849",
+    "lat": "5.8534113",
+    "long": "100.3842057",
+    "name": "Dulang Kechil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3341955851",
+    "lat": "5.8411943",
+    "long": "100.4184266",
+    "name": "Kampung Batu 22",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3341955852",
+    "lat": "5.9791889",
+    "long": "100.3577468",
+    "name": "Kampung Permatang Bongor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3341955854",
+    "lat": "6.0376446",
+    "long": "100.3319788",
+    "name": "Kampung Sungai Papan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3363779419",
+    "lat": "5.5557962",
+    "long": "100.5604952",
+    "name": "Kampong Padang Buloh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3363779420",
+    "lat": "5.456389",
+    "long": "100.5707418",
+    "name": "Kampung Bukit Sarang Ayam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3363779421",
+    "lat": "5.4965707",
+    "long": "100.6141617",
+    "name": "Padang Meiha",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3363779425",
+    "lat": "5.5629216",
+    "long": "100.5097367",
+    "name": "Kampung Seberang Tok Soh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3365341716",
+    "lat": "6.2840948",
+    "long": "100.5432684",
+    "name": "Kampung Bukit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3365341717",
+    "lat": "6.3093795",
+    "long": "100.5342665",
+    "name": "Kampung Perik",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3371532178",
+    "lat": "5.1311187",
+    "long": "100.4972785",
+    "name": "Bandar Baharu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3403625920",
+    "lat": "6.0292036",
+    "long": "100.5091055",
+    "name": "Guar Kepayang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3403625922",
+    "lat": "6.0423207",
+    "long": "100.4394797",
+    "name": "Kampung Jelai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3403625924",
+    "lat": "6.0873695",
+    "long": "100.5532645",
+    "name": "Kubur Panjang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953253",
+    "lat": "6.1835513",
+    "long": "100.6221573",
+    "name": "Kampong Pong Manis",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953254",
+    "lat": "6.2238236",
+    "long": "100.6019994",
+    "name": "Kampung Bukit Nambua",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953255",
+    "lat": "6.1441018",
+    "long": "100.6001953",
+    "name": "Kampung Bukit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953257",
+    "lat": "6.2339164",
+    "long": "100.5911698",
+    "name": "Kampung Hijrah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953259",
+    "lat": "6.134914",
+    "long": "100.4638421",
+    "name": "Kampung Minangkabau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3410953264",
+    "lat": "6.2025184",
+    "long": "100.6115852",
+    "name": "Pong Utara",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3417763145",
+    "lat": "6.4494829",
+    "long": "100.4522284",
+    "name": "Kampung Tok Kassim",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3421859436",
+    "lat": "6.3476604",
+    "long": "100.4231879",
+    "name": "Kampong Nongka",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3444822810",
+    "lat": "6.0691107",
+    "long": "100.4369026",
+    "name": "Kampong Alor Binjal",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3444822811",
+    "lat": "6.066667",
+    "long": "100.416667",
+    "name": "Kampong Tok Keling",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3444822812",
+    "lat": "6.173856",
+    "long": "100.311556",
+    "name": "Kampung Alor Janggus",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3444822813",
+    "lat": "6.188357",
+    "long": "100.283352",
+    "name": "Kampung Simpang Empat Kuar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3444822814",
+    "lat": "6.233333",
+    "long": "100.4",
+    "name": "Lubuk Kawah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3600376099",
+    "lat": "6.1692658",
+    "long": "100.3940327",
+    "name": "Kampong Seberang Alor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3602290877",
+    "lat": "6.1560192",
+    "long": "100.4021089",
+    "name": "Kampung Masjid Lama",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3604638001",
+    "lat": "6.0941037",
+    "long": "100.3700817",
+    "name": "Kampung Kuala Alor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3611782979",
+    "lat": "5.851494",
+    "long": "100.373018",
+    "name": "Kampung Kuala Dulang Kechil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3611782980",
+    "lat": "6.0367673",
+    "long": "100.3456767",
+    "name": "Kampung Teluk Bulang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3611782983",
+    "lat": "6.010621",
+    "long": "100.3511709",
+    "name": "Permatang Ibus",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3624596930",
+    "lat": "6.1992788",
+    "long": "100.2995585",
+    "name": "Kampung Huma",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3624596931",
+    "lat": "6.2022371",
+    "long": "100.3156583",
+    "name": "Kampung Hutan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3624596932",
+    "lat": "6.1633556",
+    "long": "100.3098171",
+    "name": "Kampung Padang Lalang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3624596933",
+    "lat": "6.1845051",
+    "long": "100.3145444",
+    "name": "Kampung Sematang Gunong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3625967256",
+    "lat": "6.2848838",
+    "long": "100.356315",
+    "name": "Kampong Gelong Rambai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3625967257",
+    "lat": "6.2811729",
+    "long": "100.3629523",
+    "name": "Kampong Jeram",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3625967258",
+    "lat": "6.2500519",
+    "long": "100.260555",
+    "name": "Kampong Lubok Ayer",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3625967259",
+    "lat": "6.2453341",
+    "long": "100.3793468",
+    "name": "Kampung Teluk Malek",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3627947539",
+    "lat": "5.8717958",
+    "long": "100.4124318",
+    "name": "Kampung Ulu Sedaka",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184937",
+    "lat": "5.8342206",
+    "long": "100.6150973",
+    "name": "Kampong Kalai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184938",
+    "lat": "5.7380553",
+    "long": "100.7305943",
+    "name": "Kampung Batu Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184940",
+    "lat": "5.794175",
+    "long": "100.6898316",
+    "name": "Kampung Batu Lima",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184941",
+    "lat": "5.70107",
+    "long": "100.839625",
+    "name": "Kampung Charok Kelian",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184942",
+    "lat": "5.707582",
+    "long": "100.777687",
+    "name": "Kampung Charok Salang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184943",
+    "lat": "5.7012061",
+    "long": "100.8221591",
+    "name": "Kampung Charok Sik",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184944",
+    "lat": "5.7830678",
+    "long": "100.6884461",
+    "name": "Kampung Merbau Kudong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184945",
+    "lat": "5.7048781",
+    "long": "100.7463661",
+    "name": "Kampung Parit Panjang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184946",
+    "lat": "5.6770168",
+    "long": "100.8660088",
+    "name": "Kampung Sungai Limau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184949",
+    "lat": "5.70139",
+    "long": "100.78825",
+    "name": "Kampung Tas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184950",
+    "lat": "5.776943",
+    "long": "100.699903",
+    "name": "Kampung Teloi Tua",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3720184951",
+    "lat": "5.7568792",
+    "long": "100.712884",
+    "name": "Kampung Tupai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036334",
+    "lat": "5.6839789",
+    "long": "100.8503809",
+    "name": "Kampong Sirako",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036335",
+    "lat": "5.6965207",
+    "long": "100.8185632",
+    "name": "Kampung Asam Jawa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036336",
+    "lat": "5.804686",
+    "long": "100.57831",
+    "name": "Kampung Batu Lapan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036337",
+    "lat": "5.8153901",
+    "long": "100.6460051",
+    "name": "Kampung Begia",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036338",
+    "lat": "5.792395",
+    "long": "100.634721",
+    "name": "Kampung Cemara",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036339",
+    "lat": "5.7613216",
+    "long": "100.7198685",
+    "name": "Kampung Kerawai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3721036340",
+    "lat": "5.6950617",
+    "long": "100.7602889",
+    "name": "Kampung Lanas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3736492648",
+    "lat": "6.071117",
+    "long": "100.5118865",
+    "name": "Kampung Bukit Sekechong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3736492649",
+    "lat": "6.0793179",
+    "long": "100.5272847",
+    "name": "Kampung Kubang Pisang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316451",
+    "lat": "6.0510073",
+    "long": "100.521053",
+    "name": "Kampong Banggol Temak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316452",
+    "lat": "6.1152758",
+    "long": "100.6141915",
+    "name": "Kampong Lampam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316453",
+    "lat": "6.0958631",
+    "long": "100.5800604",
+    "name": "Kampong Perupok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316454",
+    "lat": "6.116547",
+    "long": "100.5999081",
+    "name": "Kampung Bendang Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316455",
+    "lat": "6.0966164",
+    "long": "100.5934873",
+    "name": "Kampung Bendang Raja",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316456",
+    "lat": "6.1511195",
+    "long": "100.5790397",
+    "name": "Kampung Lancuk Emat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316458",
+    "lat": "6.1131039",
+    "long": "100.4746433",
+    "name": "Kampung Tengah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316459",
+    "lat": "6.1132173",
+    "long": "100.5829101",
+    "name": "Kubang Leret",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3744316460",
+    "lat": "6.0557727",
+    "long": "100.5024201",
+    "name": "Penyarom",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3752880797",
+    "lat": "5.980907",
+    "long": "100.382491",
+    "name": "Kampung Alor Serdang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3752985175",
+    "lat": "6.07078",
+    "long": "100.346626",
+    "name": "Kampung Hujung Telok Bagan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3752985176",
+    "lat": "6.019156",
+    "long": "100.370422",
+    "name": "Kampung Selarong Panjang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3752985177",
+    "lat": "6.0704075",
+    "long": "100.35574",
+    "name": "Kampung Teluk Bagan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3794034448",
+    "lat": "6.2328507",
+    "long": "100.4852113",
+    "name": "Kampong Menerong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3794629502",
+    "lat": "6.2094765",
+    "long": "100.5107066",
+    "name": "Kampung Panchor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3794629503",
+    "lat": "6.254954",
+    "long": "100.5393175",
+    "name": "Kampung Tanjung Putus",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3814074625",
+    "lat": "6.119925",
+    "long": "100.2897657",
+    "name": "Kampung Telok Talipon",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3827117943",
+    "lat": "6.2649243",
+    "long": "100.6066159",
+    "name": "Kampong Padang Lanjut",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3827117944",
+    "lat": "6.2858705",
+    "long": "100.64366",
+    "name": "Kampung Tanjung Kiri",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3908564075",
+    "lat": "5.7206101",
+    "long": "100.3989026",
+    "name": "Kampung Belau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537263",
+    "lat": "6.1834958",
+    "long": "100.6964098",
+    "name": "Kampong Belukar Luas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537264",
+    "lat": "6.1893039",
+    "long": "100.6811812",
+    "name": "Kampong Datok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537265",
+    "lat": "6.2391747",
+    "long": "100.6292295",
+    "name": "Kampung Barohkas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537266",
+    "lat": "6.143289",
+    "long": "100.6782012",
+    "name": "Kampung Bendang Tok Teri",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537267",
+    "lat": "6.2699108",
+    "long": "100.5395358",
+    "name": "Kampung Kubu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537268",
+    "lat": "6.2049805",
+    "long": "100.6470836",
+    "name": "Kampung Lubok Perong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3926537269",
+    "lat": "6.1355305",
+    "long": "100.6436726",
+    "name": "Kampung Padang Kerasak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268830",
+    "lat": "6.2362098",
+    "long": "100.3191211",
+    "name": "Kampong Sungai Korok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268831",
+    "lat": "6.2363438",
+    "long": "100.3063277",
+    "name": "Kampung Alor Biak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268832",
+    "lat": "6.2298754",
+    "long": "100.2665705",
+    "name": "Kampung Kemboja",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268833",
+    "lat": "6.2313105",
+    "long": "100.2934756",
+    "name": "Kampung Kepala Dua Puloh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268834",
+    "lat": "6.2645224",
+    "long": "100.2237315",
+    "name": "Kampung Lubok Pinang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268835",
+    "lat": "6.2380747",
+    "long": "100.329768",
+    "name": "Kampung Telaga Batu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268836",
+    "lat": "6.2267698",
+    "long": "100.4036933",
+    "name": "Kampung Telok Gelam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268837",
+    "lat": "6.2333504",
+    "long": "100.2906931",
+    "name": "Kubang Sepat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268839",
+    "lat": "6.2437456",
+    "long": "100.3918175",
+    "name": "Paya Keriang Menyabong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268840",
+    "lat": "6.2456277",
+    "long": "100.4084391",
+    "name": "Paya Lateh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3927268841",
+    "lat": "6.2435903",
+    "long": "100.326117",
+    "name": "Pulau Chapa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296703",
+    "lat": "6.3314361",
+    "long": "100.431227",
+    "name": "Kampong Binjal",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296704",
+    "lat": "6.3950509",
+    "long": "100.4529652",
+    "name": "Kampong Darat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296705",
+    "lat": "6.272136",
+    "long": "100.442085",
+    "name": "Kampong Manggol",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296706",
+    "lat": "6.2851132",
+    "long": "100.4446797",
+    "name": "Kampong Penia",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296707",
+    "lat": "6.2920791",
+    "long": "100.4451448",
+    "name": "Kampong Perupok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296709",
+    "lat": "6.392234",
+    "long": "100.438079",
+    "name": "Kampung Jeragan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296711",
+    "lat": "6.3631623",
+    "long": "100.4238399",
+    "name": "Napoh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296712",
+    "lat": "6.3704541",
+    "long": "100.4203364",
+    "name": "Kampung Napuh Hulu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296713",
+    "lat": "6.3529595",
+    "long": "100.4270312",
+    "name": "Kampung Natoi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296715",
+    "lat": "6.2980992",
+    "long": "100.4603446",
+    "name": "Kampung Padang Panjang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3929296723",
+    "lat": "6.2814166",
+    "long": "100.4480921",
+    "name": "Malau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3940096832",
+    "lat": "6.1110456",
+    "long": "100.4242348",
+    "name": "Kampong Gelam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3942277493",
+    "lat": "5.9028105",
+    "long": "100.4762221",
+    "name": "Bukit Jenun",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3942277501",
+    "lat": "5.9469447",
+    "long": "100.4442899",
+    "name": "Kampung Alor Nan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3942277502",
+    "lat": "5.954993",
+    "long": "100.478403",
+    "name": "Kampung Ayer Puteh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3944699326",
+    "lat": "5.6057146",
+    "long": "100.4873248",
+    "name": "Kampung Matang Gadong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3948538470",
+    "lat": "5.4379879",
+    "long": "100.5816592",
+    "name": "Kampung Padang Cina",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3957164393",
+    "lat": "5.9500201",
+    "long": "100.4640416",
+    "name": "Kampong Bukit Jambul",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3957164394",
+    "lat": "5.872207",
+    "long": "100.505228",
+    "name": "Kampung Pokok Tai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3971828757",
+    "lat": "6.1780081",
+    "long": "100.4145131",
+    "name": "Kampung Hutan Kandis",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690430",
+    "lat": "6.1779615",
+    "long": "100.3554588",
+    "name": "Kampung Alor Gunung",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690431",
+    "lat": "6.2912783",
+    "long": "100.2293752",
+    "name": "Kampung Batas Bengkok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690432",
+    "lat": "6.3277998",
+    "long": "100.261273",
+    "name": "Kampung Batu 4",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690433",
+    "lat": "6.2974926",
+    "long": "100.2346172",
+    "name": "Kampung Batu 7",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690434",
+    "lat": "6.2425473",
+    "long": "100.2430298",
+    "name": "Kampung Masjid",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690435",
+    "lat": "6.2288762",
+    "long": "100.3246755",
+    "name": "Kampung Matang Kong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690436",
+    "lat": "6.3030099",
+    "long": "100.239571",
+    "name": "Kampung Sungai Korok 1",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690437",
+    "lat": "6.2042569",
+    "long": "100.3292983",
+    "name": "Kampung Telok Binasa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "3984690438",
+    "lat": "6.2184708",
+    "long": "100.3173152",
+    "name": "Kampung Telok Jawa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4007938171",
+    "lat": "6.1996456",
+    "long": "100.3644285",
+    "name": "Kampung Pulau Kerengga",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4030172627",
+    "lat": "6.1896541",
+    "long": "100.4227278",
+    "name": "Kampung Baru Telok",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4203696989",
+    "lat": "5.5573499",
+    "long": "100.6193627",
+    "name": "Kampung Permatang Durian",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4277774591",
+    "lat": "6.3288567",
+    "long": "100.3691621",
+    "name": "Kampung Imam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4277774597",
+    "lat": "6.3284817",
+    "long": "100.3640282",
+    "name": "Kampung Pulau Pak Ubin",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4277774598",
+    "lat": "6.3441978",
+    "long": "100.3538639",
+    "name": "Kampung Putat",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4277774611",
+    "lat": "6.2873343",
+    "long": "100.3749842",
+    "name": "Tunjang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4294346758",
+    "lat": "6.2784775",
+    "long": "100.3805338",
+    "name": "Kampung Pulau Kechik",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4307545705",
+    "lat": "5.5988659",
+    "long": "100.5923533",
+    "name": "Kampung Jerong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4307545706",
+    "lat": "5.6858465",
+    "long": "100.6637322",
+    "name": "Kampung Kuala Lesong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4307545708",
+    "lat": "5.6195078",
+    "long": "100.665668",
+    "name": "Kampung Padang Kulim",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4472622921",
+    "lat": "6.2707966",
+    "long": "100.3823781",
+    "name": "Kampung Pulau Pisang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585133",
+    "lat": "6.4063213",
+    "long": "100.3122565",
+    "name": "Kampung Damai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585134",
+    "lat": "6.4029734",
+    "long": "100.3155959",
+    "name": "Kampung Ibus",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585135",
+    "lat": "6.4015341",
+    "long": "100.3099766",
+    "name": "Kampung Tengah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585199",
+    "lat": "6.3636363",
+    "long": "100.293901",
+    "name": "Kampung Batu 1",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585200",
+    "lat": "6.3780414",
+    "long": "100.3222304",
+    "name": "Kampung Kandis",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4541585213",
+    "lat": "6.3237714",
+    "long": "100.2556097",
+    "name": "Kampung Batu 5",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4584825590",
+    "lat": "5.5190107",
+    "long": "100.6138057",
+    "name": "Karangan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4586489498",
+    "lat": "5.5473608",
+    "long": "100.5827034",
+    "name": "Kampung Kemumbung",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4633876667",
+    "lat": "5.5406203",
+    "long": "100.5691052",
+    "name": "Kampung Olak Madu",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4753333450",
+    "lat": "6.321041",
+    "long": "100.4494949",
+    "name": "Kampung Tradisi Paya Pahlawan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4757530197",
+    "lat": "6.1218701",
+    "long": "100.4107153",
+    "name": "Kampung Alor Buluh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4760131640",
+    "lat": "6.0103138",
+    "long": "100.4507376",
+    "name": "Bukit Raya",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4762132989",
+    "lat": "6.0940978",
+    "long": "100.4280475",
+    "name": "Alor Melintang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4767995628",
+    "lat": "5.9160732",
+    "long": "100.3722301",
+    "name": "Sungai Daun",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4776221852",
+    "lat": "6.0117493",
+    "long": "100.4067906",
+    "name": "Kampung Pulai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4776617241",
+    "lat": "6.0055327",
+    "long": "100.4023562",
+    "name": "Kampung Senggora",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4777221374",
+    "lat": "5.9393683",
+    "long": "100.4280606",
+    "name": "Kampong Pulau Emas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4796009026",
+    "lat": "6.495386",
+    "long": "100.474643",
+    "name": "Bukit Tangga",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4796908015",
+    "lat": "6.4055499",
+    "long": "100.4307134",
+    "name": "Kampung Bendang Perang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4796911125",
+    "lat": "6.4130291",
+    "long": "100.4323187",
+    "name": "Kampung Guar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4796911126",
+    "lat": "6.4199272",
+    "long": "100.4301294",
+    "name": "Kampung Padang Halban",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4796911132",
+    "lat": "6.438979",
+    "long": "100.4549587",
+    "name": "Kampung Rawa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4800588422",
+    "lat": "6.3427353",
+    "long": "100.6868506",
+    "name": "Padang Sanai",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4805610420",
+    "lat": "5.6489074",
+    "long": "100.4795459",
+    "name": "Kampung Penghulu Him",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4805610927",
+    "lat": "6.29389",
+    "long": "100.2142869",
+    "name": "Kampung Lubok Gong Gek",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4851237769",
+    "lat": "6.196554",
+    "long": "100.3825159",
+    "name": "Kampung Alor Madi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4947196475",
+    "lat": "5.8327804",
+    "long": "100.4718483",
+    "name": "Kampung Jelatang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "4965417723",
+    "lat": "5.5232138",
+    "long": "100.5486238",
+    "name": "Kampung Sentosa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5020390331",
+    "lat": "6.4489617",
+    "long": "100.3860176",
+    "name": "Kampung Sungai Aton",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5024736119",
+    "lat": "6.4313068",
+    "long": "100.4462117",
+    "name": "Kampung Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5041454188",
+    "lat": "5.4429876",
+    "long": "100.5694484",
+    "name": "Kampung Paya Serdang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5041454189",
+    "lat": "5.5379507",
+    "long": "100.5440855",
+    "name": "Kampong Guar Lobak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5041454190",
+    "lat": "5.9675037",
+    "long": "100.3599357",
+    "name": "Kampung Jemerlang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5041454191",
+    "lat": "6.0582398",
+    "long": "100.3352165",
+    "name": "Kampung Peregam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5052929123",
+    "lat": "5.7953119",
+    "long": "100.372302",
+    "name": "Yan Besar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5097317740",
+    "lat": "5.7905333",
+    "long": "100.8943535",
+    "name": "Siong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5337303718",
+    "lat": "5.9718146",
+    "long": "100.3525275",
+    "name": "Kampung Seberang Jaya",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5339363018",
+    "lat": "5.8683213",
+    "long": "100.4232788",
+    "name": "Kampung Sungai Lintang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5339363069",
+    "lat": "5.8547883",
+    "long": "100.4018426",
+    "name": "Dulang Kecil Tengah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5339363070",
+    "lat": "5.8256933",
+    "long": "100.4045033",
+    "name": "Kampung Setar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5382681846",
+    "lat": "6.1206439",
+    "long": "100.325126",
+    "name": "Kampung Hutan Betut",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5382681847",
+    "lat": "6.1188144",
+    "long": "100.3008628",
+    "name": "Kampung Kelunchor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5389430419",
+    "lat": "6.3061277",
+    "long": "100.4120564",
+    "name": "Kampung Hutan Terabak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5389430420",
+    "lat": "6.3032057",
+    "long": "100.4049969",
+    "name": "Kampung Salit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5389465521",
+    "lat": "6.3001132",
+    "long": "100.3605151",
+    "name": "Kampung Padang Limau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5389465522",
+    "lat": "6.2649039",
+    "long": "100.2681228",
+    "name": "Kampung Matang Paku",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5430784714",
+    "lat": "5.5890204",
+    "long": "100.487492",
+    "name": "Kampung Pulau Tengah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5433783636",
+    "lat": "5.809787",
+    "long": "100.7283223",
+    "name": "Kampung Batu Lapan",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5559390143",
+    "lat": "6.446616",
+    "long": "100.4420327",
+    "name": "Kampung Tradisi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5559390144",
+    "lat": "6.4403899",
+    "long": "100.4447149",
+    "name": "Kampung Lembah Keriang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5677457151",
+    "lat": "5.6176195",
+    "long": "100.4640376",
+    "name": "Kampong Sungai Pasir",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5917407072",
+    "lat": "5.2727919",
+    "long": "100.6810069",
+    "name": "Desa KEDA",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5917418610",
+    "lat": "5.2862743",
+    "long": "100.6707555",
+    "name": "Kampung Sungai Tengas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5926162729",
+    "lat": "5.118269",
+    "long": "100.56189",
+    "name": "Permatang Kerat Telunjuk",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5926177325",
+    "lat": "5.1307876",
+    "long": "100.5746734",
+    "name": "Kampung Permatang Simpor",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "5996680753",
+    "lat": "5.2586896",
+    "long": "100.6036949",
+    "name": "Kampung Badlishah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6017481933",
+    "lat": "5.2320899",
+    "long": "100.5550523",
+    "name": "Relau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6030023535",
+    "lat": "6.0105263",
+    "long": "100.3878361",
+    "name": "Selarong Batang",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6169637962",
+    "lat": "5.966618",
+    "long": "100.5781818",
+    "name": "Kampung Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6169637963",
+    "lat": "5.959698",
+    "long": "100.5408078",
+    "name": "Sawa Kecil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6169638785",
+    "lat": "5.9641451",
+    "long": "100.5272654",
+    "name": "Padang Pusing",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6188020158",
+    "lat": "6.0035961",
+    "long": "100.3433825",
+    "name": "Kuala Kangkong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6260280973",
+    "lat": "6.2055519",
+    "long": "100.4273611",
+    "name": "Kampung Bukit Tinggi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6260281453",
+    "lat": "6.283477",
+    "long": "100.4312637",
+    "name": "Kampung Bata",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6299194368",
+    "lat": "6.2721566",
+    "long": "100.4312503",
+    "name": "Kota Giam",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6450862432",
+    "lat": "5.8566293",
+    "long": "100.8157611",
+    "name": "Kampung Bendang Man",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6450862458",
+    "lat": "5.842525",
+    "long": "100.784862",
+    "name": "Kampung Chepir",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6465902515",
+    "lat": "5.7490398",
+    "long": "100.8922932",
+    "name": "Kampung Bandar",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6465902664",
+    "lat": "5.8167275",
+    "long": "100.8944249",
+    "name": "Kampung Memali",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "6481789357",
+    "lat": "5.7051134",
+    "long": "100.7592845",
+    "name": "Kampung Sungai Tembak",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7049747261",
+    "lat": "6.1167396",
+    "long": "100.5134574",
+    "name": "Nawa",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7049798392",
+    "lat": "6.1419202",
+    "long": "100.4968893",
+    "name": "Kampung Kelut",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7049798395",
+    "lat": "6.1426189",
+    "long": "100.4825717",
+    "name": "Kampung Lanjut Malau",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7049798396",
+    "lat": "6.1436216",
+    "long": "100.4728809",
+    "name": "Kebun 500",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050012474",
+    "lat": "6.0341434",
+    "long": "100.6113499",
+    "name": "Padang Durian",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050019630",
+    "lat": "6.1278606",
+    "long": "100.6129217",
+    "name": "Kampung Baru",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050022906",
+    "lat": "6.0103608",
+    "long": "100.51449",
+    "name": "Bukit Kechik",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050022907",
+    "lat": "6.0025771",
+    "long": "100.5560964",
+    "name": "Lubuk Getah",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050024457",
+    "lat": "6.111379",
+    "long": "100.5223703",
+    "name": "Kampung Budi",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7050025786",
+    "lat": "6.0559246",
+    "long": "100.6125033",
+    "name": "Kampung China",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7090105737",
+    "lat": "6.3565975",
+    "long": "99.7839153",
+    "name": "Kampung Padang Gaong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7092904860",
+    "lat": "6.323243",
+    "long": "99.7830784",
+    "name": "Mata Ayer",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7215604069",
+    "lat": "5.619819",
+    "long": "100.4218733",
+    "name": "Kampong Bukit Kechil",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7220402769",
+    "lat": "5.9062291",
+    "long": "100.6405485",
+    "name": "Kampung Gajah Puteh",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7220440798",
+    "lat": "5.8717792",
+    "long": "100.6281996",
+    "name": "Kampung Kuala Ruman",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7368234943",
+    "lat": "5.5813208",
+    "long": "100.3614217",
+    "name": "Kampong Haji Kudong",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7504804441",
+    "lat": "5.5715557",
+    "long": "100.4168415",
+    "name": "Kampung Permatang Pasir",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7572769501",
+    "lat": "5.5921428",
+    "long": "100.4386747",
+    "name": "Kampung Berapit",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7594101650",
+    "lat": "5.5882775",
+    "long": "100.7400262",
+    "name": "Kampung Batu 7",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7597085182",
+    "lat": "5.6521115",
+    "long": "100.8613318",
+    "name": "Kampung Charok Bemban",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7624658694",
+    "lat": "5.6917259",
+    "long": "100.9471545",
+    "name": "Batu 7",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7647963633",
+    "lat": "5.5977593",
+    "long": "100.3746504",
+    "name": "Kampong Sungai Emas",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "7648640977",
+    "lat": "5.6324501",
+    "long": "100.9014737",
+    "name": "Kampung Sera",
+    "isIn": "Kedah"
+  },
+  {
+    "id": "8013147538",
+    "lat": "6.1106002",
+    "long": "100.3109264",
+    "name": "Kampung Sematang Pinang",
+    "isIn": "Kedah"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": "205620850",
+    "lat": "5.4145681",
+    "long": "100.3298035",
+    "name": "George Town",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "205623582",
+    "lat": "5.4082015",
+    "long": "100.3697208",
+    "name": "Butterworth",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254072952",
+    "lat": "5.1700963",
+    "long": "100.4785191",
+    "name": "Nibong Tebal",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254073307",
+    "lat": "5.295127",
+    "long": "100.2604606",
+    "name": "Bayan Lepas",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254073495",
+    "lat": "5.3506365",
+    "long": "100.234804",
+    "name": "Balik Pulau",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254074040",
+    "lat": "5.5269796",
+    "long": "100.3811397",
+    "name": "Penaga",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254074066",
+    "lat": "5.2831908",
+    "long": "100.1946564",
+    "name": "Gertak Sanggul",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254074364",
+    "lat": "5.2769809",
+    "long": "100.2699197",
+    "name": "Permatang Damar Laut",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "254074443",
+    "lat": "5.5143846",
+    "long": "100.4362369",
+    "name": "Kepala Batas",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "601159584",
+    "lat": "5.4844382",
+    "long": "100.4901402",
+    "name": "Tasek Gelugor",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "605217805",
+    "lat": "5.3642361",
+    "long": "100.460996",
+    "name": "Bukit Mertajam",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "621096165",
+    "lat": "5.5057807",
+    "long": "100.5141848",
+    "name": "Kampung Selamat",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "647516450",
+    "lat": "5.3995634",
+    "long": "100.4647459",
+    "name": "Kubang Semang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "647516520",
+    "lat": "5.4691851",
+    "long": "100.4571792",
+    "name": "Lahar Yooi",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "655161563",
+    "lat": "5.5744608",
+    "long": "100.3397126",
+    "name": "Kuala Muda",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308320227",
+    "lat": "-3.8846185",
+    "long": "103.5578846",
+    "name": "Tanjung Mulak",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308321089",
+    "lat": "-3.8389049",
+    "long": "103.6167826",
+    "name": "Talang Sawah",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308342759",
+    "lat": "-3.8234821",
+    "long": "103.5283047",
+    "name": "Kuba",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308367628",
+    "lat": "-3.8631856",
+    "long": "103.6142937",
+    "name": "Muara Cawang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308369108",
+    "lat": "-3.8351533",
+    "long": "103.5965539",
+    "name": "Kerung",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308395265",
+    "lat": "-3.9017069",
+    "long": "103.5031714",
+    "name": "Simpur",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308464274",
+    "lat": "-3.8705124",
+    "long": "103.5016351",
+    "name": "Lubuk Sepang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308470087",
+    "lat": "-3.855523",
+    "long": "103.5346075",
+    "name": "Tanjung Sirih",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308470410",
+    "lat": "-3.8653788",
+    "long": "103.5850443",
+    "name": "Tl Sejemput",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308472106",
+    "lat": "-3.8776351",
+    "long": "103.520304",
+    "name": "Pulau Pinang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "1308474557",
+    "lat": "-3.8390429",
+    "long": "103.5690287",
+    "name": "Perigi",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3607697241",
+    "lat": "5.14682",
+    "long": "100.4209512",
+    "name": "Sungai Acheh",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3607749722",
+    "lat": "5.2817072",
+    "long": "100.4765976",
+    "name": "Simpang Ampat",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3607770768",
+    "lat": "5.410318",
+    "long": "100.4132819",
+    "name": "Permatang Pauh",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3607777329",
+    "lat": "5.2840918",
+    "long": "100.5202332",
+    "name": "Tasek",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3608505439",
+    "lat": "5.3994928",
+    "long": "100.4993417",
+    "name": "Mengkuang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3608505440",
+    "lat": "5.3900912",
+    "long": "100.5230389",
+    "name": "Sungai Lembu",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3608507277",
+    "lat": "5.3807893",
+    "long": "100.4727453",
+    "name": "Perkampungan Berapit",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3609310236",
+    "lat": "5.2019619",
+    "long": "100.4691157",
+    "name": "Changkat",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3797184952",
+    "lat": "5.5548945",
+    "long": "100.4357759",
+    "name": "Bumbung Lima",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3797187562",
+    "lat": "5.4539418",
+    "long": "100.4738987",
+    "name": "Padang Menora",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3797187564",
+    "lat": "5.4057871",
+    "long": "100.464869",
+    "name": "Penanti",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3797187566",
+    "lat": "5.4843885",
+    "long": "100.4571455",
+    "name": "Pokok Sena",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "3997897107",
+    "lat": "5.519518",
+    "long": "100.5061995",
+    "name": "Kubang Menerong",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4548977689",
+    "lat": "5.415471",
+    "long": "100.19635",
+    "name": "Pantai Aceh",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4548977789",
+    "lat": "5.3071176",
+    "long": "100.20333",
+    "name": "Pulau Betong",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4596492694",
+    "lat": "5.4673491",
+    "long": "100.4291287",
+    "name": "Permatang Sungai Dua",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4596492697",
+    "lat": "5.483608",
+    "long": "100.4253615",
+    "name": "Permatang Buloh",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4605345795",
+    "lat": "5.3840463",
+    "long": "100.4634333",
+    "name": "Tanah Liat",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4795003821",
+    "lat": "5.2395245",
+    "long": "100.49279",
+    "name": "Valdor",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "4806220559",
+    "lat": "5.5156532",
+    "long": "100.4022535",
+    "name": "Permatang Sintok",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "5746480592",
+    "lat": "5.2625962",
+    "long": "100.4304555",
+    "name": "Batu Kawan",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "5924095808",
+    "lat": "5.4380395",
+    "long": "100.5131122",
+    "name": "Ara Kuda",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "6058383993",
+    "lat": "5.4593044",
+    "long": "100.4009118",
+    "name": "Permatang Tok Jaya",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "6142851236",
+    "lat": "5.3662083",
+    "long": "100.4657445",
+    "name": "Kampung Aston",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "7161486957",
+    "lat": "5.4756386",
+    "long": "100.4836867",
+    "name": "Pokok Tampang",
+    "isIn": "Pulau Pinang"
+  },
+  {
+    "id": "7180807744",
+    "lat": "5.2090342",
+    "long": "100.5300942",
+    "name": "Sungai Duri",
+    "isIn": "Pulau Pinang"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "140022516",
+    "lat": "2.9948437",
+    "long": "101.7896595",
+    "name": "Kajang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "141156064",
+    "lat": "2.9603175",
+    "long": "101.7586731",
+    "name": "Bandar Baru Bangi",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "142457861",
+    "lat": "3.0733644",
+    "long": "101.5195149",
+    "name": "Shah Alam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "173701610",
+    "lat": "2.9338908",
+    "long": "101.6455587",
+    "name": "Cyberjaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "197013994",
+    "lat": "2.8027574",
+    "long": "101.4956767",
+    "name": "Banting",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "197015281",
+    "lat": "2.9118282",
+    "long": "101.4644169",
+    "name": "Teluk Panglima Garang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "207539494",
+    "lat": "3.0448347",
+    "long": "101.4447363",
+    "name": "Klang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "248778049",
+    "lat": "3.0708185",
+    "long": "101.5351234",
+    "name": "Seksyen 12",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072812",
+    "lat": "3.5002934",
+    "long": "101.10623",
+    "name": "Sekinchan",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072844",
+    "lat": "3.0256988",
+    "long": "101.6138363",
+    "name": "Puchong",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072863",
+    "lat": "3.0027625",
+    "long": "101.3966735",
+    "name": "Pelabuhan Klang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072879",
+    "lat": "3.3502256",
+    "long": "101.2530907",
+    "name": "Pasir Penambang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072917",
+    "lat": "3.378008",
+    "long": "101.4102245",
+    "name": "Bestari Jaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072964",
+    "lat": "2.8746114",
+    "long": "101.8719856",
+    "name": "Beranang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254072981",
+    "lat": "3.3667156",
+    "long": "101.6051959",
+    "name": "Serendah",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073104",
+    "lat": "3.1136447",
+    "long": "101.8156587",
+    "name": "Batu 14 Hulu Langat",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073185",
+    "lat": "2.7500104",
+    "long": "101.4429976",
+    "name": "Morib",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073299",
+    "lat": "3.592072",
+    "long": "101.6060237",
+    "name": "Kerling",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073391",
+    "lat": "3.1276087",
+    "long": "101.7538639",
+    "name": "Ampang Jaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073394",
+    "lat": "2.659941",
+    "long": "101.562905",
+    "name": "Tanjung Sepat",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073405",
+    "lat": "3.6374187",
+    "long": "101.5720703",
+    "name": "Kalumpang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073428",
+    "lat": "3.5640624",
+    "long": "101.659417",
+    "name": "Kuala Kubu Bharu",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073465",
+    "lat": "3.1377492",
+    "long": "101.3732079",
+    "name": "Kapar",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073469",
+    "lat": "3.0991752",
+    "long": "101.6450232",
+    "name": "Petaling Jaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254073973",
+    "lat": "3.4617375",
+    "long": "101.6530526",
+    "name": "Batang Kali",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074012",
+    "lat": "3.3197692",
+    "long": "101.5773144",
+    "name": "Rawang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074014",
+    "lat": "3.31072",
+    "long": "101.491317",
+    "name": "Batu Arang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074049",
+    "lat": "3.775338",
+    "long": "101.089129",
+    "name": "Bagan Terap",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074050",
+    "lat": "3.2059327",
+    "long": "101.6237106",
+    "name": "Kepong",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074058",
+    "lat": "3.2330444",
+    "long": "101.7145742",
+    "name": "Gombak",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074126",
+    "lat": "3.3139175",
+    "long": "101.4166226",
+    "name": "Ijok",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074251",
+    "lat": "3.2310466",
+    "long": "101.3155781",
+    "name": "Jeram",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074307",
+    "lat": "3.2554296",
+    "long": "101.5531778",
+    "name": "Kuang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074407",
+    "lat": "3.4248817",
+    "long": "101.1764643",
+    "name": "Tanjung Karang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074460",
+    "lat": "2.6923752",
+    "long": "101.7501574",
+    "name": "Pekan Sepang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "254074602",
+    "lat": "3.7632801",
+    "long": "100.9844791",
+    "name": "Sabak Bernam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "270758592",
+    "lat": "2.6087569",
+    "long": "101.6890702",
+    "name": "Bagan Lalang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "275083336",
+    "lat": "3.2537121",
+    "long": "101.6539012",
+    "name": "Selayang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "364871497",
+    "lat": "2.8123434",
+    "long": "101.7372806",
+    "name": "Bandar Baru Salak Tinggi",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "364871498",
+    "lat": "2.8680243",
+    "long": "101.6756275",
+    "name": "Dengkil",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "368878591",
+    "lat": "3.051487",
+    "long": "101.5823339",
+    "name": "Subang Jaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "532759922",
+    "lat": "2.8045929",
+    "long": "101.7374349",
+    "name": "Kampung Giching Hulu",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1197880928",
+    "lat": "3.062721",
+    "long": "101.6108021",
+    "name": null,
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1686561043",
+    "lat": "3.2369148",
+    "long": "101.6833464",
+    "name": "Batu Caves",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1934562622",
+    "lat": "3.6363315",
+    "long": "101.0350141",
+    "name": "Parit Changkat",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1934563361",
+    "lat": "3.6553616",
+    "long": "101.0078809",
+    "name": "Simpang Tiga Loji",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1934563362",
+    "lat": "3.6777145",
+    "long": "100.9880263",
+    "name": "Sungai Besar",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1934672329",
+    "lat": "3.6432402",
+    "long": "101.0247045",
+    "name": "Kampung Sg Hj Dorani",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "1954344325",
+    "lat": "3.7393405",
+    "long": "101.3837242",
+    "name": "FELDA Gedangsa",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "2302044925",
+    "lat": "3.4540978",
+    "long": "101.6409335",
+    "name": "Hulu Yam Lama",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "2935075582",
+    "lat": "3.0922825",
+    "long": "101.7937339",
+    "name": "Kampung Sungai Serai",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "2935650683",
+    "lat": "3.1463975",
+    "long": "101.839152",
+    "name": "Dusun Tua",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "2935650685",
+    "lat": "3.0600599",
+    "long": "101.7763751",
+    "name": "Kampung Batu 10",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "2940308526",
+    "lat": "2.9029881",
+    "long": "101.7830826",
+    "name": "Bangi Lama",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "3100312772",
+    "lat": "3.1386843",
+    "long": "101.4411332",
+    "name": "Meru",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4001575220",
+    "lat": "3.845911",
+    "long": "100.8463949",
+    "name": "Kampung Sungai Lang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4052229073",
+    "lat": "3.4975291",
+    "long": "101.6282732",
+    "name": "Rasa",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4216848765",
+    "lat": "3.6604529",
+    "long": "101.0050364",
+    "name": "Kampung Sungai Limau",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4235048202",
+    "lat": "3.7157784",
+    "long": "101.1257718",
+    "name": "Merbau Berdarah",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4603332606",
+    "lat": "3.21",
+    "long": "101.55",
+    "name": "Sungai Buloh",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4662890034",
+    "lat": "3.4243336",
+    "long": "101.5567085",
+    "name": "Bukit Beruntung",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4725488689",
+    "lat": "3.2364823",
+    "long": "101.4253764",
+    "name": "Puncak Alam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4727251065",
+    "lat": "2.8565856",
+    "long": "101.3622309",
+    "name": "Pulau Carey",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4745820722",
+    "lat": "3.340688",
+    "long": "101.2495699",
+    "name": "Kuala Selangor",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4881064921",
+    "lat": "2.8766037",
+    "long": "101.4988405",
+    "name": "Jenjarom",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4893058399",
+    "lat": "2.8349369",
+    "long": "101.5928134",
+    "name": "Kampung Olak Lempit",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4895535721",
+    "lat": "3.7748913",
+    "long": "100.8817",
+    "name": "Bagan Nakhoda Omar",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4895564122",
+    "lat": "3.8423915",
+    "long": "100.8965638",
+    "name": "Sungai Air Tawar",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4901642226",
+    "lat": "3.4009142",
+    "long": "101.1710699",
+    "name": "Bagan Pasir",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4901664723",
+    "lat": "3.2591722",
+    "long": "101.3057506",
+    "name": "Sasaran",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4914642021",
+    "lat": "2.9414987",
+    "long": "101.37762",
+    "name": "Teluk Gong",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4921449803",
+    "lat": "3.5658692",
+    "long": "101.434153",
+    "name": "FELDA Sungai Tengi Selatan",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4921450129",
+    "lat": "3.6171158",
+    "long": "101.4255084",
+    "name": "FELDA Sungai Tengi",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4921450778",
+    "lat": "3.6802034",
+    "long": "101.3924872",
+    "name": "FELDA Soeharto",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "4929614022",
+    "lat": "3.6931768",
+    "long": "100.936465",
+    "name": "Bagan Sungai Burung",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "5016245017",
+    "lat": "3.5935019",
+    "long": "101.610186",
+    "name": "Kampung Air Panas",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "5237753635",
+    "lat": "3.6704324",
+    "long": "101.5222489",
+    "name": "Hulu Bernam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "5469342586",
+    "lat": "3.209928",
+    "long": "101.7608508",
+    "name": "Hulu Kelang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "5687138239",
+    "lat": "3.3467525",
+    "long": "101.5850288",
+    "name": "Sungai Choh",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "5789047119",
+    "lat": "3.0340649",
+    "long": "101.7055684",
+    "name": "Seri Kembangan",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "6613512730",
+    "lat": "2.8942913",
+    "long": "101.7622028",
+    "name": "Kampung Sungai Buah",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "6698687729",
+    "lat": "2.9158048",
+    "long": "101.7126289",
+    "name": "Kampung Limau Manis",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "6964083958",
+    "lat": "2.9480248",
+    "long": "101.7899671",
+    "name": "Kampung Sungai Tangkas",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7153144903",
+    "lat": "3.7488352",
+    "long": "101.0554593",
+    "name": "Bagan Terap",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7154042307",
+    "lat": "3.7257204",
+    "long": "101.0767987",
+    "name": "Sungai Panjang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7230375741",
+    "lat": "2.8127389",
+    "long": "101.6982456",
+    "name": "Kampung Kelinsing",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7231985572",
+    "lat": "3.1256861",
+    "long": "101.8233352",
+    "name": "Kampung Sungai Semungkis",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7231985573",
+    "lat": "3.1280598",
+    "long": "101.8285928",
+    "name": "Kampung Batu 16",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7245983668",
+    "lat": "2.8008619",
+    "long": "101.7094012",
+    "name": "Sepang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7346662809",
+    "lat": "3.4072243",
+    "long": "101.1740275",
+    "name": "Kampung Tok Adam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7346662848",
+    "lat": "3.4241726",
+    "long": "101.2130588",
+    "name": "Kampung Sungai Gulang-Gulang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7346663406",
+    "lat": "3.433239",
+    "long": "101.229916",
+    "name": "Kampung Seri Tiram Jaya",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7346663408",
+    "lat": "3.422742",
+    "long": "101.2268088",
+    "name": "Kampung Parit Serong",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7379341030",
+    "lat": "3.565846",
+    "long": "101.0753627",
+    "name": "Pekan Pasir Panjang",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7379341035",
+    "lat": "3.5609757",
+    "long": "101.076406",
+    "name": "Desa Warisan",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7389512255",
+    "lat": "3.6173562",
+    "long": "101.0593575",
+    "name": "Kampung Nipah",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7389512269",
+    "lat": "3.5961298",
+    "long": "101.0635741",
+    "name": "Kampung Batu 23",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7429833675",
+    "lat": "3.6043625",
+    "long": "101.0612027",
+    "name": "Kampung Sungai Nibong",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7433942598",
+    "lat": "3.6259807",
+    "long": "101.0532114",
+    "name": "Kampung Simpang Lima",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7444749619",
+    "lat": "3.4092836",
+    "long": "101.318676",
+    "name": "Kampung Raja Musa",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7496517456",
+    "lat": "3.0211341",
+    "long": "101.251681",
+    "name": "Pulau Ketam",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7657158660",
+    "lat": "3.6709332",
+    "long": "100.9816462",
+    "name": "Bagan Sungai Besar",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7660605401",
+    "lat": "2.8918174",
+    "long": "101.7302925",
+    "name": "Taman Desa",
+    "isIn": "Selangor"
+  },
+  {
+    "id": "7765682798",
+    "lat": "3.0026148",
+    "long": "101.7883155",
+    "name": "Kampung Asrah",
+    "isIn": "Selangor"
+  }
+]

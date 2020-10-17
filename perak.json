@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "254072817",
+    "lat": "4.240423",
+    "long": "101.192955",
+    "name": "Temoh",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072848",
+    "lat": "4.977098",
+    "long": "100.80014",
+    "name": "Batu Kurau",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072894",
+    "lat": "4.7720713",
+    "long": "100.9408776",
+    "name": "Kuala Kangsar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072903",
+    "lat": "3.7717457",
+    "long": "101.4512481",
+    "name": "Behrang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072916",
+    "lat": "5.4306632",
+    "long": "101.1296386",
+    "name": "Gerik",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072937",
+    "lat": "3.89105",
+    "long": "101.37836",
+    "name": "Trolak",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072953",
+    "lat": "4.1138861",
+    "long": "101.2883647",
+    "name": "Bidor",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254072989",
+    "lat": "4.1888198",
+    "long": "101.1462739",
+    "name": "Ayer Kuning",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073006",
+    "lat": "4.1728174",
+    "long": "101.1907584",
+    "name": "Tapah Road",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073042",
+    "lat": "4.476786",
+    "long": "101.168079",
+    "name": "Gopeng",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073055",
+    "lat": "4.9505216",
+    "long": "100.6240675",
+    "name": "Simpang Empat (Semanggol)",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073063",
+    "lat": "4.1990915",
+    "long": "101.2599231",
+    "name": "Tapah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073102",
+    "lat": "3.8823326",
+    "long": "100.9323429",
+    "name": "Hutan Melintang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073269",
+    "lat": "4.4745168",
+    "long": "100.6345085",
+    "name": "Pengkalan Baharu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073279",
+    "lat": "4.5143767",
+    "long": "101.0126702",
+    "name": "Papan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073288",
+    "lat": "5.2400521",
+    "long": "100.7310718",
+    "name": "Rantau Panjang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073382",
+    "lat": "4.4239501",
+    "long": "100.9845423",
+    "name": "Tronoh",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073404",
+    "lat": "5.1300016",
+    "long": "100.4893897",
+    "name": "Parit Buntar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073427",
+    "lat": "4.8195692",
+    "long": "101.0723496",
+    "name": "Sungai Siput",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073430",
+    "lat": "4.4768608",
+    "long": "100.9093896",
+    "name": "Parit",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073443",
+    "lat": "4.567983",
+    "long": "101.038602",
+    "name": "Menglembu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073451",
+    "lat": "4.023176",
+    "long": "101.026184",
+    "name": "Teluk Intan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073468",
+    "lat": "4.2246469",
+    "long": "100.6211525",
+    "name": "Lumut",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073489",
+    "lat": "3.6962015",
+    "long": "101.5199459",
+    "name": "Tanjung Malim",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073583",
+    "lat": "4.470533",
+    "long": "101.036989",
+    "name": "Batu Gajah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073659",
+    "lat": "4.2641077",
+    "long": "101.2381026",
+    "name": "Chenderiang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073711",
+    "lat": "5.011806",
+    "long": "100.527733",
+    "name": "Bagan Serai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073849",
+    "lat": "5.1094869",
+    "long": "100.9678905",
+    "name": "Lenggong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073917",
+    "lat": "4.0046715",
+    "long": "101.302936",
+    "name": "Sungkai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073975",
+    "lat": "5.0234705",
+    "long": "100.4354473",
+    "name": "Kuala Kurau",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073979",
+    "lat": "4.355982",
+    "long": "101.112187",
+    "name": "Malim Nawar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254073993",
+    "lat": "4.4964524",
+    "long": "101.0092532",
+    "name": "Pusing",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074044",
+    "lat": "4.4657451",
+    "long": "100.9947144",
+    "name": "Siputeh",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074054",
+    "lat": "4.5002829",
+    "long": "100.7824056",
+    "name": "Beruas",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074056",
+    "lat": "4.889863",
+    "long": "100.728355",
+    "name": "Kamunting",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074065",
+    "lat": "4.8546772",
+    "long": "100.7438831",
+    "name": "Taiping",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074110",
+    "lat": "5.092404",
+    "long": "100.482362",
+    "name": "Simpang Lima",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074134",
+    "lat": "4.30066",
+    "long": "101.1614462",
+    "name": "Kampar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074154",
+    "lat": "4.455272",
+    "long": "100.626025",
+    "name": "Pantai Remis",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074176",
+    "lat": "4.3260642",
+    "long": "101.0558531",
+    "name": "Tanjung Tualang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074191",
+    "lat": "4.2162318",
+    "long": "100.6951901",
+    "name": "Sitiawan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074214",
+    "lat": "3.989",
+    "long": "100.7884084",
+    "name": "Bagan Datuk",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074304",
+    "lat": "4.299087",
+    "long": "100.7580886",
+    "name": "Ayer Tawar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074328",
+    "lat": "3.8310714",
+    "long": "101.402618",
+    "name": "Slim River",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074381",
+    "lat": "5.7057571",
+    "long": "100.9994459",
+    "name": "Pengkalan Hulu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "254074513",
+    "lat": "4.5941023",
+    "long": "100.879598",
+    "name": "Manong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "294039311",
+    "lat": "4.5986817",
+    "long": "101.0900236",
+    "name": "Ipoh",
+    "isIn": "Perak"
+  },
+  {
+    "id": "364099787",
+    "lat": "4.6703501",
+    "long": "101.1568627",
+    "name": "Tanjung Rambutan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1688143588",
+    "lat": "4.5687907",
+    "long": "101.2791803",
+    "name": "Pos Slim",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1762368280",
+    "lat": "4.7194727",
+    "long": "101.1210391",
+    "name": "Chemor",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826567997",
+    "lat": "5.4061332",
+    "long": "101.1264269",
+    "name": "Kg Air Panas",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826567998",
+    "lat": "5.2680968",
+    "long": "101.0665838",
+    "name": "Kg Belum Baru",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826567999",
+    "lat": "5.2814456",
+    "long": "101.0585693",
+    "name": "Kampung Malau",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826568001",
+    "lat": "5.4143924",
+    "long": "101.1317785",
+    "name": "Kg Padang Kunyit",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826568003",
+    "lat": "5.3894359",
+    "long": "101.0781949",
+    "name": "Kampung Tawai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "1826568005",
+    "lat": "5.2964492",
+    "long": "101.0580436",
+    "name": "Lawin",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2002204051",
+    "lat": "4.3612524",
+    "long": "100.9508728",
+    "name": "Seri Iskandar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2061037974",
+    "lat": "4.3891997",
+    "long": "100.8993942",
+    "name": "Kg Senin",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2431957812",
+    "lat": "4.7732015",
+    "long": "100.9561886",
+    "name": "Kampung Sayong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2529607104",
+    "lat": "4.9284774",
+    "long": "100.6270299",
+    "name": "Selinsing",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2854302688",
+    "lat": "4.4650222",
+    "long": "101.2212615",
+    "name": "Ulu Geruntum",
+    "isIn": "Perak"
+  },
+  {
+    "id": "2927461381",
+    "lat": "4.6882415",
+    "long": "101.1600489",
+    "name": "Kampung Kolam",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3209809928",
+    "lat": "4.1912768",
+    "long": "100.6592247",
+    "name": "Seri Manjung",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274159528",
+    "lat": "5.0162159",
+    "long": "100.9830934",
+    "name": "Kampung Beng",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274159529",
+    "lat": "5.1129075",
+    "long": "100.9995519",
+    "name": "Kampung Temelong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274356264",
+    "lat": "5.211736",
+    "long": "101.0691122",
+    "name": "Kampung Sawa",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274620971",
+    "lat": "5.1637282",
+    "long": "100.9937995",
+    "name": "Sumpitan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274620972",
+    "lat": "5.1322189",
+    "long": "101.0306461",
+    "name": "Kampung Bukit Sapi",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3274620973",
+    "lat": "5.1952682",
+    "long": "101.0569079",
+    "name": "Kampung Baru Air Kala",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3744198835",
+    "lat": "4.7409687",
+    "long": "101.118746",
+    "name": "Kanthan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3851405483",
+    "lat": "4.7094088",
+    "long": "100.7198151",
+    "name": "Terong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3858534581",
+    "lat": "4.7088682",
+    "long": "100.6946459",
+    "name": "Kampung Sungai Bemban",
+    "isIn": "Perak"
+  },
+  {
+    "id": "3867435620",
+    "lat": "5.0767016",
+    "long": "100.386672",
+    "name": "Tanjung Piandang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4003967930",
+    "lat": "5.4580603",
+    "long": "101.1709895",
+    "name": "Kampung Baru Kuala Rui",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4216526590",
+    "lat": "5.6905054",
+    "long": "101.0806237",
+    "name": "Lepang Nenering",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4455035919",
+    "lat": "4.9102529",
+    "long": "100.6635505",
+    "name": "Kampung Dew",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4508006090",
+    "lat": "5.2180903",
+    "long": "100.69166",
+    "name": "Selama (Perak)",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4586478295",
+    "lat": "5.0865935",
+    "long": "100.9989436",
+    "name": "Kampung Ulu Chepur",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4623150451",
+    "lat": "5.0524805",
+    "long": "100.5886683",
+    "name": "Alor Pongsu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4805219021",
+    "lat": "4.2662647",
+    "long": "101.1468863",
+    "name": "Mambang Diawan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4805293623",
+    "lat": "4.0751896",
+    "long": "101.1515924",
+    "name": "Langkap",
+    "isIn": "Perak"
+  },
+  {
+    "id": "4931308422",
+    "lat": "3.843499",
+    "long": "101.291784",
+    "name": "Besout",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5195707781",
+    "lat": "4.8514009",
+    "long": "100.9035174",
+    "name": "Kampung Baru Liman Kati",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5196711193",
+    "lat": "5.665175",
+    "long": "100.9747046",
+    "name": "Kampung Baru Tasek",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5207082945",
+    "lat": "4.7886103",
+    "long": "100.7209975",
+    "name": "Changkat Jering",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5209295365",
+    "lat": "4.8097815",
+    "long": "100.8923481",
+    "name": "Lubok Merbau",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5213151878",
+    "lat": "5.0218482",
+    "long": "100.9487475",
+    "name": "Kampung Changkat Berangan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5214641808",
+    "lat": "4.7732985",
+    "long": "100.9491886",
+    "name": "Kampung Sayong Lembah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5217826356",
+    "lat": "4.7785476",
+    "long": "100.9586884",
+    "name": "Kampung Sayong Tengah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5245964348",
+    "lat": "4.3608016",
+    "long": "100.8419289",
+    "name": "Bota",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5256945610",
+    "lat": "4.1815556",
+    "long": "100.9372537",
+    "name": "Kampong Gajah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5342920900",
+    "lat": "4.2738748",
+    "long": "100.9060317",
+    "name": "Lambor Kanan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5367162078",
+    "lat": "4.0767505",
+    "long": "101.1214521",
+    "name": "Chikus",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5395933041",
+    "lat": "4.2265301",
+    "long": "100.5601498",
+    "name": "Pulau Pangkor",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5416000220",
+    "lat": "3.9077161",
+    "long": "100.7729664",
+    "name": "Selekoh",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5416666804",
+    "lat": "3.8908211",
+    "long": "100.8662056",
+    "name": "Sungai Sumun",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5451212423",
+    "lat": "3.7728401",
+    "long": "100.9794391",
+    "name": "Kampung Kota",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5451212649",
+    "lat": "3.8143827",
+    "long": "100.9965245",
+    "name": "Kampung Seri Perkasa",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506597",
+    "lat": "4.9215426",
+    "long": "101.3423661",
+    "name": null,
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506598",
+    "lat": "4.890741",
+    "long": "101.3795353",
+    "name": "Beswok",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506759",
+    "lat": "4.9697056",
+    "long": "101.2303003",
+    "name": "Temakan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506765",
+    "lat": "4.9393345",
+    "long": "101.278869",
+    "name": null,
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506766",
+    "lat": "4.9088565",
+    "long": "101.3509289",
+    "name": "Kotai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506930",
+    "lat": "4.9394997",
+    "long": "101.2850252",
+    "name": "Dawoj",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506931",
+    "lat": "4.9291944",
+    "long": "101.3244796",
+    "name": "Pendeq",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506932",
+    "lat": "4.9191467",
+    "long": "101.345196",
+    "name": "Yum",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5455506933",
+    "lat": "4.8433512",
+    "long": "101.327079",
+    "name": "Kuala Mu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5464106148",
+    "lat": "4.0349815",
+    "long": "100.8910731",
+    "name": "Kota Setia",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5473792408",
+    "lat": "4.3801502",
+    "long": "100.6879112",
+    "name": "Changkat Keruing",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5473792409",
+    "lat": "4.8200507",
+    "long": "100.6719444",
+    "name": "Matang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5473792410",
+    "lat": "4.1344199",
+    "long": "101.0991125",
+    "name": "Chenderong Balai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5556943875",
+    "lat": "5.7233789",
+    "long": "101.0117234",
+    "name": "Kampung Bukit Serdang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5559562797",
+    "lat": "4.2835263",
+    "long": "101.0509946",
+    "name": "Kampung Timah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384104",
+    "lat": "4.8063006",
+    "long": "100.9596991",
+    "name": "Kampung Kota Lama",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384105",
+    "lat": "4.8491331",
+    "long": "100.9550375",
+    "name": "Kampung Loh Karai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384106",
+    "lat": "4.8662376",
+    "long": "100.9512234",
+    "name": "Kampung Periang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384269",
+    "lat": "4.8411287",
+    "long": "100.9922773",
+    "name": "Kampung Salak Baru",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384276",
+    "lat": "4.835492",
+    "long": "100.9803548",
+    "name": "Kampung Sedia",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384294",
+    "lat": "4.7884996",
+    "long": "100.9525967",
+    "name": "Kampung Kota Lama Kanan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384301",
+    "lat": "4.7814967",
+    "long": "100.949657",
+    "name": "Kampung Kandang Hilir",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384308",
+    "lat": "4.7705004",
+    "long": "100.9634811",
+    "name": "Kampung Kuala Sayong Hulu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384311",
+    "lat": "4.7717621",
+    "long": "100.9608471",
+    "name": "Kampung Sayong Mesjid",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5632384326",
+    "lat": "4.8423875",
+    "long": "101.0011339",
+    "name": "Kampung Tersusun Salak Stesen",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5815587421",
+    "lat": "5.4521431",
+    "long": "101.1932882",
+    "name": "Bandariang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5981238902",
+    "lat": "5.1092528",
+    "long": "100.40032",
+    "name": "Bagan Tiang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "5981238903",
+    "lat": "4.9294093",
+    "long": "100.4666165",
+    "name": "Kuala Gula",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6017935802",
+    "lat": "3.8976963",
+    "long": "101.4979226",
+    "name": "Ulu Slim",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6513384985",
+    "lat": "4.834984",
+    "long": "101.0083337",
+    "name": "Kampung Salak Utara",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6513385005",
+    "lat": "4.9559953",
+    "long": "101.1218833",
+    "name": "Lasah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6513385006",
+    "lat": "4.9374385",
+    "long": "101.1033608",
+    "name": "Lintang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517728995",
+    "lat": "5.0115864",
+    "long": "100.8110543",
+    "name": "Jelai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729017",
+    "lat": "4.6428675",
+    "long": "100.7119856",
+    "name": "Kampung Ayer Terjun",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729022",
+    "lat": "4.555819",
+    "long": "100.7337258",
+    "name": "Kampung Sungai Rotan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729027",
+    "lat": "4.595408",
+    "long": "100.6813934",
+    "name": "Sungai Kerang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729057",
+    "lat": "5.1157216",
+    "long": "100.7829463",
+    "name": "Redang Panjang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729062",
+    "lat": "5.2031224",
+    "long": "100.6833162",
+    "name": "Kampung Baru Sungai Terap",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729063",
+    "lat": "5.135238",
+    "long": "100.7502935",
+    "name": "Bagan Baharu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729064",
+    "lat": "4.615194",
+    "long": "100.7163531",
+    "name": "Padang Gajah",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729065",
+    "lat": "5.1689495",
+    "long": "100.7109335",
+    "name": "Kampung Sungai Dendang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729066",
+    "lat": "4.9642878",
+    "long": "100.7327221",
+    "name": "Ulu Sepetang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517729578",
+    "lat": "4.1939069",
+    "long": "100.6856607",
+    "name": "Kampung Cina",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517765592",
+    "lat": "4.3375476",
+    "long": "100.7507444",
+    "name": "Kampung Raja Hitam",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517765597",
+    "lat": "4.3365306",
+    "long": "100.7292361",
+    "name": "Kampung Merbau",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517765606",
+    "lat": "4.4315445",
+    "long": "100.6556893",
+    "name": "Kampung Sungai Batu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6517774715",
+    "lat": "3.7559316",
+    "long": "101.4960586",
+    "name": "Kampung Behrang Ulu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6520307174",
+    "lat": "4.5977064",
+    "long": "101.064302",
+    "name": "Guntong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6834932150",
+    "lat": "5.1245408",
+    "long": "100.9877326",
+    "name": "Kampung Bukit Nangka",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6834936066",
+    "lat": "5.3989261",
+    "long": "101.1131365",
+    "name": "Kampung Air Panas",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6840935957",
+    "lat": "4.8687441",
+    "long": "100.8970909",
+    "name": "Kampung Tiong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6840936041",
+    "lat": "5.453425",
+    "long": "101.2171592",
+    "name": "Kampung Sira Panas",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6840936058",
+    "lat": "4.8344283",
+    "long": "100.9008815",
+    "name": "Kampung Langkor Hulu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "6840936085",
+    "lat": "5.1488562",
+    "long": "100.9903614",
+    "name": "Kampung Gua Badak",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7111452558",
+    "lat": "5.0807518",
+    "long": "100.9606057",
+    "name": "Kampung Banggol Belimbing",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151127653",
+    "lat": "5.7331314",
+    "long": "100.9858068",
+    "name": "Kampung Kuak Hulu",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136685",
+    "lat": "5.7259384",
+    "long": "101.0157281",
+    "name": "Kampung Ayer Panas",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136697",
+    "lat": "5.1291716",
+    "long": "100.9872641",
+    "name": "Kampung Gelok",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136726",
+    "lat": "5.055395",
+    "long": "100.962816",
+    "name": "Kota Tampan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136731",
+    "lat": "5.0442172",
+    "long": "100.9854457",
+    "name": "Kampung Luat",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136772",
+    "lat": "5.5161091",
+    "long": "101.1272743",
+    "name": "Kampung Kerunai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136787",
+    "lat": "5.445788",
+    "long": "101.2054083",
+    "name": "Kampung Basia Lama",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136793",
+    "lat": "5.501078",
+    "long": "101.1875057",
+    "name": "Kampung Bongor",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136800",
+    "lat": "5.3077932",
+    "long": "101.0805528",
+    "name": "Felda Papulut",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136806",
+    "lat": "5.3396932",
+    "long": "101.0357917",
+    "name": "Felda Lawin Utara",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7151136819",
+    "lat": "5.6011835",
+    "long": "101.0635394",
+    "name": "Kampung Pahit",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7296453725",
+    "lat": "3.9183393",
+    "long": "100.946519",
+    "name": "Kampung Mutiara",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7354598481",
+    "lat": "5.1029099",
+    "long": "100.462658",
+    "name": "Titi Serong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7354782877",
+    "lat": "5.1638936",
+    "long": "100.7695483",
+    "name": "Felda Ijok",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7356019465",
+    "lat": "5.3172494",
+    "long": "100.7471046",
+    "name": "Bukit Bertam",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7356028007",
+    "lat": "5.2594668",
+    "long": "100.7616395",
+    "name": "Kampung Sungai Rambutan",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7357752980",
+    "lat": "3.8284771",
+    "long": "101.4196673",
+    "name": "Kampung Balun",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7357787485",
+    "lat": "3.7107254",
+    "long": "101.4811404",
+    "name": "Kampung Kelawar",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359329558",
+    "lat": "4.2396955",
+    "long": "101.1764017",
+    "name": "Temoh Stesen",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359329576",
+    "lat": "4.1989635",
+    "long": "101.2842976",
+    "name": "Kampung Batu Melintang",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359329581",
+    "lat": "4.1249895",
+    "long": "101.1478216",
+    "name": "Kampung Changkat Petai",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359351928",
+    "lat": "3.9681318",
+    "long": "101.2941159",
+    "name": "Kampung Changkat Sulaiman",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359351948",
+    "lat": "4.1706105",
+    "long": "101.3782637",
+    "name": "Pos Gedong",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7359351953",
+    "lat": "4.1543654",
+    "long": "101.3300547",
+    "name": "Kampung Senta",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7389797838",
+    "lat": "4.224694",
+    "long": "100.9256403",
+    "name": "Pulau Tiga",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7389797878",
+    "lat": "4.0986188",
+    "long": "100.9505252",
+    "name": "Felcra Seberang Perak",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7389797886",
+    "lat": "4.1886849",
+    "long": "101.0749787",
+    "name": "Kampung Tersusun Air Kuning",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7681001245",
+    "lat": "4.1467502",
+    "long": "100.8928209",
+    "name": "Changkat Lada",
+    "isIn": "Perak"
+  },
+  {
+    "id": "7948126649",
+    "lat": "4.5888645",
+    "long": "101.3135039",
+    "name": "Kg. Palas",
+    "isIn": "Perak"
+  }
+]

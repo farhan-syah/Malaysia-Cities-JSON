@@ -1,0 +1,632 @@
+[
+  {
+    "id": "168610802",
+    "lat": "2.4721537",
+    "long": "102.2323504",
+    "name": "Tampin",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254072821",
+    "lat": "2.599117",
+    "long": "102.257807",
+    "name": "Johol",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254072834",
+    "lat": "2.861427",
+    "long": "101.943388",
+    "name": "Lenggeng",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254072904",
+    "lat": "2.5812964",
+    "long": "102.6117487",
+    "name": "Gemas",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254072951",
+    "lat": "2.5191582",
+    "long": "102.1585711",
+    "name": "Kota",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254072983",
+    "lat": "2.8436652",
+    "long": "101.8497343",
+    "name": "Pajam",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073083",
+    "lat": "2.6201935",
+    "long": "102.0585545",
+    "name": "Pedas",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073259",
+    "lat": "2.825719",
+    "long": "101.893793",
+    "name": "Mantin",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073308",
+    "lat": "2.4486224",
+    "long": "102.0175241",
+    "name": "Pengkalan Kempas",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073338",
+    "lat": "2.9365953",
+    "long": "101.9111952",
+    "name": "Broga",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073442",
+    "lat": "2.5888688",
+    "long": "102.0943404",
+    "name": "Rembau",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073628",
+    "lat": "2.582392",
+    "long": "101.907589",
+    "name": "Siliau",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254073634",
+    "lat": "2.5228943",
+    "long": "101.7945134",
+    "name": "Port Dickson",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074015",
+    "lat": "2.6438105",
+    "long": "101.7534579",
+    "name": "Bukit Pelanduk",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074043",
+    "lat": "2.4854272",
+    "long": "102.010331",
+    "name": "Linggi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074047",
+    "lat": "2.420733",
+    "long": "101.955968",
+    "name": "Pasir Panjang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074061",
+    "lat": "2.5932885",
+    "long": "101.9614591",
+    "name": "Rantau",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074143",
+    "lat": "2.936619",
+    "long": "102.074021",
+    "name": "Kuala Klawang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074216",
+    "lat": "2.9608598",
+    "long": "102.2202384",
+    "name": "Pertang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074334",
+    "lat": "2.7045869",
+    "long": "102.499744",
+    "name": "Rompin",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074370",
+    "lat": "2.8100055",
+    "long": "102.4004282",
+    "name": "Bahau",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "254074432",
+    "lat": "2.741903",
+    "long": "102.2499409",
+    "name": "Kuala Pilah",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "422445949",
+    "lat": "2.7247562",
+    "long": "101.9344913",
+    "name": "Seremban",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "560652347",
+    "lat": "2.8045642",
+    "long": "101.8001344",
+    "name": "Nilai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "587612216",
+    "lat": "2.7533508",
+    "long": "101.8256351",
+    "name": "Labu",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "587612217",
+    "lat": "2.7002289",
+    "long": "101.8302876",
+    "name": "Gadong",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2863097861",
+    "lat": "3.025678",
+    "long": "102.3698061",
+    "name": null,
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2863101305",
+    "lat": "2.936789",
+    "long": "102.3868548",
+    "name": null,
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2863101339",
+    "lat": "2.9997452",
+    "long": "102.3967256",
+    "name": null,
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2863115536",
+    "lat": "3.0138132",
+    "long": "102.2974783",
+    "name": "Felda Pasoh Empat",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2863116971",
+    "lat": "3.0691757",
+    "long": "102.408291",
+    "name": null,
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "2866849062",
+    "lat": "2.644069",
+    "long": "102.4931472",
+    "name": "FELDA Jelai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "3439403028",
+    "lat": "2.5301446",
+    "long": "102.4001362",
+    "name": "Gemencheh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "3439403029",
+    "lat": "2.6545124",
+    "long": "102.538343",
+    "name": "FELDA Pasir Besar",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "3439425057",
+    "lat": "2.8335353",
+    "long": "102.3265195",
+    "name": "Batu Kikir",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4428960891",
+    "lat": "2.5099591",
+    "long": "102.4805761",
+    "name": "Kuning Selatan",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4433685964",
+    "lat": "2.7882441",
+    "long": "102.301773",
+    "name": "Juasseh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4434017535",
+    "lat": "2.7844866",
+    "long": "102.2951039",
+    "name": "Kg. Acheh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4594030496",
+    "lat": "2.517073",
+    "long": "102.486532",
+    "name": "Kampung Parit Mulu",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4681403814",
+    "lat": "3.019316",
+    "long": "102.0809054",
+    "name": "Sungai Muntoh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "4813709921",
+    "lat": "2.7867992",
+    "long": "102.221978",
+    "name": "Parit Tinggi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5045969322",
+    "lat": "2.895082",
+    "long": "102.4033892",
+    "name": "Bandar Seri Jempol (Bandar Baru Serting)",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5045994721",
+    "lat": "3.083932",
+    "long": "102.362784",
+    "name": "Sungai Lui",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5046061721",
+    "lat": "2.7090168",
+    "long": "102.2506383",
+    "name": "Senaling",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5046081324",
+    "lat": "2.8020021",
+    "long": "102.3131979",
+    "name": "Kg. Bukit Gelugor",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5278410896",
+    "lat": "2.729128",
+    "long": "101.9653966",
+    "name": "Kampung Ismail",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5284432326",
+    "lat": "2.729607",
+    "long": "102.0112509",
+    "name": "Kampung Panchor",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5336747833",
+    "lat": "2.9400044",
+    "long": "102.503605",
+    "name": "Serting Hilir",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5339192742",
+    "lat": "2.7064369",
+    "long": "102.3663525",
+    "name": null,
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5343195803",
+    "lat": "2.8804636",
+    "long": "102.3216351",
+    "name": "Kampung Serting Tengah",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5352971391",
+    "lat": "2.5104195",
+    "long": "102.537605",
+    "name": "FELDA Bukit Jalor",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5473792412",
+    "lat": "2.7407268",
+    "long": "102.1854197",
+    "name": "Tanjung Ipoh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5473792413",
+    "lat": "2.7815196",
+    "long": "101.9931586",
+    "name": "Pantai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5539546521",
+    "lat": "2.856978",
+    "long": "102.522194",
+    "name": "Ladang Geddes",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5539566422",
+    "lat": "2.739654",
+    "long": "102.648037",
+    "name": "Pusat Bandar Palong",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5739417424",
+    "lat": "2.7643056",
+    "long": "101.8444424",
+    "name": "Kg. Tekir",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5820756104",
+    "lat": "2.6250175",
+    "long": "101.7604941",
+    "name": "Kampung Sawah",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5829633320",
+    "lat": "2.614543",
+    "long": "101.8011732",
+    "name": "Tanah Merah Site C",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5831065931",
+    "lat": "2.6776155",
+    "long": "101.7592549",
+    "name": "Kampung Baru Merah Site A",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5982293340",
+    "lat": "2.5477638",
+    "long": "101.9756397",
+    "name": "Ayer Kuning",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5982293369",
+    "lat": "2.5013801",
+    "long": "101.9101933",
+    "name": "Ladang Sua Betong",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "5982293370",
+    "lat": "2.5681114",
+    "long": "101.8346999",
+    "name": "Sri Parit",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6296974299",
+    "lat": "2.7660858",
+    "long": "102.0019637",
+    "name": "Kampung Bukit Kubot",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6296974303",
+    "lat": "2.783489",
+    "long": "101.9931446",
+    "name": "Kampung Baru Pantai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6707736741",
+    "lat": "2.9553873",
+    "long": "102.2227235",
+    "name": "Kampung Baru Pertang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6707742787",
+    "lat": "2.9271583",
+    "long": "102.2821474",
+    "name": "Kampung Serting Ulu",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6723251794",
+    "lat": "2.9806048",
+    "long": "102.1779289",
+    "name": "Kampung Petaseh Hulu",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6723251802",
+    "lat": "2.9827142",
+    "long": "102.18079",
+    "name": "Kampung Petaseh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735171312",
+    "lat": "2.9674174",
+    "long": "102.1308517",
+    "name": "Kampung Peradong",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735171316",
+    "lat": "2.9711147",
+    "long": "102.1330613",
+    "name": "Bukit Batu Sawa",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735597047",
+    "lat": "2.9255136",
+    "long": "102.060687",
+    "name": "Kampung Tembun",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735605019",
+    "lat": "2.9502459",
+    "long": "102.0867336",
+    "name": "Taman Moyang Salleh",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735605103",
+    "lat": "2.9624081",
+    "long": "102.1115274",
+    "name": "Kampung Kuala Pahi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6735605123",
+    "lat": "2.9654356",
+    "long": "102.1201884",
+    "name": "Kampung Simpang Gelam",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6737778764",
+    "lat": "2.9175999",
+    "long": "102.0542698",
+    "name": "Kampung Kemin",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6745948486",
+    "lat": "2.897435",
+    "long": "102.028943",
+    "name": "Kampung Ulu Klawang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6745948499",
+    "lat": "2.9005604",
+    "long": "102.0290387",
+    "name": "Kampung Gedang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6745948504",
+    "lat": "2.9081553",
+    "long": "102.0281412",
+    "name": "Kampung Renal",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6746213143",
+    "lat": "2.8766049",
+    "long": "102.0192433",
+    "name": "Kampung Amar Penghulu",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6746213144",
+    "lat": "2.8881453",
+    "long": "102.0215304",
+    "name": "Kampung Rambai Baris",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6746213145",
+    "lat": "2.8923016",
+    "long": "102.0299403",
+    "name": "Kampung Kelaka",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6761087084",
+    "lat": "2.8097228",
+    "long": "101.9930827",
+    "name": "Kampung Pantai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6761090585",
+    "lat": "2.8116728",
+    "long": "101.9987504",
+    "name": "Kampung Ngoi Ngoi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6764011580",
+    "lat": "2.7685184",
+    "long": "102.2612308",
+    "name": "Kampung Pelangai",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6764011581",
+    "lat": "2.7444991",
+    "long": "102.1637096",
+    "name": "Kampung Ibol",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6766078149",
+    "lat": "2.9455874",
+    "long": "102.2587478",
+    "name": "Simpang Pertang",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6768678320",
+    "lat": "2.742538",
+    "long": "102.1382928",
+    "name": "Kampung Terachi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6768678322",
+    "lat": "2.7471201",
+    "long": "102.2256341",
+    "name": "Kampung Parit",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "6771487064",
+    "lat": "2.7428908",
+    "long": "102.1551944",
+    "name": "Taman Sri Terachi",
+    "isIn": "Negeri Sembilan"
+  },
+  {
+    "id": "7353706973",
+    "lat": "2.4590343",
+    "long": "102.0537186",
+    "name": "Kampung Sungai Timun",
+    "isIn": "Negeri Sembilan"
+  }
+]

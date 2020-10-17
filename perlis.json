@@ -1,0 +1,233 @@
+[
+  {
+    "id": "254072920",
+    "lat": "6.3424075",
+    "long": "100.190631",
+    "name": "Simpang Empat",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "254073051",
+    "lat": "6.438248",
+    "long": "100.1604801",
+    "name": "Tebing Tinggi",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "254073131",
+    "lat": "6.6420453",
+    "long": "100.2131447",
+    "name": "Kaki Bukit",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "254073383",
+    "lat": "6.4307281",
+    "long": "100.2718795",
+    "name": "Arau",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "254073499",
+    "lat": "6.4032926",
+    "long": "100.1345543",
+    "name": "Kuala Perlis",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "254073984",
+    "lat": "6.47686",
+    "long": "100.2591079",
+    "name": "Mata Ayer",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "986041799",
+    "lat": "6.6598773",
+    "long": "100.3164554",
+    "name": "Padang Besar",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "2610748548",
+    "lat": "6.4389312",
+    "long": "100.1944838",
+    "name": "Kangar",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4277774590",
+    "lat": "6.4104304",
+    "long": "100.2805918",
+    "name": "Kampung Hutan Kandis",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4277774592",
+    "lat": "6.4050685",
+    "long": "100.2873157",
+    "name": "Kampung Jelempok",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4277774593",
+    "lat": "6.4448646",
+    "long": "100.2539884",
+    "name": "Kampung Kubang Gajah",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4294346755",
+    "lat": "6.4191055",
+    "long": "100.1842141",
+    "name": "Kampung Alor Pulai",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4294346756",
+    "lat": "6.4149618",
+    "long": "100.2592493",
+    "name": "Kampung Banat",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4294346757",
+    "lat": "6.3963282",
+    "long": "100.1321176",
+    "name": "Kampung Perak",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4546701482",
+    "lat": "6.4877754",
+    "long": "100.2172912",
+    "name": "Kampung Padang Pauh",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4546701483",
+    "lat": "6.5023475",
+    "long": "100.2247611",
+    "name": "Kampung Paya",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4546701500",
+    "lat": "6.4731241",
+    "long": "100.2129762",
+    "name": "Kampung Batu Dua",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4546701501",
+    "lat": "6.4667694",
+    "long": "100.2069324",
+    "name": "Kampung Salang",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4655176590",
+    "lat": "6.6785041",
+    "long": "100.1870949",
+    "name": "Wang Kelian",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4678218392",
+    "lat": "6.5287597",
+    "long": "100.2305969",
+    "name": "Beseri",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4678263494",
+    "lat": "6.379748",
+    "long": "100.24151",
+    "name": "Tambun Tulang",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4678263495",
+    "lat": "6.406657",
+    "long": "100.30042",
+    "name": "Kampung Sena",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4805610928",
+    "lat": "6.2992843",
+    "long": "100.2112981",
+    "name": "Kampung Kepala Batas Pauh",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4805610929",
+    "lat": "6.3668286",
+    "long": "100.1801009",
+    "name": "Kampung Kenangan",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4805610930",
+    "lat": "6.365316",
+    "long": "100.1755358",
+    "name": "Kampung Tanjung Gelam",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4805610986",
+    "lat": "6.3573949",
+    "long": "100.1471039",
+    "name": "Kampung Sungai Berembang",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "4812848421",
+    "lat": "6.4808522",
+    "long": "100.3360056",
+    "name": "Padang Siding",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5020389760",
+    "lat": "6.4977865",
+    "long": "100.2696848",
+    "name": "Kampung Balik Bukit",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5020389761",
+    "lat": "6.4874995",
+    "long": "100.283761",
+    "name": "Kampung Perit",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5020389762",
+    "lat": "6.4864016",
+    "long": "100.3001761",
+    "name": "Kampung Paya Burma",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5020389763",
+    "lat": "6.4865934",
+    "long": "100.3091454",
+    "name": "Kampung Kok Klang",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5020389764",
+    "lat": "6.496891",
+    "long": "100.3137159",
+    "name": "Kampung Baru Kok Klang",
+    "isIn": "Perlis"
+  },
+  {
+    "id": "5277834362",
+    "lat": "6.4096373",
+    "long": "100.203402",
+    "name": "Kampung Guar Ujung Batu",
+    "isIn": "Perlis"
+  }
+]

@@ -1,0 +1,1829 @@
+[
+  {
+    "id": "254072832",
+    "lat": "4.426786",
+    "long": "103.4511959",
+    "name": "Kemasik",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254072878",
+    "lat": "5.5197759",
+    "long": "102.7470844",
+    "name": "Bandar Permaisuri",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254072934",
+    "lat": "4.579481",
+    "long": "103.208249",
+    "name": "Bandar Almuqtafi Billah Shah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254072971",
+    "lat": "5.074295",
+    "long": "103.017201",
+    "name": "Kuala Berang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254073297",
+    "lat": "4.3349921",
+    "long": "103.4811629",
+    "name": "Kijal",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254073306",
+    "lat": "4.5083051",
+    "long": "103.4418038",
+    "name": "Kerteh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254073406",
+    "lat": "4.4091197",
+    "long": "103.3967577",
+    "name": "Air Jernih",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254073413",
+    "lat": "4.769677",
+    "long": "103.416885",
+    "name": "Dungun",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254073467",
+    "lat": "4.374287",
+    "long": "103.330093",
+    "name": "Pasir Belaram",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254074007",
+    "lat": "4.222021",
+    "long": "103.4287988",
+    "name": "Chukai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254074028",
+    "lat": "5.2065457",
+    "long": "103.2042795",
+    "name": "Marang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254074258",
+    "lat": "5.3750722",
+    "long": "103.0608123",
+    "name": "Pulai Baharu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "254074266",
+    "lat": "4.636872",
+    "long": "103.435976",
+    "name": "Paka",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369488213",
+    "lat": "5.3297015",
+    "long": "103.138313",
+    "name": "Kuala Terengganu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369488653",
+    "lat": "5.8283726",
+    "long": "102.5561096",
+    "name": "Kuala Besut",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369488740",
+    "lat": "5.7377149",
+    "long": "102.49495",
+    "name": "Jerteh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369488792",
+    "lat": "5.7957342",
+    "long": "102.5634366",
+    "name": "Kampung Raja",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369488813",
+    "lat": "5.7596176",
+    "long": "102.5386565",
+    "name": "Alur Lintah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490163",
+    "lat": "5.6743677",
+    "long": "102.5870553",
+    "name": "Kg.Jabi Baharu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490173",
+    "lat": "5.6447071",
+    "long": "102.5110725",
+    "name": "Pasir Akar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490219",
+    "lat": "5.5279972",
+    "long": "102.4900858",
+    "name": "Kampung La",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490260",
+    "lat": "5.7367276",
+    "long": "102.6446537",
+    "name": "Sari Tembila",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490285",
+    "lat": "5.7247013",
+    "long": "102.6670622",
+    "name": "Kg.Beting Lintang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490302",
+    "lat": "5.7073105",
+    "long": "102.6167331",
+    "name": "Kg.Tempinis",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490348",
+    "lat": "5.3704677",
+    "long": "102.8239161",
+    "name": "Kampung Langkap",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490367",
+    "lat": "5.5230912",
+    "long": "102.9469321",
+    "name": "Kg.Merang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490421",
+    "lat": "5.5939688",
+    "long": "102.8164149",
+    "name": "Kg.Penarik",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490440",
+    "lat": "5.6292864",
+    "long": "102.7677814",
+    "name": "Kg.Fikri",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490502",
+    "lat": "5.0769109",
+    "long": "103.0831915",
+    "name": "Ajil",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490518",
+    "lat": "4.7232907",
+    "long": "103.0832456",
+    "name": "Kampung Kuala Jengai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490542",
+    "lat": "4.7545831",
+    "long": "103.1872201",
+    "name": "Bandar Bukit Besi",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490560",
+    "lat": "5.2997865",
+    "long": "103.1219135",
+    "name": "Kampung Merbau Patah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490581",
+    "lat": "5.4632007",
+    "long": "103.0283095",
+    "name": "Batu Rakit",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490841",
+    "lat": "4.8460477",
+    "long": "103.2067588",
+    "name": "Kampung Jerangau",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "369490868",
+    "lat": "4.8103743",
+    "long": "103.4163486",
+    "name": "Tanjung Jara",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "530431050",
+    "lat": "5.4113002",
+    "long": "103.0767042",
+    "name": "Gong Dato",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "720552870",
+    "lat": "5.4243451",
+    "long": "103.0606376",
+    "name": "Wakaf Tengah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1498267007",
+    "lat": "4.2448553",
+    "long": "103.4075478",
+    "name": "Kampung Mak Chili",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1498267014",
+    "lat": "4.4072256",
+    "long": "103.4118273",
+    "name": "Kampung Semayor",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1552529057",
+    "lat": "4.3594358",
+    "long": "103.3906924",
+    "name": "Kg Batu 9",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1552529062",
+    "lat": "4.3777591",
+    "long": "103.4120984",
+    "name": "Kg Bukit Teruna",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1552529067",
+    "lat": "4.319968",
+    "long": "103.3666733",
+    "name": "Kampung Ibok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1552529070",
+    "lat": "4.3110439",
+    "long": "103.3709289",
+    "name": "Kampung Yak Yah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1598668514",
+    "lat": "4.5422842",
+    "long": "103.4566281",
+    "name": "Kampung Labohan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1668140591",
+    "lat": "5.3055996",
+    "long": "103.1406342",
+    "name": "Kg Bukit Besar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1668140594",
+    "lat": "5.3014353",
+    "long": "103.1397015",
+    "name": "Kg Pasir Panjang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "1727304247",
+    "lat": "4.3715741",
+    "long": "103.4547228",
+    "name": "Kampung Meraga Beris",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2194455258",
+    "lat": "4.2284563",
+    "long": "103.4408463",
+    "name": "Kg Kuala Kemaman",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2580390038",
+    "lat": "5.3491911",
+    "long": "102.8306405",
+    "name": "Kampung Kasar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2580390183",
+    "lat": "5.3864058",
+    "long": "102.8345278",
+    "name": "Kampung Langkap Baru",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2582072106",
+    "lat": "5.3075572",
+    "long": "103.0571144",
+    "name": "Kampung Kebor Besar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2582072111",
+    "lat": "5.3135621",
+    "long": "103.0982753",
+    "name": "Kampung Paloh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2582072115",
+    "lat": "5.2139978",
+    "long": "103.0145074",
+    "name": "Kampung Pelam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2582072118",
+    "lat": "5.2719668",
+    "long": "103.049991",
+    "name": "Kampung Peradong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2582072122",
+    "lat": "5.3205245",
+    "long": "103.0976985",
+    "name": "Kampung Pulau Sekati",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2627865620",
+    "lat": "5.0493742",
+    "long": "102.9337076",
+    "name": "Kampung Jenagor",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "2880838001",
+    "lat": "5.3464662",
+    "long": "103.1363488",
+    "name": "Kampung Seberang Takir Hulu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3430124206",
+    "lat": "4.4736528",
+    "long": "103.4051653",
+    "name": "Kampung Chabang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3453319994",
+    "lat": "4.260322",
+    "long": "103.4326982",
+    "name": "Taman Kalong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3468987324",
+    "lat": "5.3125194",
+    "long": "103.0953944",
+    "name": "Kampung Paloh Hj Daud",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3472773961",
+    "lat": "5.3061597",
+    "long": "103.0838677",
+    "name": "Kampung Banggol",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3472773962",
+    "lat": "5.2979532",
+    "long": "103.084657",
+    "name": "Kampung Teluk Menara",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3473326110",
+    "lat": "4.4840679",
+    "long": "103.4328231",
+    "name": "Taman Nabila",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3473326111",
+    "lat": "4.4785463",
+    "long": "103.4346279",
+    "name": "Taman Selasih 1",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3485736345",
+    "lat": "5.228138",
+    "long": "103.0316459",
+    "name": "Kampung Kubang Palas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3488113799",
+    "lat": "4.6847277",
+    "long": "103.3550165",
+    "name": "Kampung Durian Mentangau",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3498480600",
+    "lat": "5.3517178",
+    "long": "103.0925703",
+    "name": "Kampung Air Leleh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3501074887",
+    "lat": "4.5692267",
+    "long": "103.3984787",
+    "name": "Kampung Batu Putih",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3501074888",
+    "lat": "5.3953552",
+    "long": "103.0477178",
+    "name": "Kampung Gelong Gajah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3501074889",
+    "lat": "4.5491209",
+    "long": "103.4046797",
+    "name": "Kampung Pengkalan Ranggon",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3564671930",
+    "lat": "5.3451134",
+    "long": "102.879599",
+    "name": "Kampung Pengkalan Merbau",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3565596257",
+    "lat": "5.3613787",
+    "long": "102.8867592",
+    "name": "Taman Sri Intan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3635372468",
+    "lat": "5.3592016",
+    "long": "102.8859316",
+    "name": "Pekan Sungai Tong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3653620867",
+    "lat": "4.8331126",
+    "long": "103.4124014",
+    "name": "Kampung Kuala Abang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3659752529",
+    "lat": "5.3140572",
+    "long": "103.0744156",
+    "name": "Kg Baloh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3662596910",
+    "lat": "5.2710801",
+    "long": "103.0440536",
+    "name": "Kampung Batu Hampar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3672828990",
+    "lat": "5.2623756",
+    "long": "103.098535",
+    "name": "Kampung Padang Midin",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3709184491",
+    "lat": "4.6157501",
+    "long": "103.2075709",
+    "name": "Bandar Al-Muktafi Billah Shah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3740886041",
+    "lat": "5.2498563",
+    "long": "103.0325706",
+    "name": "Kampung Pulau Manis",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3868531356",
+    "lat": "4.8089369",
+    "long": "103.1442141",
+    "name": "Kampung Tepus",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3879290569",
+    "lat": "4.8002892",
+    "long": "103.3083069",
+    "name": "Kampung Bukit Tok Bilal",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3879290570",
+    "lat": "4.8097253",
+    "long": "103.3070394",
+    "name": "Kampung Delong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3879290571",
+    "lat": "4.779116",
+    "long": "103.3419201",
+    "name": "Kampung Serdang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3888665858",
+    "lat": "5.1644711",
+    "long": "103.2311449",
+    "name": "Kampung Kelulut",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3903962903",
+    "lat": "5.2886506",
+    "long": "103.086552",
+    "name": "Kampung Beladau Kolam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3903962904",
+    "lat": "5.2793702",
+    "long": "103.0742276",
+    "name": "Kampung Padang Macang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3903962905",
+    "lat": "5.2736252",
+    "long": "103.0643288",
+    "name": "Kampung Pulau Bahagia",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3911569094",
+    "lat": "4.7630102",
+    "long": "103.3792913",
+    "name": "Kampung Che Lijah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913952498",
+    "lat": "4.1333245",
+    "long": "103.2429761",
+    "name": "Bandar Baharu Cheneh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913952499",
+    "lat": "4.2782778",
+    "long": "103.2260065",
+    "name": "Kampung Dadong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913952500",
+    "lat": "4.25032",
+    "long": "103.2912206",
+    "name": "Kampung Pasir Gajah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913952501",
+    "lat": "4.0467899",
+    "long": "103.2880851",
+    "name": "Kampung Sungai Pergam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913952502",
+    "lat": "4.2851105",
+    "long": "103.2358671",
+    "name": "Kampung Tebak",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3913953619",
+    "lat": "4.2838652",
+    "long": "103.2598032",
+    "name": null,
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914644772",
+    "lat": "4.7641662",
+    "long": "103.3730824",
+    "name": "Kampung Binjai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914644773",
+    "lat": "4.8022555",
+    "long": "103.2705296",
+    "name": "Kampung Bukit Merah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914644774",
+    "lat": "4.8028246",
+    "long": "103.2534943",
+    "name": "Kampung Padang Pulut",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937100",
+    "lat": "5.0982118",
+    "long": "103.0891731",
+    "name": "Kampung Batu 18",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937101",
+    "lat": "5.2187137",
+    "long": "103.1052525",
+    "name": "Kampung Batu 9",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937102",
+    "lat": "5.2718677",
+    "long": "103.0963046",
+    "name": "Kampung Binjai Berambu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937103",
+    "lat": "5.0266832",
+    "long": "103.1242485",
+    "name": "Kampung Bukit Diman",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937104",
+    "lat": "5.0760476",
+    "long": "103.0958669",
+    "name": "Kampung Bukit Kolam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937105",
+    "lat": "5.1897311",
+    "long": "103.0948061",
+    "name": "Kampung Bukit Sawa",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937106",
+    "lat": "5.0180332",
+    "long": "103.1338957",
+    "name": "Kampung Durian Kassim",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937107",
+    "lat": "5.2686688",
+    "long": "103.1019992",
+    "name": "Kampung Gong Kiat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937109",
+    "lat": "4.9363137",
+    "long": "103.1855283",
+    "name": "Kampung Landas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937110",
+    "lat": "4.8353459",
+    "long": "103.2083596",
+    "name": "Kampung Panchur",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937111",
+    "lat": "4.8005426",
+    "long": "103.2763976",
+    "name": "Kampung Paya Kemudi",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937112",
+    "lat": "5.0066515",
+    "long": "103.1323032",
+    "name": "Kampung Pela",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937113",
+    "lat": "5.2729167",
+    "long": "103.1043751",
+    "name": "Kampung Pengadang Baru",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937114",
+    "lat": "4.9914812",
+    "long": "103.140155",
+    "name": "Kampung Perok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937115",
+    "lat": "4.7994618",
+    "long": "103.2225319",
+    "name": "Kampung Pinang Baru",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937116",
+    "lat": "4.7878201",
+    "long": "103.2357421",
+    "name": "Kampung Pinang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937118",
+    "lat": "5.2536388",
+    "long": "103.093071",
+    "name": "Kampung Telaga Mengkudu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937119",
+    "lat": "4.9744782",
+    "long": "103.1577463",
+    "name": "Kampung Tok Dor",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937120",
+    "lat": "5.0637017",
+    "long": "103.1016608",
+    "name": "Kampung Tok Randok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937121",
+    "lat": "5.2440597",
+    "long": "103.0968695",
+    "name": "Kampung Wakaf Dua",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3914937122",
+    "lat": "5.2817534",
+    "long": "103.109347",
+    "name": "Kampung Wakaf Mempelam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006790",
+    "lat": "5.1331593",
+    "long": "103.03266",
+    "name": "Kampung Binjai Kertas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006791",
+    "lat": "5.2037397",
+    "long": "103.0309954",
+    "name": "Kampung Chepoh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006792",
+    "lat": "5.1869782",
+    "long": "103.0361503",
+    "name": "Kampung Getang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006793",
+    "lat": "5.2190757",
+    "long": "103.0245594",
+    "name": "Kampung Imam Lapar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006794",
+    "lat": "5.212434",
+    "long": "103.0254363",
+    "name": "Kampung Mesah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006795",
+    "lat": "5.1608177",
+    "long": "103.0337175",
+    "name": "Kampung Nasi Dingin",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006797",
+    "lat": "5.1404728",
+    "long": "103.03547",
+    "name": "Kampung Sungai Ular",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3936006798",
+    "lat": "5.1073382",
+    "long": "103.0010127",
+    "name": "Kampung Tajin",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029706",
+    "lat": "5.1981281",
+    "long": "103.2095246",
+    "name": "Kampung Bukit Gasing",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029715",
+    "lat": "5.210031",
+    "long": "103.2031505",
+    "name": "Kampung Paya",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029716",
+    "lat": "5.1879968",
+    "long": "103.2216335",
+    "name": "Kampung Rhu Muda",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029717",
+    "lat": "5.2200779",
+    "long": "103.1972061",
+    "name": "Kampung Rhu Rendang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029718",
+    "lat": "4.624808",
+    "long": "103.3890035",
+    "name": "Kampung Santong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "3993029719",
+    "lat": "5.1975301",
+    "long": "103.2146733",
+    "name": "Kampung Seberang Marang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4027234021",
+    "lat": "5.896921",
+    "long": "102.7287089",
+    "name": "Kg. Pasir Hantu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085128870",
+    "lat": "4.9919564",
+    "long": "103.3219406",
+    "name": "Kampung Pasir Puteh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085128871",
+    "lat": "4.3790985",
+    "long": "103.3976833",
+    "name": "Kampung Payoh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085128873",
+    "lat": "4.870347",
+    "long": "103.3904582",
+    "name": "Rantau Abang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241002",
+    "lat": "5.2517147",
+    "long": "103.0431048",
+    "name": "Kampung Banggol Mempelam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241003",
+    "lat": "5.2405616",
+    "long": "103.042959",
+    "name": "Kampung Banggol Semang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241004",
+    "lat": "5.2616285",
+    "long": "103.054431",
+    "name": "Kampung Baru Serada",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241005",
+    "lat": "5.2740528",
+    "long": "103.0854004",
+    "name": "Kampung Beladau Kepong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241006",
+    "lat": "5.2691733",
+    "long": "103.0753522",
+    "name": "Kampung Beladau",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241007",
+    "lat": "5.2622391",
+    "long": "103.0583947",
+    "name": "Kampung Serada",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241008",
+    "lat": "5.2271368",
+    "long": "103.0412183",
+    "name": "Kampung Tiruk",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4085241009",
+    "lat": "5.2580658",
+    "long": "103.0490914",
+    "name": "Kampung Tok Ku",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4100735703",
+    "lat": "5.2058993",
+    "long": "103.0781815",
+    "name": "Kampung Rawai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4100735726",
+    "lat": "5.2266217",
+    "long": "103.0791499",
+    "name": "Kampung Tebakang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186914",
+    "lat": "5.3278119",
+    "long": "102.9464431",
+    "name": "FELDA Belara",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186915",
+    "lat": "5.1827736",
+    "long": "102.8401215",
+    "name": "Kampung Basong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186917",
+    "lat": "5.1391994",
+    "long": "102.9655446",
+    "name": "Kampung Bukit Aceh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186918",
+    "lat": "5.3050137",
+    "long": "102.9100133",
+    "name": "Kampung Bukit Nenas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186919",
+    "lat": "5.1796995",
+    "long": "102.891173",
+    "name": "Kampung Chapu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186920",
+    "lat": "5.3025039",
+    "long": "103.0294068",
+    "name": "Kampung Dusun Pinang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186921",
+    "lat": "5.0089662",
+    "long": "103.3123547",
+    "name": "Kampung Gong Balai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186922",
+    "lat": "5.1506639",
+    "long": "102.9375588",
+    "name": "Kampung Kepah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186923",
+    "lat": "5.2879611",
+    "long": "103.0334161",
+    "name": "Kampung Kesom",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186925",
+    "lat": "5.1455794",
+    "long": "102.9553272",
+    "name": "Kampung Matang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186926",
+    "lat": "5.2836499",
+    "long": "102.8901595",
+    "name": "Kampung Pak Ba",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186927",
+    "lat": "5.2068945",
+    "long": "103.0422292",
+    "name": "Kampung Pantai Ali",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186929",
+    "lat": "5.1725557",
+    "long": "102.8948542",
+    "name": "Kampung Pasir Simpul",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186930",
+    "lat": "5.3079286",
+    "long": "102.8282761",
+    "name": "Kampung Pelong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186931",
+    "lat": "5.3450041",
+    "long": "103.0452709",
+    "name": "Kampung Petaling",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186932",
+    "lat": "5.1154093",
+    "long": "103.2543979",
+    "name": "Kampung Pulau Kerengga",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186934",
+    "lat": "5.3113183",
+    "long": "102.8322853",
+    "name": "Kampung Seri Kenangan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186935",
+    "lat": "5.1597799",
+    "long": "102.8276978",
+    "name": "Kampung Sungai Gawi",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186937",
+    "lat": "5.1616895",
+    "long": "102.9260412",
+    "name": "Kampung Tengkawang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186938",
+    "lat": "5.229995",
+    "long": "102.8754708",
+    "name": "Kampung Teris",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4118186939",
+    "lat": "5.3059831",
+    "long": "103.043307",
+    "name": "Kampung Tetambah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4256051753",
+    "lat": "5.3492191",
+    "long": "103.0158427",
+    "name": "Kampung Gemuroh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4256786898",
+    "lat": "5.1424164",
+    "long": "103.2384098",
+    "name": "Kampung Alur Tuman",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4256786899",
+    "lat": "5.0328593",
+    "long": "103.2919811",
+    "name": "Kampung Merchang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4297492579",
+    "lat": "4.7484027",
+    "long": "103.1932315",
+    "name": "Kampung Besol",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4312486317",
+    "lat": "4.3378592",
+    "long": "103.4770124",
+    "name": "Kampung Beris Nenas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4319054161",
+    "lat": "4.2419199",
+    "long": "103.4045101",
+    "name": "Kampung Kaya",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4320702182",
+    "lat": "4.8727065",
+    "long": "103.028459",
+    "name": "Kampung Felda Mengkawang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4320702183",
+    "lat": "4.8926071",
+    "long": "103.0492435",
+    "name": "Kampung Lubuk Periok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4320702184",
+    "lat": "4.8830919",
+    "long": "103.0359992",
+    "name": "Kampung Peneh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4352171916",
+    "lat": "5.3801952",
+    "long": "103.0497058",
+    "name": "Kampung Padang Hangus",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4352171917",
+    "lat": "5.3876022",
+    "long": "103.0429803",
+    "name": "Kampung Pasir Puteh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4410758990",
+    "lat": "5.0888667",
+    "long": "103.0927004",
+    "name": "Kampung Bukit Peroh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4417102169",
+    "lat": "5.0762666",
+    "long": "103.2718902",
+    "name": "Kampung Serating",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798511",
+    "lat": "5.1763695",
+    "long": "103.1064084",
+    "name": "Kampung Batu Penunggul",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798513",
+    "lat": "5.1795973",
+    "long": "103.128483",
+    "name": "Kampung Gondang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798514",
+    "lat": "5.19178",
+    "long": "103.1917362",
+    "name": "Kampung Gong Nangka",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798515",
+    "lat": "5.1886639",
+    "long": "103.1039664",
+    "name": "Kampung Hutan Ban",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798516",
+    "lat": "5.0579082",
+    "long": "103.0171146",
+    "name": "Kampung Lebak",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798517",
+    "lat": "5.1657791",
+    "long": "103.1100646",
+    "name": "Kampung Lubuk Batu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798518",
+    "lat": "5.1678018",
+    "long": "103.1923034",
+    "name": "Kampung Pengkalan Kuin",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798519",
+    "lat": "5.1793194",
+    "long": "103.1957569",
+    "name": "Kampung Sentol Patah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798520",
+    "lat": "5.1845542",
+    "long": "103.1211569",
+    "name": "Kampung Sungai Serai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4423798522",
+    "lat": "5.0620997",
+    "long": "103.0170417",
+    "name": "Kampung Tanjung Putat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4585527769",
+    "lat": "4.9197624",
+    "long": "103.1240466",
+    "name": "Felda Jerangau Barat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4632213841",
+    "lat": "4.8914559",
+    "long": "103.066349",
+    "name": "Kampung Baharu Lubuk Periuk",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4689810193",
+    "lat": "5.2198063",
+    "long": "103.0299688",
+    "name": "Kampung Kuala Telemong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4743493073",
+    "lat": "5.4327531",
+    "long": "103.0650764",
+    "name": "Kampung Pengkalan Maras",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4743493079",
+    "lat": "5.4270148",
+    "long": "103.0728342",
+    "name": "Kampung Mengabang Telipot",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610368",
+    "lat": "5.2452608",
+    "long": "103.1356254",
+    "name": "Kampung Tok Dir",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610418",
+    "lat": "5.2422003",
+    "long": "103.1145663",
+    "name": "Kampung Sena Rendang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610921",
+    "lat": "5.2372023",
+    "long": "103.108693",
+    "name": "Kampung Nyior Kembar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610931",
+    "lat": "4.8162362",
+    "long": "103.177779",
+    "name": "Kampung Dendang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610932",
+    "lat": "5.2194285",
+    "long": "103.183889",
+    "name": "Kampung Bukit Rhu Rendang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610933",
+    "lat": "5.3574728",
+    "long": "103.1267182",
+    "name": "Kampung Baru Seberang Takir",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610934",
+    "lat": "5.2327711",
+    "long": "103.1319774",
+    "name": "Kampung Alur Parit",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4805610980",
+    "lat": "4.8984625",
+    "long": "103.1909383",
+    "name": "FELDA Jerangau",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4872447065",
+    "lat": "5.4463358",
+    "long": "103.0104926",
+    "name": "Kampung Terap Pecah Rotan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4872447066",
+    "lat": "5.4496617",
+    "long": "103.0046154",
+    "name": "Kampung Pecah Rotan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4875973734",
+    "lat": "4.9357196",
+    "long": "103.3505346",
+    "name": "Kampung Jambu Bongkok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4901630443",
+    "lat": "5.2044668",
+    "long": "102.9652424",
+    "name": "Kampung Bukit Lawang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4901630444",
+    "lat": "5.2125127",
+    "long": "102.9367446",
+    "name": "Kampung Alor Lik",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "4901641810",
+    "lat": "5.2257524",
+    "long": "103.0229579",
+    "name": "Kampung Lubuk Batu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5097733990",
+    "lat": "5.5130046",
+    "long": "102.7829361",
+    "name": "Kampung Putera Jaya",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5098334250",
+    "lat": "5.2378681",
+    "long": "103.1249285",
+    "name": "Kampung Surau Haji Yaakob",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5258766670",
+    "lat": "4.7985247",
+    "long": "103.4064707",
+    "name": "Batu Tiong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5332803042",
+    "lat": "4.2850345",
+    "long": "103.4730577",
+    "name": "Kampung Teluk Kalong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5358674381",
+    "lat": "5.0799584",
+    "long": "103.0924523",
+    "name": "Kampung Kolam",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5358674406",
+    "lat": "5.0837601",
+    "long": "103.1066143",
+    "name": "Kampung Bukit Apit",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5358675643",
+    "lat": "5.0856437",
+    "long": "103.098042",
+    "name": "Kampung Baru Ajil",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5409132459",
+    "lat": "5.0744974",
+    "long": "102.9433536",
+    "name": "Kampung Kuala Pueh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5409132523",
+    "lat": "5.0630999",
+    "long": "102.935586",
+    "name": "Kampung Kuala Dura",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5678179190",
+    "lat": "5.2334767",
+    "long": "103.101119",
+    "name": "Bukit Payong",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5701137039",
+    "lat": "4.6749905",
+    "long": "103.4021562",
+    "name": "Taman Nuraini 2",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "5903813866",
+    "lat": "4.66889",
+    "long": "103.4045541",
+    "name": "Kampung Nyior",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6027650747",
+    "lat": "5.3416642",
+    "long": "103.0031562",
+    "name": "Kampung Sungai Ikan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6031215785",
+    "lat": "5.2318543",
+    "long": "103.0931483",
+    "name": "Kampung Banggol Tasek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6057661648",
+    "lat": "5.4461285",
+    "long": "102.8311092",
+    "name": "Pekan Chalok Kedai",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6057662444",
+    "lat": "5.4095507",
+    "long": "102.8249085",
+    "name": "FELDA Chalok Barat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6057662636",
+    "lat": "5.4228177",
+    "long": "102.8504221",
+    "name": "Kampung Sungai Lerek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6057662651",
+    "lat": "5.4130861",
+    "long": "102.8538801",
+    "name": "Kampung Sungai Pinang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6063745388",
+    "lat": "5.5845831",
+    "long": "102.707965",
+    "name": "Kampung Guntung Luar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069884476",
+    "lat": "5.7321976",
+    "long": "102.6176924",
+    "name": "Kampung Tembila",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069884919",
+    "lat": "5.7215411",
+    "long": "102.6174669",
+    "name": "Kampung Bukit Tanah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069884965",
+    "lat": "5.6694273",
+    "long": "102.5987964",
+    "name": "Kampung Renek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069884971",
+    "lat": "5.653233",
+    "long": "102.6331645",
+    "name": "Kampung Tok Dor Luar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069885194",
+    "lat": "5.6454149",
+    "long": "102.6199977",
+    "name": "Felda Selasih",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069885195",
+    "lat": "5.6528867",
+    "long": "102.6253373",
+    "name": "Kampung Tok Dor",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069885453",
+    "lat": "5.6195186",
+    "long": "102.6834628",
+    "name": "Kampung Bintang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6069885539",
+    "lat": "5.6074133",
+    "long": "102.6934063",
+    "name": "Kampung Bukit Grebar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6070545648",
+    "lat": "5.805562",
+    "long": "102.5712701",
+    "name": "Kampung Seberang Lencongan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6070545649",
+    "lat": "5.8107431",
+    "long": "102.5681231",
+    "name": "Kampung Pengkalan Nyireh",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6072795352",
+    "lat": "5.5763641",
+    "long": "102.7128946",
+    "name": "Kampung Air Sejuk",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6072798206",
+    "lat": "5.6323847",
+    "long": "102.6761367",
+    "name": "Kampung Bintang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6072798207",
+    "lat": "5.6406949",
+    "long": "102.6629198",
+    "name": "Kampung Alor Serdang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6072798208",
+    "lat": "5.6488433",
+    "long": "102.6404109",
+    "name": "Kampung Anak Ikan",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6452203802",
+    "lat": "4.0111912",
+    "long": "103.2740155",
+    "name": "FELDA Neram 1",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6564341904",
+    "lat": "4.3598433",
+    "long": "103.4660017",
+    "name": "Taman Kijal Mentauh 2",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6613512620",
+    "lat": "5.3706697",
+    "long": "103.0957719",
+    "name": "Kampung Tanjung Angsa",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6698391770",
+    "lat": "5.2027173",
+    "long": "103.2042275",
+    "name": "Kampung Alor Pak Bang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6759001034",
+    "lat": "5.6773616",
+    "long": "102.5731164",
+    "name": "Jabi",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6761087081",
+    "lat": "5.3529469",
+    "long": "103.0458654",
+    "name": "Kampung Lerek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6761087082",
+    "lat": "5.4075096",
+    "long": "102.8560988",
+    "name": "Kampung Sungai Bari",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6761087083",
+    "lat": "5.3759365",
+    "long": "102.8746326",
+    "name": "Kampung Selamat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6761090586",
+    "lat": "5.3514799",
+    "long": "103.0563442",
+    "name": "Kampung Jeram Hilir",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6761090588",
+    "lat": "5.6599121",
+    "long": "102.6192779",
+    "name": "Kampung Anak Musang",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "6977103224",
+    "lat": "5.1988187",
+    "long": "103.0740718",
+    "name": "Kampung Alor Limbat",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7060188318",
+    "lat": "5.291923",
+    "long": "103.1499884",
+    "name": "Kampung Gong Tok Nasek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7079873682",
+    "lat": "5.1949444",
+    "long": "103.1007318",
+    "name": "Binjai Rendah",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7079873683",
+    "lat": "5.2374256",
+    "long": "103.0865142",
+    "name": "Kampung Tasek",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7080232678",
+    "lat": "5.224951",
+    "long": "103.091303",
+    "name": "Kampung Binjai Bongkok",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7080254286",
+    "lat": "5.2328239",
+    "long": "103.0807471",
+    "name": "Kampung Padang Kabar",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7080254287",
+    "lat": "5.2176469",
+    "long": "103.0880535",
+    "name": "Kampung Kubang Palas",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7080254484",
+    "lat": "5.2158706",
+    "long": "103.0957675",
+    "name": "Kampung Gong Kekabu",
+    "isIn": "Terengganu"
+  },
+  {
+    "id": "7093223695",
+    "lat": "5.2318249",
+    "long": "103.0989271",
+    "name": "Kampung Pulai Tinggi",
+    "isIn": "Terengganu"
+  }
+]

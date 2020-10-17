@@ -1,0 +1,625 @@
+[
+  {
+    "id": "207539450",
+    "lat": "6.1256053",
+    "long": "102.2393455",
+    "name": "Kota Bharu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254072819",
+    "lat": "5.6955226",
+    "long": "101.8449367",
+    "name": "Jeli",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254072921",
+    "lat": "6.1983831",
+    "long": "102.1681933",
+    "name": "Tumpat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254072932",
+    "lat": "4.7903033",
+    "long": "101.9479257",
+    "name": "Pulai",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254072948",
+    "lat": "5.5300168",
+    "long": "102.199106",
+    "name": "Kuala Krai",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254072994",
+    "lat": "5.3784761",
+    "long": "102.0088359",
+    "name": "Dabong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073035",
+    "lat": "6.231916",
+    "long": "102.091924",
+    "name": "Kampung Pengkalan Kubor",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073075",
+    "lat": "5.9588765",
+    "long": "102.251282",
+    "name": "Ketereh",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073090",
+    "lat": "5.964337",
+    "long": "102.2951",
+    "name": "Melor",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073283",
+    "lat": "6.0181186",
+    "long": "101.9728195",
+    "name": "Rantau Panjang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073423",
+    "lat": "6.0624104",
+    "long": "102.3999806",
+    "name": "Bachok",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073882",
+    "lat": "5.3940999",
+    "long": "102.2381585",
+    "name": "Manek Urai",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254073978",
+    "lat": "5.300094",
+    "long": "102.017555",
+    "name": "Kemubu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254074035",
+    "lat": "4.8792724",
+    "long": "101.9652332",
+    "name": "Gua Musang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254074123",
+    "lat": "5.7641131",
+    "long": "102.214217",
+    "name": "Machang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254074190",
+    "lat": "6.172528",
+    "long": "102.317145",
+    "name": "Sabak",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "254074349",
+    "lat": "5.8721208",
+    "long": "102.2291978",
+    "name": "Pulai Chondong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488104",
+    "lat": "6.0494592",
+    "long": "102.1399444",
+    "name": "Pasir Mas",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488298",
+    "lat": "6.0940366",
+    "long": "102.2845137",
+    "name": "Kubang Kerian",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488356",
+    "lat": "6.113173",
+    "long": "102.3541355",
+    "name": "Kampung Tawang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488414",
+    "lat": "6.0134316",
+    "long": "102.3751832",
+    "name": "Jelawat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488434",
+    "lat": "5.9873828",
+    "long": "102.3471376",
+    "name": "Kampung Gunong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488460",
+    "lat": "5.9582175",
+    "long": "102.1626377",
+    "name": "To Uban",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488539",
+    "lat": "5.920994",
+    "long": "102.2448252",
+    "name": "Kok Lanas",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488611",
+    "lat": "5.8683174",
+    "long": "102.5011474",
+    "name": "Cherang Ruku",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488689",
+    "lat": "5.8905573",
+    "long": "102.1730768",
+    "name": "Bukit Panau",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488722",
+    "lat": "5.8355343",
+    "long": "102.4050452",
+    "name": "Pasir Puteh",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488884",
+    "lat": "5.8097754",
+    "long": "102.1484103",
+    "name": "Tanah Merah",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "369488911",
+    "lat": "5.7156305",
+    "long": "102.1542985",
+    "name": "Temangan",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "2613273001",
+    "lat": "5.8693251",
+    "long": "102.2361163",
+    "name": "Kampung Jenereh Bongkok",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "2630800684",
+    "lat": "4.9323358",
+    "long": "102.4490881",
+    "name": null,
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "2773746638",
+    "lat": "6.1395983",
+    "long": "102.2011647",
+    "name": "Kampung Kebakat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3265845056",
+    "lat": "5.4433023",
+    "long": "101.9123335",
+    "name": "Kuala Balah",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3266548955",
+    "lat": "5.0791",
+    "long": "102.0696",
+    "name": "Limau Kasturi",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3266548956",
+    "lat": "5.0327",
+    "long": "102.0501",
+    "name": "Sirian",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3266548959",
+    "lat": "4.9573261",
+    "long": "102.0829158",
+    "name": "Sungai Asap",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3266548960",
+    "lat": "4.9961194",
+    "long": "102.0739543",
+    "name": "kampung",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3266548961",
+    "lat": "5.0077931",
+    "long": "102.0714615",
+    "name": "kampung",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3270551161",
+    "lat": "5.7",
+    "long": "101.733333",
+    "name": "Kampong Dendong A",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3270551162",
+    "lat": "5.6908",
+    "long": "101.7759",
+    "name": "Sungai Long",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3270551163",
+    "lat": "5.6753346",
+    "long": "101.7006485",
+    "name": "kampung",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3274966346",
+    "lat": "4.7702668",
+    "long": "101.468774",
+    "name": "kampung",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3279857378",
+    "lat": "5.3480225",
+    "long": "101.9822106",
+    "name": "Jelawang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3287682623",
+    "lat": "5.6545127",
+    "long": "101.7943143",
+    "name": "Sungai Rual",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3292365811",
+    "lat": "6.1423445",
+    "long": "102.234837",
+    "name": "Kampung Cina",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3294823119",
+    "lat": "6.1553199",
+    "long": "102.2442918",
+    "name": "Banggol",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3294823120",
+    "lat": "6.0363192",
+    "long": "102.2378447",
+    "name": "Kedai Mulong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3294823122",
+    "lat": "6.0984062",
+    "long": "102.1090401",
+    "name": "Meranti",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3294823126",
+    "lat": "5.9872998",
+    "long": "102.2956744",
+    "name": "Peringat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3294823128",
+    "lat": "6.0279266",
+    "long": "102.181562",
+    "name": "Salor",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3296064338",
+    "lat": "5.5833253",
+    "long": "102.2666532",
+    "name": "Chenulang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3296064339",
+    "lat": "5.8166846",
+    "long": "102.2500125",
+    "name": "Kampung Kemahang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3296064340",
+    "lat": "5.7499994",
+    "long": "102.2166574",
+    "name": "Kampung Kemuning",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3296064343",
+    "lat": "5.8334017",
+    "long": "102.2333315",
+    "name": "Tok Bok",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601463",
+    "lat": "5.6182663",
+    "long": "101.8810131",
+    "name": "Chegar Bedil",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601465",
+    "lat": "5.516737",
+    "long": "101.8833624",
+    "name": "Kampong Kubur Datu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601466",
+    "lat": "5.6766128",
+    "long": "101.8351642",
+    "name": "Kampung Baru Sungai Rual",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601467",
+    "lat": "5.6611345",
+    "long": "101.8650369",
+    "name": "Kampung Belahat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601469",
+    "lat": "5.5422734",
+    "long": "101.8897473",
+    "name": "Kampung Jabir",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298601471",
+    "lat": "5.3633052",
+    "long": "101.9731654",
+    "name": "Kampung Sungai Batu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693247",
+    "lat": "5.7806184",
+    "long": "101.8850605",
+    "name": "Ayer Lanas",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693249",
+    "lat": "5.8337588",
+    "long": "101.8999836",
+    "name": "Bukit Bunga",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693251",
+    "lat": "5.726502",
+    "long": "101.8582986",
+    "name": "Lakota",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693252",
+    "lat": "5.8115583",
+    "long": "101.9783416",
+    "name": "Lawang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693253",
+    "lat": "5.8327378",
+    "long": "101.915847",
+    "name": "Nibong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3298693254",
+    "lat": "5.8212807",
+    "long": "101.9590547",
+    "name": "Panglima Bayu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3782968636",
+    "lat": "6.0702278",
+    "long": "102.2092915",
+    "name": "Kampung Tendong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3783143760",
+    "lat": "6.1666467",
+    "long": "102.2074337",
+    "name": "Kampung Kok Pasir",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3783364858",
+    "lat": "6.1763536",
+    "long": "102.2160071",
+    "name": "Kampung Kok Keli",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3783442857",
+    "lat": "6.1315131",
+    "long": "102.1754234",
+    "name": "Kampung Kubang Batang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3824496758",
+    "lat": "6.1106048",
+    "long": "102.1904178",
+    "name": "Kampung Kulim",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3832803257",
+    "lat": "6.1222744",
+    "long": "102.2012929",
+    "name": "Wakaf Bharu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "3890446901",
+    "lat": "6.1406744",
+    "long": "102.3270073",
+    "name": "Kampung Sering",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4095989374",
+    "lat": "5.2125423",
+    "long": "102.0129069",
+    "name": "Sri Bintang",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4227097589",
+    "lat": "4.9558915",
+    "long": "102.2941479",
+    "name": "Felda Aring 1",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4227097691",
+    "lat": "4.9456479",
+    "long": "102.4007367",
+    "name": "Felda Aring 6",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4227098643",
+    "lat": "4.9789903",
+    "long": "102.2018949",
+    "name": "FELDA Ciku",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4611308212",
+    "lat": "4.9313691",
+    "long": "101.5513173",
+    "name": "Kampung Barong",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4611308214",
+    "lat": "4.9386677",
+    "long": "101.5310483",
+    "name": "Pos Balar",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4611308215",
+    "lat": "4.994501",
+    "long": "101.5295663",
+    "name": "Kampung Chachu",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4611308216",
+    "lat": "4.9909864",
+    "long": "101.5429331",
+    "name": "Kampung Chemal",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4611308217",
+    "lat": "4.9969462",
+    "long": "101.5259279",
+    "name": "Kampung Tangkol",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "4873402431",
+    "lat": "4.6316088",
+    "long": "101.4604317",
+    "name": "Lojing",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "5055528021",
+    "lat": "4.8074469",
+    "long": "101.968841",
+    "name": "Kg. Tanah Puteh",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "5265052721",
+    "lat": "4.9002245",
+    "long": "101.7865448",
+    "name": "Kuala Betis",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "5360215751",
+    "lat": "6.114686",
+    "long": "102.3091507",
+    "name": "Kedai Lalat",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "7640346175",
+    "lat": "4.9742652",
+    "long": "102.4386933",
+    "name": "Felda Aring 8",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "7640346176",
+    "lat": "4.8070135",
+    "long": "102.3214236",
+    "name": "Felda Aring 5",
+    "isIn": "Kelantan"
+  },
+  {
+    "id": "7640346177",
+    "lat": "4.8984077",
+    "long": "102.3191597",
+    "name": "Felda Aring 4",
+    "isIn": "Kelantan"
+  }
+]

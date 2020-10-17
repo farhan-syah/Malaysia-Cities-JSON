@@ -1,0 +1,114 @@
+[
+  {
+    "id": "249666046",
+    "lat": "5.4065013",
+    "long": "100.2559077",
+    "name": "Pulau Pinang",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "591590403",
+    "lat": "5.8098265",
+    "long": "100.6715035",
+    "name": "Kedah",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "591590407",
+    "lat": "6.4868392",
+    "long": "100.2577623",
+    "name": "Perlis",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "1775640129",
+    "lat": "5.4257359",
+    "long": "117.0326392",
+    "name": "Sabah",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "2609539356",
+    "lat": "2.0229012",
+    "long": "103.3147721",
+    "name": "Johor",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "2609539371",
+    "lat": "2.5023855",
+    "long": "112.9547283",
+    "name": "Sarawak",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "3208142734",
+    "lat": "4.812181",
+    "long": "100.9797908",
+    "name": "Perak",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "3222282161",
+    "lat": "3.6168822",
+    "long": "102.5994547",
+    "name": "Pahang",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "3665372243",
+    "lat": "3.2083304",
+    "long": "101.304146",
+    "name": "Selangor",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4165045379",
+    "lat": "4.8630743",
+    "long": "102.9949297",
+    "name": "Terengganu",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4165056889",
+    "lat": "5.4021302",
+    "long": "102.0635972",
+    "name": "Kelantan",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4165116689",
+    "lat": "3.1526589",
+    "long": "101.7022205",
+    "name": "Federal Territory of Kuala Lumpur",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4165154141",
+    "lat": "2.2245111",
+    "long": "102.2614662",
+    "name": "Malacca",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4416752667",
+    "lat": "5.3168336",
+    "long": "115.2198613",
+    "name": "Federal Territory of Labuan",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4534491713",
+    "lat": "2.9384381",
+    "long": "101.69223",
+    "name": "Federal Territory of Putrajaya",
+    "isIn": "Malaysia"
+  },
+  {
+    "id": "4556962889",
+    "lat": "2.7831895",
+    "long": "102.1925319",
+    "name": "Negeri Sembilan",
+    "isIn": "Malaysia"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "254073010",
+    "lat": "2.2680368",
+    "long": "102.3772276",
+    "name": "Bemban",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073047",
+    "lat": "2.295102",
+    "long": "102.44027",
+    "name": "Sempang Kerayong",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073068",
+    "lat": "2.470452",
+    "long": "102.412684",
+    "name": "Batang Melaka",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073109",
+    "lat": "2.3131363",
+    "long": "102.2764253",
+    "name": "Durian Tunggal",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073118",
+    "lat": "2.4025056",
+    "long": "102.5438728",
+    "name": "Bukit Asahan",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073425",
+    "lat": "2.355555",
+    "long": "102.17042",
+    "name": "Lendu",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073447",
+    "lat": "2.3894861",
+    "long": "102.3763307",
+    "name": "Selandar",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073459",
+    "lat": "2.3521407",
+    "long": "102.1121384",
+    "name": "Masjid Tanah",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073525",
+    "lat": "2.223157",
+    "long": "102.162135",
+    "name": "Tanjung Keling",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073874",
+    "lat": "2.289078",
+    "long": "102.209955",
+    "name": "Paya Rumput",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254073887",
+    "lat": "2.4544675",
+    "long": "102.0715179",
+    "name": "Lubuk China",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074042",
+    "lat": "2.436236",
+    "long": "102.1844062",
+    "name": "Simpang Empat",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074196",
+    "lat": "2.3780795",
+    "long": "102.2089263",
+    "name": "Alor Gajah",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074274",
+    "lat": "2.14359",
+    "long": "102.426336",
+    "name": "Merlimau",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074329",
+    "lat": "2.162648",
+    "long": "102.487916",
+    "name": "Pekan Pasir",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074397",
+    "lat": "2.31891",
+    "long": "102.366136",
+    "name": "Kesang Pajak",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "254074465",
+    "lat": "2.3081946",
+    "long": "102.4303382",
+    "name": "Jasin",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "292190241",
+    "lat": "2.4446065",
+    "long": "102.2356626",
+    "name": "Pulau Sebang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "321322622",
+    "lat": "2.1942647",
+    "long": "102.2486651",
+    "name": "Bandaraya Melaka",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "359129564",
+    "lat": "2.2897987",
+    "long": "102.1304648",
+    "name": "Sungai Udang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "2014866912",
+    "lat": "2.2495394",
+    "long": "102.2196475",
+    "name": "Kg. Bertam Malim",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "2015010649",
+    "lat": "2.263839",
+    "long": "102.2013478",
+    "name": "Kg. Tanjung Minyak",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "2034566072",
+    "lat": "2.2210992",
+    "long": "102.186645",
+    "name": "Kg. Batang Tiga Timur",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "4428925556",
+    "lat": "2.3889696",
+    "long": "102.4706203",
+    "name": "Felda Bukit Senggeh",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "4473388940",
+    "lat": "2.2559735",
+    "long": "102.2927257",
+    "name": "Ayer Keroh",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "4908598963",
+    "lat": "2.2742468",
+    "long": "102.3686294",
+    "name": "Kampung Ulu Duyong",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "4913029222",
+    "lat": "2.3454741",
+    "long": "102.0690154",
+    "name": "Paya Mengkuang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5473792416",
+    "lat": "2.1245411",
+    "long": "102.4936869",
+    "name": "Sungai Rambai",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5658146700",
+    "lat": "2.3436206",
+    "long": "102.0695797",
+    "name": "Taman Mengkuang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5661995957",
+    "lat": "2.3457469",
+    "long": "102.0668132",
+    "name": "Kampung Baru Paya Mengkuang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5663079589",
+    "lat": "2.3806764",
+    "long": "102.5092084",
+    "name": "Kg Maju Pondok Batang",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5732854175",
+    "lat": "2.371066",
+    "long": "102.0381368",
+    "name": "Kampung Man Lok",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "5991229014",
+    "lat": "2.1931404",
+    "long": "102.3496324",
+    "name": "Kampung Paya Dalam",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "6002492958",
+    "lat": "2.3575617",
+    "long": "102.5120653",
+    "name": "Simpang Bekoh",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "6002548863",
+    "lat": "2.3925948",
+    "long": "102.5444061",
+    "name": "Asahan",
+    "isIn": "Melaka"
+  },
+  {
+    "id": "7353307059",
+    "lat": "2.4087721",
+    "long": "102.0625055",
+    "name": "Paya Lebar",
+    "isIn": "Melaka"
+  }
+]
